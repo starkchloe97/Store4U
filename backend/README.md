@@ -14,7 +14,7 @@ This is the active Laravel backend for Store4U. The admin SPA lives in admin/; t
 From the repository root, create a MySQL database (for example store4u) if you do not already have one. If your existing order tables are in another database, use that database name instead so those orders remain available.
 
     cd backend
-    Copy-Item .env.example .env
+    if (!(Test-Path .env)) { Copy-Item .env.example .env }
     composer install
     php artisan key:generate
 
@@ -57,7 +57,7 @@ The model hashes the password automatically. Only users with is_admin = true can
 Open a second PowerShell terminal from the repository root:
 
     cd admin
-    Copy-Item .env.example .env.local
+    if (!(Test-Path .env.local)) { Copy-Item .env.example .env.local }
     npm install
     npm run dev
 
