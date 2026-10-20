@@ -3,7 +3,7 @@ import { ref } from 'vue';
 import { RouterLink } from 'vue-router';
 import PageHero from '@/components/shared/PageHero.vue';
 import { SITE_NAME, SITE_PHONE, SITE_PHONE_RAW, SITE_EMAIL, SITE_ADDRESS_LINE1, SITE_ADDRESS_LINE2, SITE_PARTNER_EMAIL } from '@/config/siteInfo.js';
-import { submitSiteForm, collectTracking } from '@/utils/formSubmission.js';
+import { submitSiteForm } from '@/utils/formSubmission.js';
 
 const topics = ['Order status or shipping', 'Return or refund', 'Product question', 'Warranty claim', 'Wholesale or partnership', 'Something else'];
 const form = ref({ firstName: '', lastName: '', email: '', order: '', topic: '', message: '', website: '' });
@@ -41,7 +41,6 @@ async function submitContact() {
       topic: form.value.topic,
       message: form.value.message.trim(),
       website: form.value.website,
-      tracking: collectTracking()
     });
     submitted.value = true;
   } catch (error) {
