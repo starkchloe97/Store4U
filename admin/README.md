@@ -5,7 +5,7 @@ Standalone Vue 3 admin SPA for Store4U. The storefront is in frontend/, this adm
 ## Run locally
 
     cd admin
-    Copy-Item .env.example .env.local
+    if (!(Test-Path .env.local)) { Copy-Item .env.example .env.local }
     npm install
     npm run dev
 
