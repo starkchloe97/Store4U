@@ -1,0 +1,1611 @@
+{
+  "shipping": {
+    "title": "Shipping Policy",
+    "description": "How, when, and where we ship RV DREAMS orders within the United States.",
+    "blocks": [
+      {
+        "type": "p",
+        "runs": [
+          {
+            "text": "Last updated: January 2026 · Applies to all orders placed on www.rvdreamsllc.com"
+          }
+        ],
+        "class": "dateline"
+      },
+      {
+        "type": "h2",
+        "text": "Order processing"
+      },
+      {
+        "type": "p",
+        "runs": [
+          {
+            "text": "Orders placed before "
+          },
+          {
+            "text": "1:00 PM Central Time",
+            "tag": "strong"
+          },
+          {
+            "text": " on a business day are processed the same day. Orders placed after that cutoff, or on weekends and US federal holidays, are processed the next business day. You will receive a confirmation email with tracking information as soon as your label is generated."
+          }
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Shipping methods and delivery estimates"
+      },
+      {
+        "type": "ul",
+        "items": [
+          [
+            {
+              "text": "Standard Shipping (free on orders over $50):",
+              "tag": "strong"
+            },
+            {
+              "text": " 3–6 business days after processing. Orders under $50 ship for a flat $5.95."
+            }
+          ],
+          [
+            {
+              "text": "Expedited Shipping ($12.95):",
+              "tag": "strong"
+            },
+            {
+              "text": " 2–3 business days after processing."
+            }
+          ],
+          [
+            {
+              "text": "Priority Shipping ($24.95):",
+              "tag": "strong"
+            },
+            {
+              "text": " 1–2 business days after processing."
+            }
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "runs": [
+          {
+            "text": "Delivery estimates are provided by the carrier and are not guaranteed. Weather events, carrier delays, and peak-season volume can extend transit times. We will notify you by email if we become aware of a significant delay affecting your order."
+          }
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Where we ship"
+      },
+      {
+        "type": "p",
+        "runs": [
+          {
+            "text": "We ship to all 50 US states, Washington D.C., and US territories via USPS, UPS, and FedEx. "
+          },
+          {
+            "text": "We currently do not ship internationally.",
+            "tag": "strong"
+          },
+          {
+            "text": " We do not ship to PO boxes for expedited or priority orders; standard shipping to PO boxes is available."
+          }
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Shipping charges and taxes"
+      },
+      {
+        "type": "p",
+        "runs": [
+          {
+            "text": "Shipping charges are calculated at checkout and are based on order weight, destination, and selected service level. Applicable state and local sales tax is calculated at checkout based on the shipping address. RV DREAMS LLC collects sales tax in states where we have established economic nexus, in accordance with applicable state law."
+          }
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Lost, damaged, or missing packages"
+      },
+      {
+        "type": "p",
+        "runs": [
+          {
+            "text": "If tracking shows your package as delivered but you cannot locate it, please check with neighbors and your building's mail area first, then contact us within "
+          },
+          {
+            "text": "7 days",
+            "tag": "strong"
+          },
+          {
+            "text": " of the marked delivery date at "
+          },
+          {
+            "text": "support@rvdreamsllc.com",
+            "href": "mailto:support@rvdreamsllc.com"
+          },
+          {
+            "text": ". We will open a carrier trace and, if the package cannot be located, ship a replacement or issue a full refund at our discretion."
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "runs": [
+          {
+            "text": "If your order arrives visibly damaged, please photograph the packaging and contents before opening further and contact us within "
+          },
+          {
+            "text": "48 hours",
+            "tag": "strong"
+          },
+          {
+            "text": " of delivery. We will arrange a replacement at no cost."
+          }
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Incorrect addresses"
+      },
+      {
+        "type": "p",
+        "runs": [
+          {
+            "text": "Please verify your shipping address at checkout. If you need to change an address after placing an order, email us immediately — we can usually update it if the order has not yet shipped. Once an order has shipped, address changes are not possible and the order will be delivered to the original address. Orders returned to us as undeliverable will be refunded minus the original shipping cost."
+          }
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Order cancellation"
+      },
+      {
+        "type": "p",
+        "runs": [
+          {
+            "text": "You may cancel an order at no charge if it has not yet shipped. Email "
+          },
+          {
+            "text": "support@rvdreamsllc.com",
+            "href": "mailto:support@rvdreamsllc.com"
+          },
+          {
+            "text": " with your order number as soon as possible. Once an order has shipped, it is subject to our "
+          },
+          {
+            "text": "Returns & Refunds Policy",
+            "to": "/policies/returns/"
+          },
+          {
+            "text": "."
+          }
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Contact"
+      },
+      {
+        "type": "p",
+        "runs": [
+          {
+            "text": "Shipping questions: "
+          },
+          {
+            "text": "support@rvdreamsllc.com",
+            "href": "mailto:support@rvdreamsllc.com"
+          },
+          {
+            "text": " or (236) 506-1948, Monday–Friday, 9:00 AM – 5:00 PM Central Time."
+          }
+        ]
+      }
+    ]
+  },
+  "returns": {
+    "title": "Returns & Refunds Policy",
+    "description": "Thirty days, no restocking fee, and a real person on the other end.",
+    "blocks": [
+      {
+        "type": "p",
+        "runs": [
+          {
+            "text": "Last updated: January 2026 · Applies to all orders placed on www.rvdreamsllc.com"
+          }
+        ],
+        "class": "dateline"
+      },
+      {
+        "type": "callout",
+        "title": "The short version",
+        "runs": [
+          {
+            "text": "  Return any unused item within 30 days of delivery in its original packaging for a full refund of the purchase price. We do not charge restocking fees. Return shipping is free for defective or incorrect items. "
+          }
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Return window"
+      },
+      {
+        "type": "p",
+        "runs": [
+          {
+            "text": "You may return most items within "
+          },
+          {
+            "text": "30 calendar days",
+            "tag": "strong"
+          },
+          {
+            "text": " of the delivery date shown on your carrier tracking. Returns initiated after 30 days may be declined or issued as store credit at our discretion."
+          }
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Condition requirements"
+      },
+      {
+        "type": "p",
+        "runs": [
+          {
+            "text": "To qualify for a full refund, items must be:"
+          }
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          [
+            {
+              "text": "Unused and in the same condition you received them"
+            }
+          ],
+          [
+            {
+              "text": "In the original packaging, including all included accessories, hardware, and documentation"
+            }
+          ],
+          [
+            {
+              "text": "Free of damage caused after delivery, including scratches, stains, and odors"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "runs": [
+          {
+            "text": "Items returned in a condition that does not meet these requirements may be subject to a partial refund reflecting the loss in value, or may be returned to you at your expense."
+          }
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "How to start a return"
+      },
+      {
+        "type": "ol",
+        "items": [
+          [
+            {
+              "text": "Email "
+            },
+            {
+              "text": "support@rvdreamsllc.com",
+              "href": "mailto:support@rvdreamsllc.com"
+            },
+            {
+              "text": " with your order number and the reason for the return."
+            }
+          ],
+          [
+            {
+              "text": "We will reply within one business day with a Return Authorization number and shipping instructions."
+            }
+          ],
+          [
+            {
+              "text": "Pack the item securely in its original packaging and write the Return Authorization number on the outside of the box."
+            }
+          ],
+          [
+            {
+              "text": "Ship to the address provided. Returns sent without a Return Authorization number may be refused."
+            }
+          ]
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "Return shipping costs"
+      },
+      {
+        "type": "ul",
+        "items": [
+          [
+            {
+              "text": "Defective, damaged, or incorrect items:",
+              "tag": "strong"
+            },
+            {
+              "text": " We provide a prepaid return label. No cost to you."
+            }
+          ],
+          [
+            {
+              "text": "Change of mind, ordered by mistake, or no longer needed:",
+              "tag": "strong"
+            },
+            {
+              "text": " You are responsible for return shipping costs. We recommend a trackable service, as we cannot refund items lost in transit back to us."
+            }
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Refund processing"
+      },
+      {
+        "type": "p",
+        "runs": [
+          {
+            "text": "Once your return is received and inspected at our Dallas facility, we will notify you by email. Approved refunds are issued to the original payment method within "
+          },
+          {
+            "text": "3 business days",
+            "tag": "strong"
+          },
+          {
+            "text": " of inspection. Your bank or card issuer may take an additional 5–10 business days to post the credit. Original shipping charges are non-refundable unless the return is due to our error or a defective product."
+          }
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Exchanges"
+      },
+      {
+        "type": "p",
+        "runs": [
+          {
+            "text": "We do not process direct exchanges. To get a different item, return the original for a refund and place a new order. This ensures you receive the replacement as quickly as possible and avoids inventory hold times."
+          }
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Non-returnable items"
+      },
+      {
+        "type": "ul",
+        "items": [
+          [
+            {
+              "text": "Items marked \"Final Sale\" at the time of purchase"
+            }
+          ],
+          [
+            {
+              "text": "Items returned more than 30 days after delivery"
+            }
+          ],
+          [
+            {
+              "text": "Items damaged through misuse, alteration, or improper cleaning"
+            }
+          ],
+          [
+            {
+              "text": "Products missing original packaging, parts, or accessories"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Warranty claims"
+      },
+      {
+        "type": "p",
+        "runs": [
+          {
+            "text": "If a product fails due to a manufacturing defect within its warranty period, this is handled as a warranty claim rather than a return. See our "
+          },
+          {
+            "text": "Warranty page",
+            "to": "/policies/warranty/"
+          },
+          {
+            "text": " or email "
+          },
+          {
+            "text": "support@rvdreamsllc.com",
+            "href": "mailto:support@rvdreamsllc.com"
+          },
+          {
+            "text": " with photos of the defect and your order number."
+          }
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Damaged or incorrect items"
+      },
+      {
+        "type": "p",
+        "runs": [
+          {
+            "text": "If your order arrives damaged or you received the wrong item, contact us within "
+          },
+          {
+            "text": "48 hours",
+            "tag": "strong"
+          },
+          {
+            "text": " of delivery with photos of the packaging and product. We will ship a correct replacement at no cost or issue a full refund, including original shipping charges."
+          }
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Contact"
+      },
+      {
+        "type": "p",
+        "runs": [
+          {
+            "text": "Returns team: "
+          },
+          {
+            "text": "support@rvdreamsllc.com",
+            "href": "mailto:support@rvdreamsllc.com"
+          },
+          {
+            "break": true
+          },
+          {
+            "text": " Returns address: RV DREAMS LLC — Returns Dept., 10228 E Northwest Hwy, Dallas, TX 75238"
+          }
+        ]
+      }
+    ]
+  },
+  "warranty": {
+    "title": "Warranty",
+    "description": "Limited warranty coverage on every RV DREAMS product.",
+    "blocks": [
+      {
+        "type": "p",
+        "runs": [
+          {
+            "text": "Last updated: January 2026"
+          }
+        ],
+        "class": "dateline"
+      },
+      {
+        "type": "h2",
+        "text": "Coverage periods"
+      },
+      {
+        "type": "table",
+        "rows": [
+          [
+            [
+              {
+                "text": "Home Organization products"
+              }
+            ],
+            [
+              {
+                "text": "2 years from date of purchase"
+              }
+            ]
+          ],
+          [
+            [
+              {
+                "text": "Kitchen prep tools"
+              }
+            ],
+            [
+              {
+                "text": "2 years from date of purchase"
+              }
+            ]
+          ],
+          [
+            [
+              {
+                "text": "Storage & dispensing products"
+              }
+            ],
+            [
+              {
+                "text": "1 year from date of purchase"
+              }
+            ]
+          ],
+          [
+            [
+              {
+                "text": "Collapsible silicone funnels"
+              }
+            ],
+            [
+              {
+                "text": "Lifetime replacement"
+              }
+            ]
+          ]
+        ],
+        "class": "spec"
+      },
+      {
+        "type": "h2",
+        "text": "What is covered"
+      },
+      {
+        "type": "p",
+        "runs": [
+          {
+            "text": "RV DREAMS LLC warrants that its products will be free from defects in materials and workmanship under normal household use for the applicable coverage period. If a product fails due to a manufacturing defect, we will repair or replace it, or refund the purchase price, at our option."
+          }
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "What is not covered"
+      },
+      {
+        "type": "ul",
+        "items": [
+          [
+            {
+              "text": "Normal wear and tear, including surface scratches and cosmetic fading"
+            }
+          ],
+          [
+            {
+              "text": "Damage from misuse, abuse, or use inconsistent with the product instructions"
+            }
+          ],
+          [
+            {
+              "text": "Damage from improper cleaning, including dishwasher use where not stated as safe"
+            }
+          ],
+          [
+            {
+              "text": "Damage from heat exposure beyond stated temperature limits"
+            }
+          ],
+          [
+            {
+              "text": "Products purchased from unauthorized resellers"
+            }
+          ],
+          [
+            {
+              "text": "Commercial or institutional use"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "How to file a claim"
+      },
+      {
+        "type": "ol",
+        "items": [
+          [
+            {
+              "text": "Email "
+            },
+            {
+              "text": "support@rvdreamsllc.com",
+              "href": "mailto:support@rvdreamsllc.com"
+            },
+            {
+              "text": " with your order number, the product SKU, and a description of the failure."
+            }
+          ],
+          [
+            {
+              "text": "Include photographs showing the defect clearly."
+            }
+          ],
+          [
+            {
+              "text": "We will review the claim within 2 business days and respond with a resolution."
+            }
+          ],
+          [
+            {
+              "text": "Approved claims are resolved with a replacement part, a replacement unit, or a refund. We cover shipping on approved warranty replacements."
+            }
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Limitation of liability"
+      },
+      {
+        "type": "p",
+        "runs": [
+          {
+            "text": "This warranty is the sole and exclusive warranty offered by RV DREAMS LLC. To the maximum extent permitted by law, RV DREAMS LLC disclaims all other warranties, express or implied, including merchantability and fitness for a particular purpose. RV DREAMS LLC's total liability under this warranty shall not exceed the original purchase price of the product. Some states do not allow limitations on implied warranties, so the above limitation may not apply to you."
+          }
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Your statutory rights"
+      },
+      {
+        "type": "p",
+        "runs": [
+          {
+            "text": "This warranty gives you specific legal rights. You may also have other rights that vary by state. Nothing in this warranty is intended to limit any rights you have under applicable federal or state consumer protection law."
+          }
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Contact"
+      },
+      {
+        "type": "p",
+        "runs": [
+          {
+            "text": "Warranty team: "
+          },
+          {
+            "text": "support@rvdreamsllc.com",
+            "href": "mailto:support@rvdreamsllc.com"
+          },
+          {
+            "text": " · (236) 506-1948"
+          }
+        ]
+      }
+    ]
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "description": "The terms governing your use of www.rvdreamsllc.com and your purchase of RV DREAMS products.",
+    "blocks": [
+      {
+        "type": "p",
+        "runs": [
+          {
+            "text": "Last updated: January 2026 · Effective date: January 1, 2026"
+          }
+        ],
+        "class": "dateline"
+      },
+      {
+        "type": "h2",
+        "text": "1. Agreement to terms"
+      },
+      {
+        "type": "p",
+        "runs": [
+          {
+            "text": "These Terms of Service (\"Terms\") constitute a legally binding agreement between you (\"you\" or \"Customer\") and "
+          },
+          {
+            "text": "RV DREAMS LLC",
+            "tag": "strong"
+          },
+          {
+            "text": ", a Texas limited liability company with its principal place of business at 10228 E Northwest Hwy, Dallas, TX 75238 (\"RV DREAMS,\" \"we,\" \"us,\" or \"our\"). By accessing www.rvdreamsllc.com, creating an account, or placing an order, you agree to be bound by these Terms. If you do not agree, do not use the site."
+          }
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "2. Eligibility"
+      },
+      {
+        "type": "p",
+        "runs": [
+          {
+            "text": "You must be at least 18 years of age and capable of entering into a binding contract to place an order. By placing an order, you represent that the payment information you provide is accurate and that you are authorized to use the payment method."
+          }
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "3. Products, pricing, and availability"
+      },
+      {
+        "type": "p",
+        "runs": [
+          {
+            "text": "All prices are listed in US dollars and are subject to change without notice. We reserve the right to correct pricing errors, including after an order has been placed. If a pricing error is discovered, we will contact you before shipping and offer the option to proceed at the corrected price or cancel for a full refund."
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "runs": [
+          {
+            "text": "Product availability is not guaranteed. We may limit quantities, discontinue products, or refuse any order for any lawful reason, including orders that appear to be for resale without an authorized wholesale agreement."
+          }
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "4. Orders and acceptance"
+      },
+      {
+        "type": "p",
+        "runs": [
+          {
+            "text": "Your order constitutes an offer to purchase. Our order confirmation email acknowledges receipt but does not constitute acceptance. Acceptance occurs when we ship the order. We reserve the right to decline any order prior to shipment."
+          }
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "5. Payment"
+      },
+      {
+        "type": "p",
+        "runs": [
+          {
+            "text": "We accept major credit cards, debit cards, and the payment methods displayed at checkout. Payment is collected through the secure payment link in the invoice we email after you place your order, and orders ship once payment is received. You are responsible for any applicable taxes, duties, and fees associated with your purchase. Sales tax is collected in jurisdictions where RV DREAMS LLC has established economic nexus."
+          }
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "6. Shipping and risk of loss"
+      },
+      {
+        "type": "p",
+        "runs": [
+          {
+            "text": "Shipping terms are governed by our "
+          },
+          {
+            "text": "Shipping Policy",
+            "to": "/policies/shipping/"
+          },
+          {
+            "text": ", incorporated into these Terms by reference. Title and risk of loss pass to you upon delivery to the carrier, except where applicable law provides otherwise."
+          }
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "7. Returns and refunds"
+      },
+      {
+        "type": "p",
+        "runs": [
+          {
+            "text": "Returns and refunds are governed by our "
+          },
+          {
+            "text": "Returns & Refunds Policy",
+            "to": "/policies/returns/"
+          },
+          {
+            "text": ", incorporated into these Terms by reference."
+          }
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "8. Warranty"
+      },
+      {
+        "type": "p",
+        "runs": [
+          {
+            "text": "Product warranties are governed by our "
+          },
+          {
+            "text": "Warranty Policy",
+            "to": "/policies/warranty/"
+          },
+          {
+            "text": ", incorporated into these Terms by reference."
+          }
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "9. Intellectual property"
+      },
+      {
+        "type": "p",
+        "runs": [
+          {
+            "text": "All content on this site — including text, product descriptions, photographs, illustrations, logos, graphics, and the RV DREAMS name and mark — is the property of RV DREAMS LLC or its licensors and is protected by United States and international copyright and trademark law. You may not reproduce, distribute, modify, or create derivative works from any content without our prior written consent."
+          }
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "10. Acceptable use"
+      },
+      {
+        "type": "p",
+        "runs": [
+          {
+            "text": "You agree not to:"
+          }
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          [
+            {
+              "text": "Use the site for any unlawful purpose or in violation of any applicable law"
+            }
+          ],
+          [
+            {
+              "text": "Attempt to gain unauthorized access to any portion of the site or its systems"
+            }
+          ],
+          [
+            {
+              "text": "Use automated means to scrape, harvest, or extract data from the site"
+            }
+          ],
+          [
+            {
+              "text": "Interfere with the proper functioning of the site, including through denial-of-service attacks"
+            }
+          ],
+          [
+            {
+              "text": "Impersonate any person or entity, or misrepresent your affiliation"
+            }
+          ],
+          [
+            {
+              "text": "Submit false or misleading information, including fraudulent orders or chargeback claims"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "11. User submissions"
+      },
+      {
+        "type": "p",
+        "runs": [
+          {
+            "text": "If you submit a product review, comment, or other content, you grant RV DREAMS LLC a non-exclusive, worldwide, royalty-free, perpetual license to use, reproduce, and display that content in connection with our business. You represent that you own or have the right to submit the content and that it does not infringe any third party's rights."
+          }
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "12. Disclaimer of warranties"
+      },
+      {
+        "type": "p",
+        "runs": [
+          {
+            "text": "Except for the express limited warranty described in our Warranty Policy, the site and all products are provided \"as is\" and \"as available\" without warranty of any kind, express or implied, including implied warranties of merchantability, fitness for a particular purpose, and non-infringement. We do not warrant that the site will be uninterrupted, error-free, or free of harmful components."
+          }
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "13. Limitation of liability"
+      },
+      {
+        "type": "p",
+        "runs": [
+          {
+            "text": "To the maximum extent permitted by applicable law, RV DREAMS LLC shall not be liable for any indirect, incidental, special, consequential, or punitive damages, including lost profits, lost data, or business interruption, arising out of or relating to your use of the site or products, even if we have been advised of the possibility of such damages. Our total aggregate liability shall not exceed the amount you paid for the product giving rise to the claim."
+          }
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "14. Indemnification"
+      },
+      {
+        "type": "p",
+        "runs": [
+          {
+            "text": "You agree to indemnify, defend, and hold harmless RV DREAMS LLC and its officers, members, employees, and agents from any claims, liabilities, damages, losses, and expenses, including reasonable attorneys' fees, arising out of your violation of these Terms or your misuse of the site or products."
+          }
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "15. Governing law and venue"
+      },
+      {
+        "type": "p",
+        "runs": [
+          {
+            "text": "These Terms are governed by the laws of the State of Texas, without regard to its conflict of law principles. Any dispute arising under these Terms shall be brought exclusively in the state or federal courts located in Travis County, Texas, and you consent to personal jurisdiction in those courts."
+          }
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "16. Dispute resolution"
+      },
+      {
+        "type": "p",
+        "runs": [
+          {
+            "text": "Before filing any legal action, you agree to contact us at "
+          },
+          {
+            "text": "support@rvdreamsllc.com",
+            "href": "mailto:support@rvdreamsllc.com"
+          },
+          {
+            "text": " and attempt to resolve the dispute informally for at least 30 days. Nothing in this section prevents either party from seeking injunctive relief in court."
+          }
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "17. Severability"
+      },
+      {
+        "type": "p",
+        "runs": [
+          {
+            "text": "If any provision of these Terms is found to be unenforceable, the remaining provisions shall remain in full force and effect, and the unenforceable provision shall be modified to the minimum extent necessary to make it enforceable."
+          }
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "18. Changes to these terms"
+      },
+      {
+        "type": "p",
+        "runs": [
+          {
+            "text": "We may update these Terms from time to time. Material changes will be posted on this page with a revised \"Last updated\" date. Your continued use of the site after changes are posted constitutes acceptance of the revised Terms."
+          }
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "19. Contact"
+      },
+      {
+        "type": "p",
+        "runs": [
+          {
+            "text": "Questions about these Terms:"
+          },
+          {
+            "break": true
+          },
+          {
+            "text": " RV DREAMS LLC"
+          },
+          {
+            "break": true
+          },
+          {
+            "text": " 10228 E Northwest Hwy, Dallas, TX 75238"
+          },
+          {
+            "break": true
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "support@rvdreamsllc.com",
+            "href": "mailto:support@rvdreamsllc.com"
+          },
+          {
+            "text": " · (236) 506-1948"
+          }
+        ]
+      }
+    ]
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "description": "What we collect, why we collect it, and how you can control it.",
+    "blocks": [
+      {
+        "type": "p",
+        "runs": [
+          {
+            "text": "Last updated: January 2026 · Effective date: January 1, 2026"
+          }
+        ],
+        "class": "dateline"
+      },
+      {
+        "type": "h2",
+        "text": "1. Introduction"
+      },
+      {
+        "type": "p",
+        "runs": [
+          {
+            "text": "RV DREAMS LLC (\"RV DREAMS,\" \"we,\" \"us,\" or \"our\") operates www.rvdreamsllc.com. This Privacy Policy explains how we collect, use, disclose, and protect personal information when you visit our site, place an order, or contact us. We are the data controller for information collected through this site."
+          }
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "2. Information we collect"
+      },
+      {
+        "type": "h3",
+        "text": "Information you provide directly"
+      },
+      {
+        "type": "ul",
+        "items": [
+          [
+            {
+              "text": "Order information:",
+              "tag": "strong"
+            },
+            {
+              "text": " name, shipping address, billing address, email address, phone number, and order contents"
+            }
+          ],
+          [
+            {
+              "text": "Account information:",
+              "tag": "strong"
+            },
+            {
+              "text": " email address and password if you create an account"
+            }
+          ],
+          [
+            {
+              "text": "Communications:",
+              "tag": "strong"
+            },
+            {
+              "text": " the content of emails, contact form submissions, and support requests"
+            }
+          ],
+          [
+            {
+              "text": "Payment information:",
+              "tag": "strong"
+            },
+            {
+              "text": " processed by our third-party payment processor. We do not store full credit card numbers on our servers."
+            }
+          ]
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "Information collected automatically"
+      },
+      {
+        "type": "ul",
+        "items": [
+          [
+            {
+              "text": "IP address, browser type, device type, and operating system"
+            }
+          ],
+          [
+            {
+              "text": "Pages viewed, time on page, referring URL, and exit pages"
+            }
+          ],
+          [
+            {
+              "text": "Cookies and similar tracking technologies (see Section 5)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "3. How we use your information"
+      },
+      {
+        "type": "ul",
+        "items": [
+          [
+            {
+              "text": "To process, fulfill, and ship your orders"
+            }
+          ],
+          [
+            {
+              "text": "To communicate about your order, including confirmations, shipping updates, and delivery issues"
+            }
+          ],
+          [
+            {
+              "text": "To process returns, refunds, and warranty claims"
+            }
+          ],
+          [
+            {
+              "text": "To respond to your questions and support requests"
+            }
+          ],
+          [
+            {
+              "text": "To detect and prevent fraud, unauthorized transactions, and abuse"
+            }
+          ],
+          [
+            {
+              "text": "To comply with legal obligations, including tax and consumer protection laws"
+            }
+          ],
+          [
+            {
+              "text": "To improve our products, site, and customer experience"
+            }
+          ],
+          [
+            {
+              "text": "To send marketing emails if you have opted in (you may unsubscribe at any time)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "4. How we share your information"
+      },
+      {
+        "type": "p",
+        "runs": [
+          {
+            "text": "We do not sell your personal information. We share it only in the following circumstances:"
+          }
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          [
+            {
+              "text": "Service providers:",
+              "tag": "strong"
+            },
+            {
+              "text": " shipping carriers (USPS, UPS, FedEx), payment processors, email service providers, and analytics providers who process data on our behalf under contractual confidentiality obligations"
+            }
+          ],
+          [
+            {
+              "text": "Legal requirements:",
+              "tag": "strong"
+            },
+            {
+              "text": " when required by law, subpoena, court order, or to protect the rights, property, or safety of RV DREAMS, our customers, or others"
+            }
+          ],
+          [
+            {
+              "text": "Business transfers:",
+              "tag": "strong"
+            },
+            {
+              "text": " in connection with a merger, acquisition, or sale of assets, in which case your information may be transferred as part of the transaction"
+            }
+          ],
+          [
+            {
+              "text": "With your consent:",
+              "tag": "strong"
+            },
+            {
+              "text": " for any other purpose you specifically authorize"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "5. Cookies and tracking"
+      },
+      {
+        "type": "p",
+        "runs": [
+          {
+            "text": "We use cookies and similar technologies to keep your cart contents, remember your preferences, and analyze site traffic. You can control cookies through your browser settings. Disabling cookies may limit your ability to use certain features, including the shopping cart."
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "runs": [
+          {
+            "text": "We may use third-party analytics services that collect information about your use of the site. These providers have their own privacy policies governing their use of your information."
+          }
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "6. Your privacy rights"
+      },
+      {
+        "type": "h3",
+        "text": "California residents (CCPA/CPRA)"
+      },
+      {
+        "type": "p",
+        "runs": [
+          {
+            "text": "If you are a California resident, you have the right to:"
+          }
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          [
+            {
+              "text": "Know what personal information we collect, use, and disclose"
+            }
+          ],
+          [
+            {
+              "text": "Request deletion of your personal information, subject to certain exceptions"
+            }
+          ],
+          [
+            {
+              "text": "Request correction of inaccurate personal information"
+            }
+          ],
+          [
+            {
+              "text": "Opt out of the sale or sharing of personal information (we do not sell personal information)"
+            }
+          ],
+          [
+            {
+              "text": "Not be discriminated against for exercising your privacy rights"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "Other state residents"
+      },
+      {
+        "type": "p",
+        "runs": [
+          {
+            "text": "Residents of Virginia, Colorado, Connecticut, Utah, and other states with comprehensive privacy laws may have similar rights. To exercise any right, email "
+          },
+          {
+            "text": "support@rvdreamsllc.com",
+            "href": "mailto:support@rvdreamsllc.com"
+          },
+          {
+            "text": ". We will verify your identity and respond within 45 days."
+          }
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "7. Data retention"
+      },
+      {
+        "type": "p",
+        "runs": [
+          {
+            "text": "We retain order and transaction records for at least 7 years to comply with tax and accounting requirements. Marketing contact information is retained until you unsubscribe or request deletion. Support communications are retained for 3 years."
+          }
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "8. Data security"
+      },
+      {
+        "type": "p",
+        "runs": [
+          {
+            "text": "We use industry-standard safeguards including TLS/SSL encryption for data in transit, access controls, and encrypted storage for sensitive information. No method of transmission over the internet is completely secure, and we cannot guarantee absolute security."
+          }
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "9. Children's privacy"
+      },
+      {
+        "type": "p",
+        "runs": [
+          {
+            "text": "Our site is not directed to children under 13, and we do not knowingly collect personal information from children under 13. If we learn that we have collected such information, we will delete it promptly. If you believe a child has provided us with personal information, contact "
+          },
+          {
+            "text": "support@rvdreamsllc.com",
+            "href": "mailto:support@rvdreamsllc.com"
+          },
+          {
+            "text": "."
+          }
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "10. International visitors"
+      },
+      {
+        "type": "p",
+        "runs": [
+          {
+            "text": "Our site is intended for US customers. If you access the site from outside the United States, your information will be transferred to and processed in the United States, where privacy laws may differ from those in your jurisdiction."
+          }
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "11. Changes to this policy"
+      },
+      {
+        "type": "p",
+        "runs": [
+          {
+            "text": "We may update this Privacy Policy periodically. Material changes will be posted on this page with a revised \"Last updated\" date. We encourage you to review this page periodically."
+          }
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "12. Contact us"
+      },
+      {
+        "type": "p",
+        "runs": [
+          {
+            "text": "Privacy questions or requests:"
+          },
+          {
+            "break": true
+          },
+          {
+            "text": " RV DREAMS LLC — Privacy Office"
+          },
+          {
+            "break": true
+          },
+          {
+            "text": " 10228 E Northwest Hwy, Dallas, TX 75238"
+          },
+          {
+            "break": true
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "support@rvdreamsllc.com",
+            "href": "mailto:support@rvdreamsllc.com"
+          },
+          {
+            "text": " · (236) 506-1948"
+          }
+        ]
+      }
+    ]
+  },
+  "accessibility": {
+    "title": "Accessibility Statement",
+    "description": "Our commitment to making www.rvdreamsllc.com usable for everyone.",
+    "blocks": [
+      {
+        "type": "p",
+        "runs": [
+          {
+            "text": "Last updated: January 2026"
+          }
+        ],
+        "class": "dateline"
+      },
+      {
+        "type": "h2",
+        "text": "Our commitment"
+      },
+      {
+        "type": "p",
+        "runs": [
+          {
+            "text": "RV DREAMS LLC is committed to ensuring digital accessibility for people with disabilities. We continually improve the user experience for everyone and apply relevant accessibility standards to our website and communications."
+          }
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Conformance status"
+      },
+      {
+        "type": "p",
+        "runs": [
+          {
+            "text": "We aim to conform to the "
+          },
+          {
+            "text": "Web Content Accessibility Guidelines (WCAG) 2.2 Level AA",
+            "tag": "strong"
+          },
+          {
+            "text": ". These guidelines explain how to make web content more accessible for people with a wide range of disabilities. We are actively working toward full conformance and conduct periodic reviews of the site."
+          }
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Measures we take"
+      },
+      {
+        "type": "ul",
+        "items": [
+          [
+            {
+              "text": "Semantic HTML structure with proper heading hierarchy"
+            }
+          ],
+          [
+            {
+              "text": "Descriptive alternative text for meaningful images and decorative artwork"
+            }
+          ],
+          [
+            {
+              "text": "Keyboard navigation support throughout the site"
+            }
+          ],
+          [
+            {
+              "text": "Visible focus indicators on all interactive elements"
+            }
+          ],
+          [
+            {
+              "text": "Sufficient color contrast between text and background"
+            }
+          ],
+          [
+            {
+              "text": "Form fields with associated labels and clear error identification"
+            }
+          ],
+          [
+            {
+              "text": "Support for reduced-motion preferences via "
+            },
+            {
+              "text": "prefers-reduced-motion",
+              "tag": "code"
+            }
+          ],
+          [
+            {
+              "text": "Responsive layouts that work at 200% zoom without loss of content"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Known limitations"
+      },
+      {
+        "type": "p",
+        "runs": [
+          {
+            "text": "We are aware of the following limitations and are working to address them:"
+          }
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          [
+            {
+              "text": "Some product illustrations are decorative SVG graphics marked with "
+            },
+            {
+              "text": "aria-hidden",
+              "tag": "code"
+            },
+            {
+              "text": "; equivalent information is always provided in text form nearby."
+            }
+          ],
+          [
+            {
+              "text": "Third-party payment and analytics tools may not fully conform to WCAG 2.2 AA. We select vendors that demonstrate accessibility commitment where possible."
+            }
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Feedback and assistance"
+      },
+      {
+        "type": "p",
+        "runs": [
+          {
+            "text": "We welcome your feedback on the accessibility of www.rvdreamsllc.com. If you encounter an accessibility barrier, or if you need information from this site in an alternative format, please contact us:"
+          }
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          [
+            {
+              "text": "Email: "
+            },
+            {
+              "text": "support@rvdreamsllc.com",
+              "href": "mailto:support@rvdreamsllc.com"
+            }
+          ],
+          [
+            {
+              "text": "Phone: (236) 506-1948"
+            }
+          ],
+          [
+            {
+              "text": "Mail: RV DREAMS LLC — Accessibility, 10228 E Northwest Hwy, Dallas, TX 75238"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "runs": [
+          {
+            "text": "We aim to respond to accessibility feedback within 2 business days and to resolve confirmed issues within 30 days where feasible."
+          }
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Enforcement"
+      },
+      {
+        "type": "p",
+        "runs": [
+          {
+            "text": "If you are not satisfied with our response to an accessibility concern, you may contact the U.S. Department of Justice or file a complaint with the appropriate state or federal agency."
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,3832 @@
+{
+  "/404.html": {
+    "path": "/404.html",
+    "page": "404",
+    "title": "Page Not Found | RV DREAMS LLC",
+    "description": "The page you're looking for doesn't exist.",
+    "canonical": "https://www.rvdreamsllc.com/404.html",
+    "product": "",
+    "cat": "",
+    "structuredData": null
+  },
+  "/about/": {
+    "path": "/about/",
+    "page": "about",
+    "title": "About Us | RV DREAMS LLC",
+    "description": "RV DREAMS LLC is a Texas company based in Dallas selling home organization and kitchen products.",
+    "canonical": "https://www.rvdreamsllc.com/about/",
+    "product": "",
+    "cat": "",
+    "structuredData": null
+  },
+  "/accessibility/": {
+    "path": "/accessibility/",
+    "page": "accessibility",
+    "title": "Accessibility Statement | RV DREAMS LLC",
+    "description": "RV DREAMS's commitment to an accessible website.",
+    "canonical": "https://www.rvdreamsllc.com/accessibility/",
+    "product": "",
+    "cat": "",
+    "structuredData": null
+  },
+  "/cart/": {
+    "path": "/cart/",
+    "page": "cart",
+    "title": "Your Cart | RV DREAMS LLC",
+    "description": "Review the items in your RV DREAMS cart.",
+    "canonical": "https://www.rvdreamsllc.com/cart/",
+    "product": "",
+    "cat": "",
+    "structuredData": null
+  },
+  "/checkout/": {
+    "path": "/checkout/",
+    "page": "checkout",
+    "title": "Checkout | RV DREAMS LLC",
+    "description": "Complete your RV DREAMS order.",
+    "canonical": "https://www.rvdreamsllc.com/checkout/",
+    "product": "",
+    "cat": "",
+    "structuredData": null
+  },
+  "/collections/bathroom/": {
+    "path": "/collections/bathroom/",
+    "page": "shop",
+    "title": "Bathroom | RV DREAMS LLC",
+    "description": "Shower caddies, vanity organizers and bathroom storage.",
+    "canonical": "https://www.rvdreamsllc.com/collections/bathroom/",
+    "product": "",
+    "cat": "Bathroom",
+    "structuredData": null
+  },
+  "/collections/cabinet-drawer/": {
+    "path": "/collections/cabinet-drawer/",
+    "page": "shop",
+    "title": "Cabinet & Drawer | RV DREAMS LLC",
+    "description": "Drawer organizers, utensil trays and cabinet storage.",
+    "canonical": "https://www.rvdreamsllc.com/collections/cabinet-drawer/",
+    "product": "",
+    "cat": "Cabinet & Drawer",
+    "structuredData": null
+  },
+  "/collections/closet-entry/": {
+    "path": "/collections/closet-entry/",
+    "page": "shop",
+    "title": "Closet & Entry | RV DREAMS LLC",
+    "description": "Closet and entryway storage.",
+    "canonical": "https://www.rvdreamsllc.com/collections/closet-entry/",
+    "product": "",
+    "cat": "Closet & Entry",
+    "structuredData": null
+  },
+  "/collections/home-organization/": {
+    "path": "/collections/home-organization/",
+    "page": "shop",
+    "title": "Home Organization | RV DREAMS LLC",
+    "description": "Racks, shelves, bins and organizers for every room.",
+    "canonical": "https://www.rvdreamsllc.com/collections/home-organization/",
+    "product": "",
+    "cat": "Home Organization",
+    "structuredData": null
+  },
+  "/collections/kitchen/": {
+    "path": "/collections/kitchen/",
+    "page": "shop",
+    "title": "Kitchen | RV DREAMS LLC",
+    "description": "Kitchen utensils, gadgets, food storage and racks.",
+    "canonical": "https://www.rvdreamsllc.com/collections/kitchen/",
+    "product": "",
+    "cat": "Kitchen",
+    "structuredData": null
+  },
+  "/collections/laundry/": {
+    "path": "/collections/laundry/",
+    "page": "shop",
+    "title": "Laundry | RV DREAMS LLC",
+    "description": "Laundry baskets, hampers and laundry room organizers.",
+    "canonical": "https://www.rvdreamsllc.com/collections/laundry/",
+    "product": "",
+    "cat": "Laundry",
+    "structuredData": null
+  },
+  "/collections/prep-tools/": {
+    "path": "/collections/prep-tools/",
+    "page": "shop",
+    "title": "Prep Tools | RV DREAMS LLC",
+    "description": "Kitchen utensils and gadgets: scales, thermometers, openers and more.",
+    "canonical": "https://www.rvdreamsllc.com/collections/prep-tools/",
+    "product": "",
+    "cat": "Prep Tools",
+    "structuredData": null
+  },
+  "/collections/storage/": {
+    "path": "/collections/storage/",
+    "page": "shop",
+    "title": "Storage | RV DREAMS LLC",
+    "description": "Food storage containers, bag holders and kitchen storage racks.",
+    "canonical": "https://www.rvdreamsllc.com/collections/storage/",
+    "product": "",
+    "cat": "Storage",
+    "structuredData": null
+  },
+  "/contact/": {
+    "path": "/contact/",
+    "page": "contact",
+    "title": "Contact Us | RV DREAMS LLC",
+    "description": "Contact RV DREAMS customer support by email, phone or the contact form. Mon–Fri 9–5 CT.",
+    "canonical": "https://www.rvdreamsllc.com/contact/",
+    "product": "",
+    "cat": "",
+    "structuredData": null
+  },
+  "/faq/": {
+    "path": "/faq/",
+    "page": "faq",
+    "title": "FAQ | RV DREAMS LLC",
+    "description": "Answers about RV DREAMS shipping, returns, warranty and products.",
+    "canonical": "https://www.rvdreamsllc.com/faq/",
+    "product": "",
+    "cat": "",
+    "structuredData": null
+  },
+  "/": {
+    "path": "/",
+    "page": "home",
+    "title": "RV DREAMS LLC | Home Organization & Kitchen Storage",
+    "description": "Best-selling kitchen gadgets, food storage, drawer organizers and racks. Free US shipping over $50, 30-day returns.",
+    "canonical": "https://www.rvdreamsllc.com/",
+    "product": "",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "name": "RV DREAMS LLC",
+      "url": "https://www.rvdreamsllc.com",
+      "email": "support@rvdreamsllc.com",
+      "telephone": "",
+      "description": "RV DREAMS LLC sells home organization and kitchen products online. Based in Dallas, Texas.",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "10228 E Northwest Hwy",
+        "addressLocality": "Dallas",
+        "addressRegion": "TX",
+        "postalCode": "75238",
+        "addressCountry": "US"
+      }
+    }
+  },
+  "/policies/privacy/": {
+    "path": "/policies/privacy/",
+    "page": "privacy",
+    "title": "Privacy Policy | RV DREAMS LLC",
+    "description": "How RV DREAMS collects, uses and protects your information.",
+    "canonical": "https://www.rvdreamsllc.com/policies/privacy/",
+    "product": "",
+    "cat": "",
+    "structuredData": null
+  },
+  "/policies/returns/": {
+    "path": "/policies/returns/",
+    "page": "returns",
+    "title": "Returns & Refunds Policy | RV DREAMS LLC",
+    "description": "Return any unused RV DREAMS item within 30 days.",
+    "canonical": "https://www.rvdreamsllc.com/policies/returns/",
+    "product": "",
+    "cat": "",
+    "structuredData": null
+  },
+  "/policies/shipping/": {
+    "path": "/policies/shipping/",
+    "page": "shipping",
+    "title": "Shipping Policy | RV DREAMS LLC",
+    "description": "RV DREAMS shipping methods, delivery times and costs.",
+    "canonical": "https://www.rvdreamsllc.com/policies/shipping/",
+    "product": "",
+    "cat": "",
+    "structuredData": null
+  },
+  "/policies/terms/": {
+    "path": "/policies/terms/",
+    "page": "terms",
+    "title": "Terms of Service | RV DREAMS LLC",
+    "description": "Terms of service for www.rvdreamsllc.com.",
+    "canonical": "https://www.rvdreamsllc.com/policies/terms/",
+    "product": "",
+    "cat": "",
+    "structuredData": null
+  },
+  "/policies/warranty/": {
+    "path": "/policies/warranty/",
+    "page": "warranty",
+    "title": "Warranty | RV DREAMS LLC",
+    "description": "RV DREAMS 1–2 year limited warranty coverage and claims.",
+    "canonical": "https://www.rvdreamsllc.com/policies/warranty/",
+    "product": "",
+    "cat": "",
+    "structuredData": null
+  },
+  "/products/0-5-sec-instant-read-meat-thermometer-digital-for-cooking/": {
+    "path": "/products/0-5-sec-instant-read-meat-thermometer-digital-for-cooking/",
+    "page": "product",
+    "title": "0.5 Sec Instant Read Meat Thermometer Digital for Cooking, Red | RV DREAMS LLC",
+    "description": "【8X Faster + 4X More Precise】: Upgraded with an industrial-leading professional thermocouple sensor, Themomonster meat thermometer digital with NIST certif",
+    "canonical": "https://www.rvdreamsllc.com/products/0-5-sec-instant-read-meat-thermometer-digital-for-cooking/",
+    "product": "0-5-sec-instant-read-meat-thermometer-digital-for-cooking",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "0.5 Sec Instant Read Meat Thermometer Digital for Cooking, Red",
+      "sku": "OTG10014",
+      "brand": {
+        "@type": "Brand",
+        "name": "ThermoMonster"
+      },
+      "description": "【8X Faster + 4X More Precise】: Upgraded with an industrial-leading professional thermocouple sensor, Themomonster meat thermometer digital with NIST certif",
+      "image": "https://m.media-amazon.com/images/I/61is4F1PDOL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "12.31",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/0-5-sec-instant-read-meat-thermometer-digital-for-cooking/"
+      }
+    }
+  },
+  "/products/12-pack-magnetic-hooks-for-cruise-cabins-30lbs-heavy-duty/": {
+    "path": "/products/12-pack-magnetic-hooks-for-cruise-cabins-30lbs-heavy-duty/",
+    "page": "product",
+    "title": "12 Pack Magnetic Hooks for Cruise Cabins 30lbs Heavy Duty Magnet with  | RV DREAMS LLC",
+    "description": "Essential Cruise Hooks: Make your cruise experience seamless with these essential cruise magnetic hooks. Designed with powerful cruise magnetic hooks, perf",
+    "canonical": "https://www.rvdreamsllc.com/products/12-pack-magnetic-hooks-for-cruise-cabins-30lbs-heavy-duty/",
+    "product": "12-pack-magnetic-hooks-for-cruise-cabins-30lbs-heavy-duty",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "12 Pack Magnetic Hooks for Cruise Cabins 30lbs Heavy Duty Magnet with Hook",
+      "sku": "OTG10065",
+      "brand": {
+        "@type": "Brand",
+        "name": "Mukfirm"
+      },
+      "description": "Essential Cruise Hooks: Make your cruise experience seamless with these essential cruise magnetic hooks. Designed with powerful cruise magnetic hooks, perf",
+      "image": "https://m.media-amazon.com/images/I/71ADmlGATML._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "6.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/12-pack-magnetic-hooks-for-cruise-cabins-30lbs-heavy-duty/"
+      }
+    }
+  },
+  "/products/125pcs-8-inch-square-air-fryer-liners-disposable-for-5-8qt/": {
+    "path": "/products/125pcs-8-inch-square-air-fryer-liners-disposable-for-5-8qt/",
+    "page": "product",
+    "title": "125Pcs 8 Inch Square Air Fryer Liners Disposable for 5-8QT, Parchment  | RV DREAMS LLC",
+    "description": "Healthy Materials: The parchment liners for ninja air fryer made of raw wood and silicone coating, unbleached, no fluorescent agent, BPA-free, PFAs-free. W",
+    "canonical": "https://www.rvdreamsllc.com/products/125pcs-8-inch-square-air-fryer-liners-disposable-for-5-8qt/",
+    "product": "125pcs-8-inch-square-air-fryer-liners-disposable-for-5-8qt",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "125Pcs 8 Inch Square Air Fryer Liners Disposable for 5-8QT, Parchment Paper",
+      "sku": "OTG10008",
+      "brand": {
+        "@type": "Brand",
+        "name": "vailnd"
+      },
+      "description": "Healthy Materials: The parchment liners for ninja air fryer made of raw wood and silicone coating, unbleached, no fluorescent agent, BPA-free, PFAs-free. W",
+      "image": "https://m.media-amazon.com/images/I/710lcyAkSSL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "9.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/125pcs-8-inch-square-air-fryer-liners-disposable-for-5-8qt/"
+      }
+    }
+  },
+  "/products/2-in-1-multi-functional-kitchen-utensil-holder/": {
+    "path": "/products/2-in-1-multi-functional-kitchen-utensil-holder/",
+    "page": "product",
+    "title": "2 In 1 Multi-functional Kitchen Utensil Holder, Heavy Duty Stainless S | RV DREAMS LLC",
+    "description": "【2-in-1 Kitchen Utensil and Lid Rack】 Say goodbye to cluttered countertops. This compact utensil rack cleverly combines a pot lid holder and spoon rest int",
+    "canonical": "https://www.rvdreamsllc.com/products/2-in-1-multi-functional-kitchen-utensil-holder/",
+    "product": "2-in-1-multi-functional-kitchen-utensil-holder",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "2 In 1 Multi-functional Kitchen Utensil Holder, Heavy Duty Stainless Steel Pot Lid & Spoon Rack Space-Saving Vertical Stand for Spatulas, Tongs…",
+      "sku": "OTG10079",
+      "brand": {
+        "@type": "Brand",
+        "name": "2"
+      },
+      "description": "【2-in-1 Kitchen Utensil and Lid Rack】 Say goodbye to cluttered countertops. This compact utensil rack cleverly combines a pot lid holder and spoon rest int",
+      "image": "https://m.media-amazon.com/images/I/51JcI9xmLNL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "27.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/2-in-1-multi-functional-kitchen-utensil-holder/"
+      }
+    }
+  },
+  "/products/2-in-1-multi-functional-kitchen-utensil-holder-2/": {
+    "path": "/products/2-in-1-multi-functional-kitchen-utensil-holder-2/",
+    "page": "product",
+    "title": "2 In 1 Multi-Functional Kitchen Utensil Holder | RV DREAMS LLC",
+    "description": "【Multi-functional All-in-One Organizer】This utensil holder stores pot lids, spatulas, ladles, cutlery and cutting boards in one rack. It clears counter mes",
+    "canonical": "https://www.rvdreamsllc.com/products/2-in-1-multi-functional-kitchen-utensil-holder-2/",
+    "product": "2-in-1-multi-functional-kitchen-utensil-holder-2",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "2 In 1 Multi-Functional Kitchen Utensil Holder",
+      "sku": "OTG10084",
+      "brand": {
+        "@type": "Brand",
+        "name": "2"
+      },
+      "description": "【Multi-functional All-in-One Organizer】This utensil holder stores pot lids, spatulas, ladles, cutlery and cutting boards in one rack. It clears counter mes",
+      "image": "https://m.media-amazon.com/images/I/71wqp1kSnOL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "21.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/2-in-1-multi-functional-kitchen-utensil-holder-2/"
+      }
+    }
+  },
+  "/products/2-in1-multi-functional-kitchen-utensil-holder/": {
+    "path": "/products/2-in1-multi-functional-kitchen-utensil-holder/",
+    "page": "product",
+    "title": "2 In1 Multi-functional Kitchen Utensil Holder, Heavy Duty Stainless St | RV DREAMS LLC",
+    "description": "2-in-1 Utensil & Lid Holder – Maximize Counter Space – This kitchen utensil holder combines a pot lid rack and a spoon rest in one compact unit. Holds spat",
+    "canonical": "https://www.rvdreamsllc.com/products/2-in1-multi-functional-kitchen-utensil-holder/",
+    "product": "2-in1-multi-functional-kitchen-utensil-holder",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "2 In1 Multi-functional Kitchen Utensil Holder, Heavy Duty Stainless Steel Pot Lid & Spoon Rack, Space-Saving Vertical Stand for…",
+      "sku": "OTG10076",
+      "brand": {
+        "@type": "Brand",
+        "name": "Generic"
+      },
+      "description": "2-in-1 Utensil & Lid Holder – Maximize Counter Space – This kitchen utensil holder combines a pot lid rack and a spoon rest in one compact unit. Holds spat",
+      "image": "https://m.media-amazon.com/images/I/61lK2V8NBNL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "9.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/2-in1-multi-functional-kitchen-utensil-holder/"
+      }
+    }
+  },
+  "/products/2-packs-under-sink-pull-out-storage-organizers/": {
+    "path": "/products/2-packs-under-sink-pull-out-storage-organizers/",
+    "page": "product",
+    "title": "2 Packs Under Sink Pull-Out Storage Organizers, 12.8 Inches, Black | RV DREAMS LLC",
+    "description": "【2 Pack Value Set】Sized at 15” x 8” x 12.8” each, these organizers fit perfectly for bathroom organizers and storage, kitchen organizers and storage, under",
+    "canonical": "https://www.rvdreamsllc.com/products/2-packs-under-sink-pull-out-storage-organizers/",
+    "product": "2-packs-under-sink-pull-out-storage-organizers",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "2 Packs Under Sink Pull-Out Storage Organizers, 12.8 Inches, Black",
+      "sku": "OTG10127",
+      "brand": {
+        "@type": "Brand",
+        "name": "ukeetap"
+      },
+      "description": "【2 Pack Value Set】Sized at 15” x 8” x 12.8” each, these organizers fit perfectly for bathroom organizers and storage, kitchen organizers and storage, under",
+      "image": "https://m.media-amazon.com/images/I/811uMdiQm7L._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "17.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/2-packs-under-sink-pull-out-storage-organizers/"
+      }
+    }
+  },
+  "/products/5-75-h-green-and-brown-wide-cooking-utensil-holder-for/": {
+    "path": "/products/5-75-h-green-and-brown-wide-cooking-utensil-holder-for/",
+    "page": "product",
+    "title": "5.75\" H Green and Brown Wide Cooking Utensil Holder for Kitchen Counte | RV DREAMS LLC",
+    "description": "[Modern Farmhouse Style] The idea of the design is inspired by country rustic arrangement, exquisite chinoiserie floral design can be casually matched with",
+    "canonical": "https://www.rvdreamsllc.com/products/5-75-h-green-and-brown-wide-cooking-utensil-holder-for/",
+    "product": "5-75-h-green-and-brown-wide-cooking-utensil-holder-for",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "5.75\" H Green and Brown Wide Cooking Utensil Holder for Kitchen Counter, Modern Farmhouse Rustic Utensil Holder and Crock Home Kitchen Decor, Vintage…",
+      "sku": "OTG10078",
+      "brand": {
+        "@type": "Brand",
+        "name": "PORCER"
+      },
+      "description": "[Modern Farmhouse Style] The idea of the design is inspired by country rustic arrangement, exquisite chinoiserie floral design can be casually matched with",
+      "image": "https://m.media-amazon.com/images/I/81dq2Gag3lL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "27.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/5-75-h-green-and-brown-wide-cooking-utensil-holder-for/"
+      }
+    }
+  },
+  "/products/5-pcs-large-fruit-storage-containers-for-fridge/": {
+    "path": "/products/5-pcs-large-fruit-storage-containers-for-fridge/",
+    "page": "product",
+    "title": "5 PCS Large Fruit storage Containers for Fridge ,Food Storage Containe | RV DREAMS LLC",
+    "description": "Plastic",
+    "canonical": "https://www.rvdreamsllc.com/products/5-pcs-large-fruit-storage-containers-for-fridge/",
+    "product": "5-pcs-large-fruit-storage-containers-for-fridge",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "5 PCS Large Fruit storage Containers for Fridge ,Food Storage Containers",
+      "sku": "OTG10038",
+      "brand": {
+        "@type": "Brand",
+        "name": "Freshmage"
+      },
+      "description": "Plastic",
+      "image": "https://m.media-amazon.com/images/I/71G7Lu0rtvL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "19.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/5-pcs-large-fruit-storage-containers-for-fridge/"
+      }
+    }
+  },
+  "/products/6-pack-chip-bag-chips-food-clips-with-heavy-duty-tight-seal/": {
+    "path": "/products/6-pack-chip-bag-chips-food-clips-with-heavy-duty-tight-seal/",
+    "page": "product",
+    "title": "6 Pack Chip Bag Chips Food Clips with Heavy Duty Tight Seal Grip Plast | RV DREAMS LLC",
+    "description": "【Premium Material】These food clips are made of premium ABS + rubber + plastic, which is thick and strong, odorless, sturdy and suitable for long time use. ",
+    "canonical": "https://www.rvdreamsllc.com/products/6-pack-chip-bag-chips-food-clips-with-heavy-duty-tight-seal/",
+    "product": "6-pack-chip-bag-chips-food-clips-with-heavy-duty-tight-seal",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "6 Pack Chip Bag Chips Food Clips with Heavy Duty Tight Seal Grip Plastic Bags Clips for Food Storage Assorted Colors Food Bag Clips Snack Clips Small…",
+      "sku": "OTG10112",
+      "brand": {
+        "@type": "Brand",
+        "name": "TKYPZY"
+      },
+      "description": "【Premium Material】These food clips are made of premium ABS + rubber + plastic, which is thick and strong, odorless, sturdy and suitable for long time use. ",
+      "image": "https://m.media-amazon.com/images/I/61lofnfYL8L._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "5.74",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/6-pack-chip-bag-chips-food-clips-with-heavy-duty-tight-seal/"
+      }
+    }
+  },
+  "/products/acacia-wood-utensil-holder/": {
+    "path": "/products/acacia-wood-utensil-holder/",
+    "page": "product",
+    "title": "Acacia Wood Utensil Holder, 360° Rotating 7.3 in Kitchen Organizer | RV DREAMS LLC",
+    "description": "Large Kitchen Utensil Holder: This large kitchen utensil holder is perfect for keeping your kitchen countertops clutter-free. The 7.3\" x 5.9\" utensil holde",
+    "canonical": "https://www.rvdreamsllc.com/products/acacia-wood-utensil-holder/",
+    "product": "acacia-wood-utensil-holder",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Acacia Wood Utensil Holder, 360° Rotating 7.3 in Kitchen Organizer",
+      "sku": "OTG10062",
+      "brand": {
+        "@type": "Brand",
+        "name": "gorsent"
+      },
+      "description": "Large Kitchen Utensil Holder: This large kitchen utensil holder is perfect for keeping your kitchen countertops clutter-free. The 7.3\" x 5.9\" utensil holde",
+      "image": "https://m.media-amazon.com/images/I/713R4EPJveL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "19.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/acacia-wood-utensil-holder/"
+      }
+    }
+  },
+  "/products/acacia-wood-utensil-holder-2/": {
+    "path": "/products/acacia-wood-utensil-holder-2/",
+    "page": "product",
+    "title": "Acacia Wood Utensil Holder, 360° Rotating, Large Countertop Organizer, | RV DREAMS LLC",
+    "description": "LARGE AND STURDY UTENSIL CROCK: Our utensil crock is deep and large enough to hold more than 15 cooking utensils, keeping your kitchen organized and clutte",
+    "canonical": "https://www.rvdreamsllc.com/products/acacia-wood-utensil-holder-2/",
+    "product": "acacia-wood-utensil-holder-2",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Acacia Wood Utensil Holder, 360° Rotating, Large Countertop Organizer, Farmhouse Kitchen Decor",
+      "sku": "OTG10077",
+      "brand": {
+        "@type": "Brand",
+        "name": "LOHONER"
+      },
+      "description": "LARGE AND STURDY UTENSIL CROCK: Our utensil crock is deep and large enough to hold more than 15 cooking utensils, keeping your kitchen organized and clutte",
+      "image": "https://m.media-amazon.com/images/I/71iVKbt4BGL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "18.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/acacia-wood-utensil-holder-2/"
+      }
+    }
+  },
+  "/products/adhesive-wall-hook/": {
+    "path": "/products/adhesive-wall-hook/",
+    "page": "product",
+    "title": "Adhesive Wall Hook, Set Heavy-Duty Thickened self-Adhesive Hook，16Pcs， | RV DREAMS LLC",
+    "description": "NICE TRANSPARENT DESIGN - Unique transparent design makes the Wall Hooks almost invisible which is quite suitable for nice home decoration and outdoor deco",
+    "canonical": "https://www.rvdreamsllc.com/products/adhesive-wall-hook/",
+    "product": "adhesive-wall-hook",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Adhesive Wall Hook, Set Heavy-Duty Thickened self-Adhesive Hook，16Pcs，33lb max Loading，Transparent, Waterproof, Bathroom, Outdoor, Kitchen, Doors…",
+      "sku": "OTG10082",
+      "brand": {
+        "@type": "Brand",
+        "name": "PapaPick"
+      },
+      "description": "NICE TRANSPARENT DESIGN - Unique transparent design makes the Wall Hooks almost invisible which is quite suitable for nice home decoration and outdoor deco",
+      "image": "https://m.media-amazon.com/images/I/41FV9VrO6eL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "4.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/adhesive-wall-hook/"
+      }
+    }
+  },
+  "/products/air-fryer-liners-disposable/": {
+    "path": "/products/air-fryer-liners-disposable/",
+    "page": "product",
+    "title": "Air Fryer Liners Disposable, Unbleached Parchment Paper Baking Liners | RV DREAMS LLC",
+    "description": "HEALTHY MATERIALS - Our air fryer paper liners are crafted from raw wood with a silicone coating. They are unbleached, BPA-free, PFAs-free, waterproof, oil",
+    "canonical": "https://www.rvdreamsllc.com/products/air-fryer-liners-disposable/",
+    "product": "air-fryer-liners-disposable",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Air Fryer Liners Disposable, Unbleached Parchment Paper Baking Liners",
+      "sku": "OTG10004",
+      "brand": {
+        "@type": "Brand",
+        "name": "Baker's Signature"
+      },
+      "description": "HEALTHY MATERIALS - Our air fryer paper liners are crafted from raw wood with a silicone coating. They are unbleached, BPA-free, PFAs-free, waterproof, oil",
+      "image": "https://m.media-amazon.com/images/I/81Fr+9o0iWL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "9.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/air-fryer-liners-disposable/"
+      }
+    }
+  },
+  "/products/alpha-grillers-instant-read-meat-thermometer-digital/": {
+    "path": "/products/alpha-grillers-instant-read-meat-thermometer-digital/",
+    "page": "product",
+    "title": "Alpha Grillers Instant Read Meat Thermometer Digital, Cooking, Food, G | RV DREAMS LLC",
+    "description": "Instant Read Food Thermometer | Our instant read thermometer features a temperature probe and advanced, highly accurate technology with 1-2 seconds respons",
+    "canonical": "https://www.rvdreamsllc.com/products/alpha-grillers-instant-read-meat-thermometer-digital/",
+    "product": "alpha-grillers-instant-read-meat-thermometer-digital",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Alpha Grillers Instant Read Meat Thermometer Digital, Cooking, Food, Grill",
+      "sku": "OTG10005",
+      "brand": {
+        "@type": "Brand",
+        "name": "Alpha Grillers"
+      },
+      "description": "Instant Read Food Thermometer | Our instant read thermometer features a temperature probe and advanced, highly accurate technology with 1-2 seconds respons",
+      "image": "https://m.media-amazon.com/images/I/81bpKKv68-L._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "12.31",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/alpha-grillers-instant-read-meat-thermometer-digital/"
+      }
+    }
+  },
+  "/products/antonki-2-pack-digital-timer-for-kids-classroom-kitchen/": {
+    "path": "/products/antonki-2-pack-digital-timer-for-kids-classroom-kitchen/",
+    "page": "product",
+    "title": "Antonki 2 Pack Digital Timer for Kids Classroom Kitchen Timers for Coo | RV DREAMS LLC",
+    "description": "2‑PACK DIGITAL TIMER WITH BATTERY. This set includes 2 digital timers with 2 AAA batteries. It supports both count‑down and count‑up timing, max timing ran",
+    "canonical": "https://www.rvdreamsllc.com/products/antonki-2-pack-digital-timer-for-kids-classroom-kitchen/",
+    "product": "antonki-2-pack-digital-timer-for-kids-classroom-kitchen",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Antonki 2 Pack Digital Timer for Kids Classroom Kitchen Timers for Cooking",
+      "sku": "OTG10011",
+      "brand": {
+        "@type": "Brand",
+        "name": "Antonki"
+      },
+      "description": "2‑PACK DIGITAL TIMER WITH BATTERY. This set includes 2 digital timers with 2 AAA batteries. It supports both count‑down and count‑up timing, max timing ran",
+      "image": "https://m.media-amazon.com/images/I/71sA-jrfKxL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "6.26",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/antonki-2-pack-digital-timer-for-kids-classroom-kitchen/"
+      }
+    }
+  },
+  "/products/apple-peeler-corer/": {
+    "path": "/products/apple-peeler-corer/",
+    "page": "product",
+    "title": "Apple Peeler Corer, Long lasting Chrome Cast Magnesium Alloy Apple Pee | RV DREAMS LLC",
+    "description": "Capable of paring, coring and slicing; paring only; or slicing and coring only",
+    "canonical": "https://www.rvdreamsllc.com/products/apple-peeler-corer/",
+    "product": "apple-peeler-corer",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Apple Peeler Corer, Long lasting Chrome Cast Magnesium Alloy Apple Peeler Slicer Corer with Stainless Steel Blades and Powerful Suction Base for…",
+      "sku": "OTG10022",
+      "brand": {
+        "@type": "Brand",
+        "name": "tigwin"
+      },
+      "description": "Capable of paring, coring and slicing; paring only; or slicing and coring only",
+      "image": "https://m.media-amazon.com/images/I/613MFX7TuJL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "22.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/apple-peeler-corer/"
+      }
+    }
+  },
+  "/products/astofli-paper-towel-holder-under-cabinet-no-drilling/": {
+    "path": "/products/astofli-paper-towel-holder-under-cabinet-no-drilling/",
+    "page": "product",
+    "title": "ASTOFLI Paper Towel Holder Under Cabinet No Drilling, Self Adhesive Pa | RV DREAMS LLC",
+    "description": "☞【Applicable range】: Hanging Paper towel holder can be used to place towels,paper towel roll, plastic wrap, under cabinet paper towel holder and anything t",
+    "canonical": "https://www.rvdreamsllc.com/products/astofli-paper-towel-holder-under-cabinet-no-drilling/",
+    "product": "astofli-paper-towel-holder-under-cabinet-no-drilling",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "ASTOFLI Paper Towel Holder Under Cabinet No Drilling, Self Adhesive Paper Towel Holder Wall Mount for Kitchen Rack, Under Counter Napin Holder No…",
+      "sku": "OTG10124",
+      "brand": {
+        "@type": "Brand",
+        "name": "ASTOFLI"
+      },
+      "description": "☞【Applicable range】: Hanging Paper towel holder can be used to place towels,paper towel roll, plastic wrap, under cabinet paper towel holder and anything t",
+      "image": "https://m.media-amazon.com/images/I/41d5VqKhHDL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "8.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/astofli-paper-towel-holder-under-cabinet-no-drilling/"
+      }
+    }
+  },
+  "/products/bake-choice-200pcs-natural-tulip-cupcake-liners-for-baking/": {
+    "path": "/products/bake-choice-200pcs-natural-tulip-cupcake-liners-for-baking/",
+    "page": "product",
+    "title": "Bake Choice 200pcs Natural Tulip Cupcake Liners for Baking Muffin Line | RV DREAMS LLC",
+    "description": "Size/Color: Package includes 200 unbleached pieces of tulip cupcake liners in total. The bottom diameter of these cupcake cups is 1.97 inches (5 cm), fitti",
+    "canonical": "https://www.rvdreamsllc.com/products/bake-choice-200pcs-natural-tulip-cupcake-liners-for-baking/",
+    "product": "bake-choice-200pcs-natural-tulip-cupcake-liners-for-baking",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Bake Choice 200pcs Natural Tulip Cupcake Liners for Baking Muffin Liners",
+      "sku": "OTG10016",
+      "brand": {
+        "@type": "Brand",
+        "name": "Bake Choice"
+      },
+      "description": "Size/Color: Package includes 200 unbleached pieces of tulip cupcake liners in total. The bottom diameter of these cupcake cups is 1.97 inches (5 cm), fitti",
+      "image": "https://m.media-amazon.com/images/I/71IFPmReenL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "9.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/bake-choice-200pcs-natural-tulip-cupcake-liners-for-baking/"
+      }
+    }
+  },
+  "/products/barnyard-designs-ceramic-kitchen-utensil-holder-countertop/": {
+    "path": "/products/barnyard-designs-ceramic-kitchen-utensil-holder-countertop/",
+    "page": "product",
+    "title": "Barnyard Designs Ceramic Kitchen Utensil Holder Countertop 6.75″ (Whit | RV DREAMS LLC",
+    "description": "Ceramic Utensil Holder - Decorate, organize, and beautifully display your cooking utensils in this farmhouse kitchen utensil holder. A decorative kitchen u",
+    "canonical": "https://www.rvdreamsllc.com/products/barnyard-designs-ceramic-kitchen-utensil-holder-countertop/",
+    "product": "barnyard-designs-ceramic-kitchen-utensil-holder-countertop",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Barnyard Designs Ceramic Kitchen Utensil Holder Countertop 6.75″ (White)",
+      "sku": "OTG10063",
+      "brand": {
+        "@type": "Brand",
+        "name": "Barnyard Designs"
+      },
+      "description": "Ceramic Utensil Holder - Decorate, organize, and beautifully display your cooking utensils in this farmhouse kitchen utensil holder. A decorative kitchen u",
+      "image": "https://m.media-amazon.com/images/I/71lO5CZBgBL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "34.95",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/barnyard-designs-ceramic-kitchen-utensil-holder-countertop/"
+      }
+    }
+  },
+  "/products/bentgo-prep-meal-prep-containers-with-lids/": {
+    "path": "/products/bentgo-prep-meal-prep-containers-with-lids/",
+    "page": "product",
+    "title": "Bentgo Prep Meal Prep Containers with Lids, 20 Piece, PFAS & BPA-Free | RV DREAMS LLC",
+    "description": "#1 Brand Pick for Meal Prep Containers: Bentgo is the top pick for meal prep containers!* This lightweight, portable 20-piece set includes tennmnnmake port",
+    "canonical": "https://www.rvdreamsllc.com/products/bentgo-prep-meal-prep-containers-with-lids/",
+    "product": "bentgo-prep-meal-prep-containers-with-lids",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Bentgo Prep Meal Prep Containers with Lids, 20 Piece, PFAS & BPA-Free",
+      "sku": "OTG10039",
+      "brand": {
+        "@type": "Brand",
+        "name": "Bentgo"
+      },
+      "description": "#1 Brand Pick for Meal Prep Containers: Bentgo is the top pick for meal prep containers!* This lightweight, portable 20-piece set includes tennmnnmake port",
+      "image": "https://m.media-amazon.com/images/I/81oVaOv3bEL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "25.98",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/bentgo-prep-meal-prep-containers-with-lids/"
+      }
+    }
+  },
+  "/products/bino-plastic-storage-bins-large-2-pack-clear-the/": {
+    "path": "/products/bino-plastic-storage-bins-large-2-pack-clear-the/",
+    "page": "product",
+    "title": "BINO | Plastic Storage Bins, Large - 2 Pack, Clear | THE SOHO COLLECTI | RV DREAMS LLC",
+    "description": "Multipurpose Bins: Carefully designed to fit as much possible storage space. These plastic organizer bins are great for the kitchen, pantry, bedroom, bathr",
+    "canonical": "https://www.rvdreamsllc.com/products/bino-plastic-storage-bins-large-2-pack-clear-the/",
+    "product": "bino-plastic-storage-bins-large-2-pack-clear-the",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "BINO | Plastic Storage Bins, Large - 2 Pack, Clear | THE SOHO COLLECTION | Pantry Organizers and Storage Containers | Fridge Organizer Bins | Kitchen…",
+      "sku": "OTG10109",
+      "brand": {
+        "@type": "Brand",
+        "name": "BINO"
+      },
+      "description": "Multipurpose Bins: Carefully designed to fit as much possible storage space. These plastic organizer bins are great for the kitchen, pantry, bedroom, bathr",
+      "image": "https://m.media-amazon.com/images/I/61Z++R2nYYL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "22.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/bino-plastic-storage-bins-large-2-pack-clear-the/"
+      }
+    }
+  },
+  "/products/black-paper-towel-holder/": {
+    "path": "/products/black-paper-towel-holder/",
+    "page": "product",
+    "title": "Black Paper Towel Holder, Self Adhesive Paper Towel Holder Under Cabin | RV DREAMS LLC",
+    "description": "Excellent workmanship and more durable: paper towel holder using welding technology, beautiful and not easy to deformation; the high-quality stainless stee",
+    "canonical": "https://www.rvdreamsllc.com/products/black-paper-towel-holder/",
+    "product": "black-paper-towel-holder",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Black Paper Towel Holder, Self Adhesive Paper Towel Holder Under Cabinet",
+      "sku": "OTG10119",
+      "brand": {
+        "@type": "Brand",
+        "name": "Bollove"
+      },
+      "description": "Excellent workmanship and more durable: paper towel holder using welding technology, beautiful and not easy to deformation; the high-quality stainless stee",
+      "image": "https://m.media-amazon.com/images/I/61vCoDRLyxL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "8.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/black-paper-towel-holder/"
+      }
+    }
+  },
+  "/products/bonsenkitchen-precut-vacuum-sealer-bags-200-quart-8-x-12/": {
+    "path": "/products/bonsenkitchen-precut-vacuum-sealer-bags-200-quart-8-x-12/",
+    "page": "product",
+    "title": "Bonsenkitchen Precut Vacuum Sealer Bags 200 Quart 8\" x 12\", BPA Free | RV DREAMS LLC",
+    "description": "【BPA FREE】Bonsenkitchen food sealer roll bags can be microwaved, frozen, re-used, washed, boiled and dishwasher safe. Allows you to precisely control your ",
+    "canonical": "https://www.rvdreamsllc.com/products/bonsenkitchen-precut-vacuum-sealer-bags-200-quart-8-x-12/",
+    "product": "bonsenkitchen-precut-vacuum-sealer-bags-200-quart-8-x-12",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Bonsenkitchen Precut Vacuum Sealer Bags 200 Quart 8\" x 12\", BPA Free",
+      "sku": "OTG10049",
+      "brand": {
+        "@type": "Brand",
+        "name": "Bonsenkitchen"
+      },
+      "description": "【BPA FREE】Bonsenkitchen food sealer roll bags can be microwaved, frozen, re-used, washed, boiled and dishwasher safe. Allows you to precisely control your ",
+      "image": "https://m.media-amazon.com/images/I/61g2ey3Q7jL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "20.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/bonsenkitchen-precut-vacuum-sealer-bags-200-quart-8-x-12/"
+      }
+    }
+  },
+  "/products/bonsenkitchen-vacuum-sealer-rolls-bags/": {
+    "path": "/products/bonsenkitchen-vacuum-sealer-rolls-bags/",
+    "page": "product",
+    "title": "Bonsenkitchen Vacuum Sealer Rolls bags, 3 Rolls 11\"x 20'+ 3 Rolls 8\"x  | RV DREAMS LLC",
+    "description": "BPA FREE: Bonsenkitchen vacuum food sealer roll bags can be microwaved, frozen, re-used, washed, boiled and dishwasher safe. Allows you to precisely contro",
+    "canonical": "https://www.rvdreamsllc.com/products/bonsenkitchen-vacuum-sealer-rolls-bags/",
+    "product": "bonsenkitchen-vacuum-sealer-rolls-bags",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Bonsenkitchen Vacuum Sealer Rolls bags, 3 Rolls 11\"x 20'+ 3 Rolls 8\"x 20'",
+      "sku": "OTG10050",
+      "brand": {
+        "@type": "Brand",
+        "name": "Bonsenkitchen"
+      },
+      "description": "BPA FREE: Bonsenkitchen vacuum food sealer roll bags can be microwaved, frozen, re-used, washed, boiled and dishwasher safe. Allows you to precisely contro",
+      "image": "https://m.media-amazon.com/images/I/71Wb3UJocnL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "16.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/bonsenkitchen-vacuum-sealer-rolls-bags/"
+      }
+    }
+  },
+  "/products/canfanni-40-piece-food-storage-containers-with-lids/": {
+    "path": "/products/canfanni-40-piece-food-storage-containers-with-lids/",
+    "page": "product",
+    "title": "Canfanni 40 Piece Food Storage Containers with Lids, BPA-Free | RV DREAMS LLC",
+    "description": "Food Container Set：Our 40 pcs food storage containers Includes 20 containers and 20 lids, and 16 reusable labels and marker pen. This set includes 6 rectan",
+    "canonical": "https://www.rvdreamsllc.com/products/canfanni-40-piece-food-storage-containers-with-lids/",
+    "product": "canfanni-40-piece-food-storage-containers-with-lids",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Canfanni 40 Piece Food Storage Containers with Lids, BPA-Free",
+      "sku": "OTG10040",
+      "brand": {
+        "@type": "Brand",
+        "name": "Canfanni"
+      },
+      "description": "Food Container Set：Our 40 pcs food storage containers Includes 20 containers and 20 lids, and 16 reusable labels and marker pen. This set includes 6 rectan",
+      "image": "https://m.media-amazon.com/images/I/811TcTOXh7L._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "26.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/canfanni-40-piece-food-storage-containers-with-lids/"
+      }
+    }
+  },
+  "/products/carrotez-self-draining-utensil-drying-holder/": {
+    "path": "/products/carrotez-self-draining-utensil-drying-holder/",
+    "page": "product",
+    "title": "carrotez Self-Draining Utensil Drying Holder - Beige | RV DREAMS LLC",
+    "description": "A Self-Draining Kitchen Utensil Holder! Drop in your wet cutlery and watch excess water roll off the drainage spout and fall right into the sink! An all-in",
+    "canonical": "https://www.rvdreamsllc.com/products/carrotez-self-draining-utensil-drying-holder/",
+    "product": "carrotez-self-draining-utensil-drying-holder",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "carrotez Self-Draining Utensil Drying Holder - Beige",
+      "sku": "OTG10068",
+      "brand": {
+        "@type": "Brand",
+        "name": "carrotez"
+      },
+      "description": "A Self-Draining Kitchen Utensil Holder! Drop in your wet cutlery and watch excess water roll off the drainage spout and fall right into the sink! An all-in",
+      "image": "https://m.media-amazon.com/images/I/51mgyMex2FL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "23.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/carrotez-self-draining-utensil-drying-holder/"
+      }
+    }
+  },
+  "/products/chefaide-4-pack-ice-cube-tray/": {
+    "path": "/products/chefaide-4-pack-ice-cube-tray/",
+    "page": "product",
+    "title": "ChefAide 4 Pack Ice Cube Tray, Silicone Ice Cube Trays for Freezer wit | RV DREAMS LLC",
+    "description": "Generous Ice‑Making Capacity: The set includes 4 ice cube trays. Each tray makes 14 ice cubes at a time, delivering up to 56 ice cubes in total when all fo",
+    "canonical": "https://www.rvdreamsllc.com/products/chefaide-4-pack-ice-cube-tray/",
+    "product": "chefaide-4-pack-ice-cube-tray",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "ChefAide 4 Pack Ice Cube Tray, Silicone Ice Cube Trays for Freezer with Lid",
+      "sku": "OTG10024",
+      "brand": {
+        "@type": "Brand",
+        "name": "ChefAide"
+      },
+      "description": "Generous Ice‑Making Capacity: The set includes 4 ice cube trays. Each tray makes 14 ice cubes at a time, delivering up to 56 ice cubes in total when all fo",
+      "image": "https://m.media-amazon.com/images/I/71zj4ejO0LL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "6.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/chefaide-4-pack-ice-cube-tray/"
+      }
+    }
+  },
+  "/products/chefaide-5-pieces-silicone-spatulas-set/": {
+    "path": "/products/chefaide-5-pieces-silicone-spatulas-set/",
+    "page": "product",
+    "title": "ChefAide 5 Pieces Silicone Spatulas Set, Heat Resistant Rubber Spatula | RV DREAMS LLC",
+    "description": "Premium 100% Food Grade Silicone: The silicone spatula set is made of healthy and friendly material, resistant to high temperatures up to 600 °F. No more m",
+    "canonical": "https://www.rvdreamsllc.com/products/chefaide-5-pieces-silicone-spatulas-set/",
+    "product": "chefaide-5-pieces-silicone-spatulas-set",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "ChefAide 5 Pieces Silicone Spatulas Set, Heat Resistant Rubber Spatula",
+      "sku": "OTG10013",
+      "brand": {
+        "@type": "Brand",
+        "name": "ChefAide"
+      },
+      "description": "Premium 100% Food Grade Silicone: The silicone spatula set is made of healthy and friendly material, resistant to high temperatures up to 600 °F. No more m",
+      "image": "https://m.media-amazon.com/images/I/51hm8-fJJkL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "8.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/chefaide-5-pieces-silicone-spatulas-set/"
+      }
+    }
+  },
+  "/products/chicken-shredder-tool-twist-large-meat-shredder-with/": {
+    "path": "/products/chicken-shredder-tool-twist-large-meat-shredder-with/",
+    "page": "product",
+    "title": "Chicken Shredder Tool Twist Large Meat Shredder with Brush&Fork, Black | RV DREAMS LLC",
+    "description": "UPGRADED CHICKEN SHREDDER: Compared with the old chicken shredder, we have changed the inner shred structure and strong anti-slip strip, more effective and",
+    "canonical": "https://www.rvdreamsllc.com/products/chicken-shredder-tool-twist-large-meat-shredder-with/",
+    "product": "chicken-shredder-tool-twist-large-meat-shredder-with",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Chicken Shredder Tool Twist Large Meat Shredder with Brush&Fork, Black",
+      "sku": "OTG10018",
+      "brand": {
+        "@type": "Brand",
+        "name": "SURETIVIAN"
+      },
+      "description": "UPGRADED CHICKEN SHREDDER: Compared with the old chicken shredder, we have changed the inner shred structure and strong anti-slip strip, more effective and",
+      "image": "https://m.media-amazon.com/images/I/71d6vBNDknL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "22.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/chicken-shredder-tool-twist-large-meat-shredder-with/"
+      }
+    }
+  },
+  "/products/cisily-sink-caddy-sponge-holder-for-kitchen-with-brush/": {
+    "path": "/products/cisily-sink-caddy-sponge-holder-for-kitchen-with-brush/",
+    "page": "product",
+    "title": "Cisily Sink Caddy Sponge Holder for Kitchen with Brush Holder and Stai | RV DREAMS LLC",
+    "description": "304 Stainless Steel",
+    "canonical": "https://www.rvdreamsllc.com/products/cisily-sink-caddy-sponge-holder-for-kitchen-with-brush/",
+    "product": "cisily-sink-caddy-sponge-holder-for-kitchen-with-brush",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Cisily Sink Caddy Sponge Holder for Kitchen with Brush Holder and Stainless Steel Self Drain Tray, Rustproof Kitchen Sink Organizer for Sponge, Soap…",
+      "sku": "OTG10088",
+      "brand": {
+        "@type": "Brand",
+        "name": "Cisily"
+      },
+      "description": "304 Stainless Steel",
+      "image": "https://m.media-amazon.com/images/I/81nu9WnsHvL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "13.88",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/cisily-sink-caddy-sponge-holder-for-kitchen-with-brush/"
+      }
+    }
+  },
+  "/products/cisily-sponge-holder-for-kitchen-sink/": {
+    "path": "/products/cisily-sponge-holder-for-kitchen-sink/",
+    "page": "product",
+    "title": "Cisily Sponge Holder for Kitchen Sink, Sink Organizer with Brush Holde | RV DREAMS LLC",
+    "description": "【ROTATABLE SPOUT】This kitchen sink caddy comes with a rotatable spout that swivels in three directions so that the water in the sponge can be directed to t",
+    "canonical": "https://www.rvdreamsllc.com/products/cisily-sponge-holder-for-kitchen-sink/",
+    "product": "cisily-sponge-holder-for-kitchen-sink",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Cisily Sponge Holder for Kitchen Sink, Sink Organizer with Brush Holder",
+      "sku": "OTG10085",
+      "brand": {
+        "@type": "Brand",
+        "name": "Cisily"
+      },
+      "description": "【ROTATABLE SPOUT】This kitchen sink caddy comes with a rotatable spout that swivels in three directions so that the water in the sponge can be directed to t",
+      "image": "https://m.media-amazon.com/images/I/81shIEM-H2L._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "12.59",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/cisily-sponge-holder-for-kitchen-sink/"
+      }
+    }
+  },
+  "/products/clearspace-clear-plastic-storage-bins/": {
+    "path": "/products/clearspace-clear-plastic-storage-bins/",
+    "page": "product",
+    "title": "ClearSpace Clear Plastic Storage Bins – Pantry Organizers & Storage Co | RV DREAMS LLC",
+    "description": "IDEAL STORAGE CHOICE – These large capacity bins are great for creating a clean and organized refrigerator or pantry. Perfect deep plastic home storage org",
+    "canonical": "https://www.rvdreamsllc.com/products/clearspace-clear-plastic-storage-bins/",
+    "product": "clearspace-clear-plastic-storage-bins",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "ClearSpace Clear Plastic Storage Bins – Pantry Organizers & Storage Containers, Cabinet Organizer - Home Organization Must Haves for Kitchen, Laundry…",
+      "sku": "OTG10089",
+      "brand": {
+        "@type": "Brand",
+        "name": "ClearSpace"
+      },
+      "description": "IDEAL STORAGE CHOICE – These large capacity bins are great for creating a clean and organized refrigerator or pantry. Perfect deep plastic home storage org",
+      "image": "https://m.media-amazon.com/images/I/71b5YosDyVL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "39.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/clearspace-clear-plastic-storage-bins/"
+      }
+    }
+  },
+  "/products/clearspace-pantry-organizers-and-storage-and-cabinet/": {
+    "path": "/products/clearspace-pantry-organizers-and-storage-and-cabinet/",
+    "page": "product",
+    "title": "ClearSpace Pantry Organizers and Storage and Cabinet Organizer, 2 Pack | RV DREAMS LLC",
+    "description": "STORE & ORGANIZE - This divided bin with removable dividers is great for creating a clean and organized refrigerator or pantry. Great for separating and or",
+    "canonical": "https://www.rvdreamsllc.com/products/clearspace-pantry-organizers-and-storage-and-cabinet/",
+    "product": "clearspace-pantry-organizers-and-storage-and-cabinet",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "ClearSpace Pantry Organizers and Storage and Cabinet Organizer, 2 Pack",
+      "sku": "OTG10098",
+      "brand": {
+        "@type": "Brand",
+        "name": "ClearSpace"
+      },
+      "description": "STORE & ORGANIZE - This divided bin with removable dividers is great for creating a clean and organized refrigerator or pantry. Great for separating and or",
+      "image": "https://m.media-amazon.com/images/I/71+7S5Hy5lL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "23.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/clearspace-pantry-organizers-and-storage-and-cabinet/"
+      }
+    }
+  },
+  "/products/comsaf-large-square-glass-jars-with-airtight-lids-78-oz-3/": {
+    "path": "/products/comsaf-large-square-glass-jars-with-airtight-lids-78-oz-3/",
+    "page": "product",
+    "title": "ComSaf Large Square Glass Jars with Airtight Lids 78 oz 3 Pack Wide Mo | RV DREAMS LLC",
+    "description": "The 4lb Sugar & 5lb Rice Solution: Finally, a worthy home for your bulk buys. Each extra-large 78oz (0.6 Gal / 2.3L) jar is engineered to perfectly store c",
+    "canonical": "https://www.rvdreamsllc.com/products/comsaf-large-square-glass-jars-with-airtight-lids-78-oz-3/",
+    "product": "comsaf-large-square-glass-jars-with-airtight-lids-78-oz-3",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "ComSaf Large Square Glass Jars with Airtight Lids 78 oz 3 Pack Wide Mouth",
+      "sku": "OTG10051",
+      "brand": {
+        "@type": "Brand",
+        "name": "ComSaf"
+      },
+      "description": "The 4lb Sugar & 5lb Rice Solution: Finally, a worthy home for your bulk buys. Each extra-large 78oz (0.6 Gal / 2.3L) jar is engineered to perfectly store c",
+      "image": "https://m.media-amazon.com/images/I/71AjxjXfoqL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "29.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/comsaf-large-square-glass-jars-with-airtight-lids-78-oz-3/"
+      }
+    }
+  },
+  "/products/dealusy-10-sets-36-oz-12-oz-glass-food-storage-containers/": {
+    "path": "/products/dealusy-10-sets-36-oz-12-oz-glass-food-storage-containers/",
+    "page": "product",
+    "title": "Dealusy 10 Sets 36 oz & 12 oz Glass Food Storage Containers with lids, | RV DREAMS LLC",
+    "description": "【10-Pack Value Combo】 This value package includes 5 large 36 oz containers and 5 small 12 oz containers with matching lids. It is the perfect choice for yo",
+    "canonical": "https://www.rvdreamsllc.com/products/dealusy-10-sets-36-oz-12-oz-glass-food-storage-containers/",
+    "product": "dealusy-10-sets-36-oz-12-oz-glass-food-storage-containers",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Dealusy 10 Sets 36 oz & 12 oz Glass Food Storage Containers with lids, Gray",
+      "sku": "OTG10043",
+      "brand": {
+        "@type": "Brand",
+        "name": "Dealusy"
+      },
+      "description": "【10-Pack Value Combo】 This value package includes 5 large 36 oz containers and 5 small 12 oz containers with matching lids. It is the perfect choice for yo",
+      "image": "https://m.media-amazon.com/images/I/813MYhv+9JL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "39.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/dealusy-10-sets-36-oz-12-oz-glass-food-storage-containers/"
+      }
+    }
+  },
+  "/products/diymag-magnetic-hooks/": {
+    "path": "/products/diymag-magnetic-hooks/",
+    "page": "product",
+    "title": "DIYMAG Magnetic Hooks, 30lbs 6pcs Cruise Cabin Essentials Heavy Duty N | RV DREAMS LLC",
+    "description": "【High Quality】The strong magnetic hook is made of neodymium magnet and high quality A3 steel, the hook is strong and reliable. And the size is very portabl",
+    "canonical": "https://www.rvdreamsllc.com/products/diymag-magnetic-hooks/",
+    "product": "diymag-magnetic-hooks",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "DIYMAG Magnetic Hooks, 30lbs 6pcs Cruise Cabin Essentials Heavy Duty N52",
+      "sku": "OTG10058",
+      "brand": {
+        "@type": "Brand",
+        "name": "DIYMAG"
+      },
+      "description": "【High Quality】The strong magnetic hook is made of neodymium magnet and high quality A3 steel, the hook is strong and reliable. And the size is very portabl",
+      "image": "https://m.media-amazon.com/images/I/71nnG-nB7XL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "5.98",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/diymag-magnetic-hooks/"
+      }
+    }
+  },
+  "/products/doqaus-ice-cube-tray-with-lid-and-bin/": {
+    "path": "/products/doqaus-ice-cube-tray-with-lid-and-bin/",
+    "page": "product",
+    "title": "DOQAUS Ice Cube Tray with Lid and Bin,4 Pack Ice Cube Trays for Freeze | RV DREAMS LLC",
+    "description": "✅ Organize Your Freezer with a Complete Ice System: This ice cube tray with lid and bin set solves freezer clutter by combining 4 silicone ice cube trays, ",
+    "canonical": "https://www.rvdreamsllc.com/products/doqaus-ice-cube-tray-with-lid-and-bin/",
+    "product": "doqaus-ice-cube-tray-with-lid-and-bin",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "DOQAUS Ice Cube Tray with Lid and Bin,4 Pack Ice Cube Trays for Freezer",
+      "sku": "OTG10021",
+      "brand": {
+        "@type": "Brand",
+        "name": "DOQAUS"
+      },
+      "description": "✅ Organize Your Freezer with a Complete Ice System: This ice cube tray with lid and bin set solves freezer clutter by combining 4 silicone ice cube trays, ",
+      "image": "https://m.media-amazon.com/images/I/61NNkHyvrjL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "13.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/doqaus-ice-cube-tray-with-lid-and-bin/"
+      }
+    }
+  },
+  "/products/dowan-360-rotating-extra-large-cooking-utensil-holder/": {
+    "path": "/products/dowan-360-rotating-extra-large-cooking-utensil-holder/",
+    "page": "product",
+    "title": "DOWAN 360° Rotating Extra Large Cooking Utensil Holder, 7.6\" Kitchen U | RV DREAMS LLC",
+    "description": "360° Rotating Convenience: Say goodbye to fumbling for utensils! Our rotating kitchen utensil holder offers a smooth, silent spin, ensuring a noise-free ex",
+    "canonical": "https://www.rvdreamsllc.com/products/dowan-360-rotating-extra-large-cooking-utensil-holder/",
+    "product": "dowan-360-rotating-extra-large-cooking-utensil-holder",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "DOWAN 360° Rotating Extra Large Cooking Utensil Holder, 7.6\" Kitchen Utensil Holder for Countertop, Utensil Crock for Farmhouse Kitchen Decor…",
+      "sku": "OTG10073",
+      "brand": {
+        "@type": "Brand",
+        "name": "DOWAN"
+      },
+      "description": "360° Rotating Convenience: Say goodbye to fumbling for utensils! Our rotating kitchen utensil holder offers a smooth, silent spin, ensuring a noise-free ex",
+      "image": "https://m.media-amazon.com/images/I/81JfWQ0apOL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "29.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/dowan-360-rotating-extra-large-cooking-utensil-holder/"
+      }
+    }
+  },
+  "/products/electric-salt-and-pepper-grinder-set-automatic-battery/": {
+    "path": "/products/electric-salt-and-pepper-grinder-set-automatic-battery/",
+    "page": "product",
+    "title": "Electric Salt and Pepper Grinder Set Automatic Battery Pepper Mill Sha | RV DREAMS LLC",
+    "description": "★【𝟱 𝗔𝗱𝗷𝘂𝘀𝘁𝗮𝗯𝗹𝗲 𝗟𝗲𝘃𝗲𝗹𝘀 𝗳𝗼𝗿 𝗣𝗿𝗲𝗰𝗶𝘀𝗲 𝗮𝗻𝗱 𝗘𝘃𝗲𝗻 𝗦𝗲𝗮𝘀𝗼𝗻𝗶𝗻𝗴】You know that moment when flavor feels just a bit off? Our 5 adjustable levels bring precision to ever",
+    "canonical": "https://www.rvdreamsllc.com/products/electric-salt-and-pepper-grinder-set-automatic-battery/",
+    "product": "electric-salt-and-pepper-grinder-set-automatic-battery",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Electric Salt and Pepper Grinder Set Automatic Battery Pepper Mill Shakers Adjustable Coarseness Upgraded Larger Capacity with Led Home and Kitchen…",
+      "sku": "OTG10025",
+      "brand": {
+        "@type": "Brand",
+        "name": "ioion"
+      },
+      "description": "★【𝟱 𝗔𝗱𝗷𝘂𝘀𝘁𝗮𝗯𝗹𝗲 𝗟𝗲𝘃𝗲𝗹𝘀 𝗳𝗼𝗿 𝗣𝗿𝗲𝗰𝗶𝘀𝗲 𝗮𝗻𝗱 𝗘𝘃𝗲𝗻 𝗦𝗲𝗮𝘀𝗼𝗻𝗶𝗻𝗴】You know that moment when flavor feels just a bit off? Our 5 adjustable levels bring precision to ever",
+      "image": "https://m.media-amazon.com/images/I/71NpF4JP7HL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "19.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/electric-salt-and-pepper-grinder-set-automatic-battery/"
+      }
+    }
+  },
+  "/products/etekcity-food-kitchen-scale/": {
+    "path": "/products/etekcity-food-kitchen-scale/",
+    "page": "product",
+    "title": "Etekcity Food Kitchen Scale, Digital Grams and Ounces, 11lb | RV DREAMS LLC",
+    "description": "𝗘𝗳𝗳𝗼𝗿𝘁𝗹𝗲𝘀𝘀 𝗪𝗲𝗶𝗴𝗵𝗶𝗻𝗴: Supports 5 units (oz/lb:oz/fl'oz/g/mL), tare function, and includes 2 AAA batteries for hassle-free operation",
+    "canonical": "https://www.rvdreamsllc.com/products/etekcity-food-kitchen-scale/",
+    "product": "etekcity-food-kitchen-scale",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Etekcity Food Kitchen Scale, Digital Grams and Ounces, 11lb",
+      "sku": "OTG10001",
+      "brand": {
+        "@type": "Brand",
+        "name": "Etekcity"
+      },
+      "description": "𝗘𝗳𝗳𝗼𝗿𝘁𝗹𝗲𝘀𝘀 𝗪𝗲𝗶𝗴𝗵𝗶𝗻𝗴: Supports 5 units (oz/lb:oz/fl'oz/g/mL), tare function, and includes 2 AAA batteries for hassle-free operation",
+      "image": "https://m.media-amazon.com/images/I/91YrLTBnMcL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "17.98",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/etekcity-food-kitchen-scale/"
+      }
+    }
+  },
+  "/products/fikoksol-cutting-board-organizer-storage/": {
+    "path": "/products/fikoksol-cutting-board-organizer-storage/",
+    "page": "product",
+    "title": "Fikoksol Cutting Board Organizer Storage, Baking Sheet Rack under Cabi | RV DREAMS LLC",
+    "description": "🎁【Suitable for Different Cutting Boards】 -- The Fikoksol cutting board storage rack has 5 storage slots. This product was updated in April 2025. The new mo",
+    "canonical": "https://www.rvdreamsllc.com/products/fikoksol-cutting-board-organizer-storage/",
+    "product": "fikoksol-cutting-board-organizer-storage",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Fikoksol Cutting Board Organizer Storage, Baking Sheet Rack under Cabinet",
+      "sku": "OTG10111",
+      "brand": {
+        "@type": "Brand",
+        "name": "Fikoksol"
+      },
+      "description": "🎁【Suitable for Different Cutting Boards】 -- The Fikoksol cutting board storage rack has 5 storage slots. This product was updated in April 2025. The new mo",
+      "image": "https://m.media-amazon.com/images/I/71CTZCAILoL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "19.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/fikoksol-cutting-board-organizer-storage/"
+      }
+    }
+  },
+  "/products/food-scale-11lb-kitchen-scale-with-6-units-tare-function/": {
+    "path": "/products/food-scale-11lb-kitchen-scale-with-6-units-tare-function/",
+    "page": "product",
+    "title": "Food Scale, 11lb Kitchen Scale with 6 Units Tare Function & LCD Displa | RV DREAMS LLC",
+    "description": "[MULTI-FUNCTION SWITCHING MODE]--Food scale can bear a maximum weight of 11LB, and can also provide you with a weight scale accurate to 1 g/0.05 oz. The me",
+    "canonical": "https://www.rvdreamsllc.com/products/food-scale-11lb-kitchen-scale-with-6-units-tare-function/",
+    "product": "food-scale-11lb-kitchen-scale-with-6-units-tare-function",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Food Scale, 11lb Kitchen Scale with 6 Units Tare Function & LCD Display, 0.05oz/1g Stainless Steel Digital Food Scale Grams and Ounces for Baking…",
+      "sku": "OTG10015",
+      "brand": {
+        "@type": "Brand",
+        "name": "SOYOK"
+      },
+      "description": "[MULTI-FUNCTION SWITCHING MODE]--Food scale can bear a maximum weight of 11LB, and can also provide you with a weight scale accurate to 1 g/0.05 oz. The me",
+      "image": "https://m.media-amazon.com/images/I/716Rt+On9cL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "6.98",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/food-scale-11lb-kitchen-scale-with-6-units-tare-function/"
+      }
+    }
+  },
+  "/products/foodsaver-custom-length-vacuum-sealer-bags-multipack/": {
+    "path": "/products/foodsaver-custom-length-vacuum-sealer-bags-multipack/",
+    "page": "product",
+    "title": "FoodSaver Custom Length Vacuum Sealer Bags Multipack, 5 Count Rolls fo | RV DREAMS LLC",
+    "description": "Made in USA: Proudly manufactured in the United States",
+    "canonical": "https://www.rvdreamsllc.com/products/foodsaver-custom-length-vacuum-sealer-bags-multipack/",
+    "product": "foodsaver-custom-length-vacuum-sealer-bags-multipack",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "FoodSaver Custom Length Vacuum Sealer Bags Multipack, 5 Count Rolls for Airtight Food Storage and Sous Vide - Compatible with FoodSaver, 8 (2 Pack)…",
+      "sku": "OTG10029",
+      "brand": {
+        "@type": "Brand",
+        "name": "FoodSaver"
+      },
+      "description": "Made in USA: Proudly manufactured in the United States",
+      "image": "https://m.media-amazon.com/images/I/81cRtnJvHoL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "29.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/foodsaver-custom-length-vacuum-sealer-bags-multipack/"
+      }
+    }
+  },
+  "/products/freezer-organizer-bins/": {
+    "path": "/products/freezer-organizer-bins/",
+    "page": "product",
+    "title": "Freezer Organizer Bins, 4 Pack Big Baskets for 5/ 7 Cu.FT Deep Freezer | RV DREAMS LLC",
+    "description": "【Patented Design】MSERCUOR deep freezer organizer bins are made of antirust metal, which has good corrosion resistance and can effectively prevent rust and ",
+    "canonical": "https://www.rvdreamsllc.com/products/freezer-organizer-bins/",
+    "product": "freezer-organizer-bins",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Freezer Organizer Bins, 4 Pack Big Baskets for 5/ 7 Cu.FT Deep Freezer",
+      "sku": "OTG10107",
+      "brand": {
+        "@type": "Brand",
+        "name": "MSERCUOR"
+      },
+      "description": "【Patented Design】MSERCUOR deep freezer organizer bins are made of antirust metal, which has good corrosion resistance and can effectively prevent rust and ",
+      "image": "https://m.media-amazon.com/images/I/81XzmsJMcQL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "31.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/freezer-organizer-bins/"
+      }
+    }
+  },
+  "/products/freshware-food-storage-containers-24-set-32-oz-plastic/": {
+    "path": "/products/freshware-food-storage-containers-24-set-32-oz-plastic/",
+    "page": "product",
+    "title": "Freshware Food Storage Containers [24 Set] 32 oz Plastic Deli Containe | RV DREAMS LLC",
+    "description": "✅ LEAK-PROOF FOOD STORAGE CONTAINERS: Freshware deli containers will keep your food in place without ever creating a mess. Lids are airtight and leak proof",
+    "canonical": "https://www.rvdreamsllc.com/products/freshware-food-storage-containers-24-set-32-oz-plastic/",
+    "product": "freshware-food-storage-containers-24-set-32-oz-plastic",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Freshware Food Storage Containers [24 Set] 32 oz Plastic Deli Containers with Lids, Slime, Soup, Meal Prep Containers | BPA Free | Stackable …",
+      "sku": "OTG10046",
+      "brand": {
+        "@type": "Brand",
+        "name": "Freshware"
+      },
+      "description": "✅ LEAK-PROOF FOOD STORAGE CONTAINERS: Freshware deli containers will keep your food in place without ever creating a mess. Lids are airtight and leak proof",
+      "image": "https://m.media-amazon.com/images/I/71PGchb5nSL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "15.70",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/freshware-food-storage-containers-24-set-32-oz-plastic/"
+      }
+    }
+  },
+  "/products/freshware-food-storage-containers-50-set-16-oz-plastic/": {
+    "path": "/products/freshware-food-storage-containers-50-set-16-oz-plastic/",
+    "page": "product",
+    "title": "Freshware Food Storage Containers [50 Set] 16 oz Plastic Deli Containe | RV DREAMS LLC",
+    "description": "✅ LEAK-PROOF FOOD STORAGE CONTAINERS: Freshware deli containers will keep your food in place without ever creating a mess. Lids are airtight and leak proof",
+    "canonical": "https://www.rvdreamsllc.com/products/freshware-food-storage-containers-50-set-16-oz-plastic/",
+    "product": "freshware-food-storage-containers-50-set-16-oz-plastic",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Freshware Food Storage Containers [50 Set] 16 oz Plastic Deli Containers with Lids, Slime, Soup, Meal Prep Containers | BPA Free | Stackable …",
+      "sku": "OTG10032",
+      "brand": {
+        "@type": "Brand",
+        "name": "Freshware"
+      },
+      "description": "✅ LEAK-PROOF FOOD STORAGE CONTAINERS: Freshware deli containers will keep your food in place without ever creating a mess. Lids are airtight and leak proof",
+      "image": "https://m.media-amazon.com/images/I/71XnaWxqwqL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "17.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/freshware-food-storage-containers-50-set-16-oz-plastic/"
+      }
+    }
+  },
+  "/products/freshware-food-storage-containers-50-set-8-oz-plastic/": {
+    "path": "/products/freshware-food-storage-containers-50-set-8-oz-plastic/",
+    "page": "product",
+    "title": "Freshware Food Storage Containers [50 Set] 8 oz Plastic Deli Container | RV DREAMS LLC",
+    "description": "✅ LEAK-PROOF FOOD STORAGE CONTAINERS: Freshware deli containers will keep your food in place without ever creating a mess. Lids are airtight and leak proof",
+    "canonical": "https://www.rvdreamsllc.com/products/freshware-food-storage-containers-50-set-8-oz-plastic/",
+    "product": "freshware-food-storage-containers-50-set-8-oz-plastic",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Freshware Food Storage Containers [50 Set] 8 oz Plastic Deli Containers with Lids, Slime, Soup, Meal Prep Containers | BPA Free | Stackable …",
+      "sku": "OTG10044",
+      "brand": {
+        "@type": "Brand",
+        "name": "Freshware"
+      },
+      "description": "✅ LEAK-PROOF FOOD STORAGE CONTAINERS: Freshware deli containers will keep your food in place without ever creating a mess. Lids are airtight and leak proof",
+      "image": "https://m.media-amazon.com/images/I/71xdf07-YVL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "15.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/freshware-food-storage-containers-50-set-8-oz-plastic/"
+      }
+    }
+  },
+  "/products/glad-gladware-medium-rectangle-food-storage-containers/": {
+    "path": "/products/glad-gladware-medium-rectangle-food-storage-containers/",
+    "page": "product",
+    "title": "Glad GladWare Medium Rectangle Food Storage Containers, 24 Oz, 5 Count | RV DREAMS LLC",
+    "description": "MEDIUM 24 OZ RECTANGLE CONTAINER: Each container holds up to 24 ounces, measuring 6.49 in L x 4.86 in W x 2.98 in H, designed to hold full-size soups, sala",
+    "canonical": "https://www.rvdreamsllc.com/products/glad-gladware-medium-rectangle-food-storage-containers/",
+    "product": "glad-gladware-medium-rectangle-food-storage-containers",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Glad GladWare Medium Rectangle Food Storage Containers, 24 Oz, 5 Count",
+      "sku": "OTG10033",
+      "brand": {
+        "@type": "Brand",
+        "name": "Glad"
+      },
+      "description": "MEDIUM 24 OZ RECTANGLE CONTAINER: Each container holds up to 24 ounces, measuring 6.49 in L x 4.86 in W x 2.98 in H, designed to hold full-size soups, sala",
+      "image": "https://m.media-amazon.com/images/I/713kuutbSbL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "6.44",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/glad-gladware-medium-rectangle-food-storage-containers/"
+      }
+    }
+  },
+  "/products/gorilla-grip-powergrip-drawer-shelf-and-cabinet-liner/": {
+    "path": "/products/gorilla-grip-powergrip-drawer-shelf-and-cabinet-liner/",
+    "page": "product",
+    "title": "GORILLA GRIP powerGRIP Drawer Shelf and Cabinet Liner, 12\"x10', Beige | RV DREAMS LLC",
+    "description": "EXTRA STRONG POWERGRIP NONADHESIVE LINER: the Gorilla Grip PowerGRIP shelf liner is an extremely durable nonadhesive liner engineered with the highest qual",
+    "canonical": "https://www.rvdreamsllc.com/products/gorilla-grip-powergrip-drawer-shelf-and-cabinet-liner/",
+    "product": "gorilla-grip-powergrip-drawer-shelf-and-cabinet-liner",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "GORILLA GRIP powerGRIP Drawer Shelf and Cabinet Liner, 12\"x10', Beige",
+      "sku": "OTG10121",
+      "brand": {
+        "@type": "Brand",
+        "name": "GORILLA GRIP"
+      },
+      "description": "EXTRA STRONG POWERGRIP NONADHESIVE LINER: the Gorilla Grip PowerGRIP shelf liner is an extremely durable nonadhesive liner engineered with the highest qual",
+      "image": "https://m.media-amazon.com/images/I/71whnTXeQzL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "14.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/gorilla-grip-powergrip-drawer-shelf-and-cabinet-liner/"
+      }
+    }
+  },
+  "/products/hapirm-multifunctional-sponge-holder-with-unique-m-shaped/": {
+    "path": "/products/hapirm-multifunctional-sponge-holder-with-unique-m-shaped/",
+    "page": "product",
+    "title": "HapiRm Multifunctional Sponge Holder with Unique M-Shaped, 2 Installat | RV DREAMS LLC",
+    "description": "[Unique M-shaped Design]: Hapirm sink caddy is specially designed for cleaning accessories in the kitchen. Unique M-shaped cross bar of our kitchen sponge ",
+    "canonical": "https://www.rvdreamsllc.com/products/hapirm-multifunctional-sponge-holder-with-unique-m-shaped/",
+    "product": "hapirm-multifunctional-sponge-holder-with-unique-m-shaped",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "HapiRm Multifunctional Sponge Holder with Unique M-Shaped, 2 Installation Methods Kitchen Sink Caddy Organizer, Rustproof Stainless Steel Kitchen…",
+      "sku": "OTG10106",
+      "brand": {
+        "@type": "Brand",
+        "name": "HapiRm"
+      },
+      "description": "[Unique M-shaped Design]: Hapirm sink caddy is specially designed for cleaning accessories in the kitchen. Unique M-shaped cross bar of our kitchen sponge ",
+      "image": "https://m.media-amazon.com/images/I/71qfvNHyfCL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "8.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/hapirm-multifunctional-sponge-holder-with-unique-m-shaped/"
+      }
+    }
+  },
+  "/products/hefty-slider-freezer-bags/": {
+    "path": "/products/hefty-slider-freezer-bags/",
+    "page": "product",
+    "title": "Hefty Slider Freezer Bags, Quart Size, 74ct | RV DREAMS LLC",
+    "description": "Package Includes—Seventy four (74) Hefty Slider Quart Freezer Bags for meal prepping, lunch packing, camping, traveling, freezer storage, organizing, and m",
+    "canonical": "https://www.rvdreamsllc.com/products/hefty-slider-freezer-bags/",
+    "product": "hefty-slider-freezer-bags",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Hefty Slider Freezer Bags, Quart Size, 74ct",
+      "sku": "OTG10047",
+      "brand": {
+        "@type": "Brand",
+        "name": "Hefty"
+      },
+      "description": "Package Includes—Seventy four (74) Hefty Slider Quart Freezer Bags for meal prepping, lunch packing, camping, traveling, freezer storage, organizing, and m",
+      "image": "https://m.media-amazon.com/images/I/81zoo1CQaJL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "8.87",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/hefty-slider-freezer-bags/"
+      }
+    }
+  },
+  "/products/hefty-slider-storage-bags/": {
+    "path": "/products/hefty-slider-storage-bags/",
+    "page": "product",
+    "title": "Hefty Slider Storage Bags, Gallon Size, 66ct | RV DREAMS LLC",
+    "description": "Package Includes: Sixty six (66) Hefty Slider Gallon Storage Bags for bulk food storage, meal prepping, kitchen organization, camping, travel, and more",
+    "canonical": "https://www.rvdreamsllc.com/products/hefty-slider-storage-bags/",
+    "product": "hefty-slider-storage-bags",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Hefty Slider Storage Bags, Gallon Size, 66ct",
+      "sku": "OTG10034",
+      "brand": {
+        "@type": "Brand",
+        "name": "Hefty"
+      },
+      "description": "Package Includes: Sixty six (66) Hefty Slider Gallon Storage Bags for bulk food storage, meal prepping, kitchen organization, camping, travel, and more",
+      "image": "https://m.media-amazon.com/images/I/81y9C5Cd5xL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "9.16",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/hefty-slider-storage-bags/"
+      }
+    }
+  },
+  "/products/hopelf-6-natural-bamboo-skewers-for/": {
+    "path": "/products/hopelf-6-natural-bamboo-skewers-for/",
+    "page": "product",
+    "title": "HOPELF 6\" Natural Bamboo Skewers for BBQ，Appetiser，Fruit，Cocktail，Kabo | RV DREAMS LLC",
+    "description": "✔️4MM(0.16'') THICK FOR ADDITIONAL STRENGTH! This gives you more options to work with heavier foods and roast marshmallows with ease.",
+    "canonical": "https://www.rvdreamsllc.com/products/hopelf-6-natural-bamboo-skewers-for/",
+    "product": "hopelf-6-natural-bamboo-skewers-for",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "HOPELF 6\" Natural Bamboo Skewers for BBQ，Appetiser，Fruit，Cocktail，Kabob，Chocolate Fountain，Grilling，Barbecue，Kitchen，Crafting and Party. Φ=4mm, More…",
+      "sku": "OTG10020",
+      "brand": {
+        "@type": "Brand",
+        "name": "HOPELF"
+      },
+      "description": "✔️4MM(0.16'') THICK FOR ADDITIONAL STRENGTH! This gives you more options to work with heavier foods and roast marshmallows with ease.",
+      "image": "https://m.media-amazon.com/images/I/61MhlR2cAtL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "4.98",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/hopelf-6-natural-bamboo-skewers-for/"
+      }
+    }
+  },
+  "/products/ibayam-kitchen-scissors-shears-all-purpose-heavy-duty/": {
+    "path": "/products/ibayam-kitchen-scissors-shears-all-purpose-heavy-duty/",
+    "page": "product",
+    "title": "iBayam Kitchen Scissors Shears All Purpose Heavy Duty, Protective Shea | RV DREAMS LLC",
+    "description": "Cook's Tool & Gadget Sets ALL PURPOSE KITCHEN SCISSORS: Heavy duty 8.66\" super sharp kitchen shears, Valued 2-Pack, comfort-Grip handles. Great All-purpose",
+    "canonical": "https://www.rvdreamsllc.com/products/ibayam-kitchen-scissors-shears-all-purpose-heavy-duty/",
+    "product": "ibayam-kitchen-scissors-shears-all-purpose-heavy-duty",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "iBayam Kitchen Scissors Shears All Purpose Heavy Duty, Protective Sheath",
+      "sku": "OTG10012",
+      "brand": {
+        "@type": "Brand",
+        "name": "iBayam"
+      },
+      "description": "Cook's Tool & Gadget Sets ALL PURPOSE KITCHEN SCISSORS: Heavy duty 8.66\" super sharp kitchen shears, Valued 2-Pack, comfort-Grip handles. Great All-purpose",
+      "image": "https://m.media-amazon.com/images/I/71WgPDP5IDL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "7.59",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/ibayam-kitchen-scissors-shears-all-purpose-heavy-duty/"
+      }
+    }
+  },
+  "/products/kitchenaid-all-purpose-kitchen-shears-with-protective/": {
+    "path": "/products/kitchenaid-all-purpose-kitchen-shears-with-protective/",
+    "page": "product",
+    "title": "KitchenAid All Purpose Kitchen Shears with Protective Sheath Durable S | RV DREAMS LLC",
+    "description": "PREMIUM STAINLESS STEEL BLADES: Built to resist rust and maintain sharpness, these stainless steel blades easily cut through everyday kitchen items like ve",
+    "canonical": "https://www.rvdreamsllc.com/products/kitchenaid-all-purpose-kitchen-shears-with-protective/",
+    "product": "kitchenaid-all-purpose-kitchen-shears-with-protective",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "KitchenAid All Purpose Kitchen Shears with Protective Sheath Durable Stainless Steel Scissors, Dishwasher Safe, Soft Grip Comfort Handle, 8.72 Inch…",
+      "sku": "OTG10007",
+      "brand": {
+        "@type": "Brand",
+        "name": "KitchenAid"
+      },
+      "description": "PREMIUM STAINLESS STEEL BLADES: Built to resist rust and maintain sharpness, these stainless steel blades easily cut through everyday kitchen items like ve",
+      "image": "https://m.media-amazon.com/images/I/51ZoCNRkw8L._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "9.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/kitchenaid-all-purpose-kitchen-shears-with-protective/"
+      }
+    }
+  },
+  "/products/kitchenaid-classic-multifunction-can-opener-and-bottle/": {
+    "path": "/products/kitchenaid-classic-multifunction-can-opener-and-bottle/",
+    "page": "product",
+    "title": "KitchenAid Classic Multifunction Can Opener and Bottle Opener Easy to  | RV DREAMS LLC",
+    "description": "EASY, SMOOTH OPENING EVERY TIME: Equipped with a durable, razor sharp stainless steel cutting wheel, this can opener pierces cans easily and slices smoothl",
+    "canonical": "https://www.rvdreamsllc.com/products/kitchenaid-classic-multifunction-can-opener-and-bottle/",
+    "product": "kitchenaid-classic-multifunction-can-opener-and-bottle",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "KitchenAid Classic Multifunction Can Opener and Bottle Opener Easy to Use, Razor Sharp Stainless Steel Cutting Wheel, Soft Ergonomic Handles, Black",
+      "sku": "OTG10002",
+      "brand": {
+        "@type": "Brand",
+        "name": "KitchenAid"
+      },
+      "description": "EASY, SMOOTH OPENING EVERY TIME: Equipped with a durable, razor sharp stainless steel cutting wheel, this can opener pierces cans easily and slices smoothl",
+      "image": "https://m.media-amazon.com/images/I/51yO+bt+mqL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "17.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/kitchenaid-classic-multifunction-can-opener-and-bottle/"
+      }
+    }
+  },
+  "/products/kitsure-dish-drying-rack-for-kitchen-counter/": {
+    "path": "/products/kitsure-dish-drying-rack-for-kitchen-counter/",
+    "page": "product",
+    "title": "Kitsure Dish Drying Rack for Kitchen Counter, 12''W x 15.5''L, Black | RV DREAMS LLC",
+    "description": "COMPACT VOLUME: Kitsure dish rack is suitable for kitchens with limited space. The bottom layer measures only 12''W x 15.5''L and the overall height is 5\".",
+    "canonical": "https://www.rvdreamsllc.com/products/kitsure-dish-drying-rack-for-kitchen-counter/",
+    "product": "kitsure-dish-drying-rack-for-kitchen-counter",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Kitsure Dish Drying Rack for Kitchen Counter, 12''W x 15.5''L, Black",
+      "sku": "OTG10116",
+      "brand": {
+        "@type": "Brand",
+        "name": "Kitsure"
+      },
+      "description": "COMPACT VOLUME: Kitsure dish rack is suitable for kitchens with limited space. The bottom layer measures only 12''W x 15.5''L and the overall height is 5\".",
+      "image": "https://m.media-amazon.com/images/I/7103oavAa3L._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "35.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/kitsure-dish-drying-rack-for-kitchen-counter/"
+      }
+    }
+  },
+  "/products/kitsure-sponge-holder-for-kitchen-sink/": {
+    "path": "/products/kitsure-sponge-holder-for-kitchen-sink/",
+    "page": "product",
+    "title": "Kitsure Sponge Holder for Kitchen Sink, 7.9\" Wide - 1 Tier, Black | RV DREAMS LLC",
+    "description": "AUTO-DRAINAGE SYSTEM: Kitsure kitchen sink caddy features a convenient drip tray for quick, automatic drainage. When damp items are placed on the caddy, th",
+    "canonical": "https://www.rvdreamsllc.com/products/kitsure-sponge-holder-for-kitchen-sink/",
+    "product": "kitsure-sponge-holder-for-kitchen-sink",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Kitsure Sponge Holder for Kitchen Sink, 7.9\" Wide - 1 Tier, Black",
+      "sku": "OTG10101",
+      "brand": {
+        "@type": "Brand",
+        "name": "Kitsure"
+      },
+      "description": "AUTO-DRAINAGE SYSTEM: Kitsure kitchen sink caddy features a convenient drip tray for quick, automatic drainage. When damp items are placed on the caddy, th",
+      "image": "https://m.media-amazon.com/images/I/813j9smA7FL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "12.59",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/kitsure-sponge-holder-for-kitchen-sink/"
+      }
+    }
+  },
+  "/products/kmiectse-dish-drying-rack-for-small-kitchen-counter-with/": {
+    "path": "/products/kmiectse-dish-drying-rack-for-small-kitchen-counter-with/",
+    "page": "product",
+    "title": "Kmiectse Dish Drying Rack for Small Kitchen Counter with Utensil Holde | RV DREAMS LLC",
+    "description": "Space-Saving Design: The dish drying rack (15.2” L x 11.2” W x 5.7” H) fits perfectly in the kitchen with limited space. It holds up to 10 plates, bowls, a",
+    "canonical": "https://www.rvdreamsllc.com/products/kmiectse-dish-drying-rack-for-small-kitchen-counter-with/",
+    "product": "kmiectse-dish-drying-rack-for-small-kitchen-counter-with",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Kmiectse Dish Drying Rack for Small Kitchen Counter with Utensil Holder",
+      "sku": "OTG10125",
+      "brand": {
+        "@type": "Brand",
+        "name": "Kmiectse"
+      },
+      "description": "Space-Saving Design: The dish drying rack (15.2” L x 11.2” W x 5.7” H) fits perfectly in the kitchen with limited space. It holds up to 10 plates, bowls, a",
+      "image": "https://m.media-amazon.com/images/I/81ddZbNU1bL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "16.78",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/kmiectse-dish-drying-rack-for-small-kitchen-counter-with/"
+      }
+    }
+  },
+  "/products/komuee-10-packs-30-oz-glass-meal-prep-containers-with-lids/": {
+    "path": "/products/komuee-10-packs-30-oz-glass-meal-prep-containers-with-lids/",
+    "page": "product",
+    "title": "KOMUEE 10 Packs 30 oz Glass Meal Prep Containers with Lids | RV DREAMS LLC",
+    "description": "GLASS MEAL PREP CONTAINERS 10 PACKS: Buying our versatile glass containers sets (10 plastic lids & 10 glass containers) size: 30 Oz, you'll have a set of 1",
+    "canonical": "https://www.rvdreamsllc.com/products/komuee-10-packs-30-oz-glass-meal-prep-containers-with-lids/",
+    "product": "komuee-10-packs-30-oz-glass-meal-prep-containers-with-lids",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "KOMUEE 10 Packs 30 oz Glass Meal Prep Containers with Lids",
+      "sku": "OTG10037",
+      "brand": {
+        "@type": "Brand",
+        "name": "KOMUEE"
+      },
+      "description": "GLASS MEAL PREP CONTAINERS 10 PACKS: Buying our versatile glass containers sets (10 plastic lids & 10 glass containers) size: 30 Oz, you'll have a set of 1",
+      "image": "https://m.media-amazon.com/images/I/71FEUOgXhfS._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "39.59",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/komuee-10-packs-30-oz-glass-meal-prep-containers-with-lids/"
+      }
+    }
+  },
+  "/products/le-tauci-ceramic-kitchen-utensil-holder-for-counter/": {
+    "path": "/products/le-tauci-ceramic-kitchen-utensil-holder-for-counter/",
+    "page": "product",
+    "title": "LE TAUCI Ceramic Kitchen Utensil Holder for Counter, 7.3/5.4\", White | RV DREAMS LLC",
+    "description": "Two useful sizes: This ceramic kitchen utensil holder set includes a large crock measuring 7.3 inches high with a 6-inch opening and a small crock measurin",
+    "canonical": "https://www.rvdreamsllc.com/products/le-tauci-ceramic-kitchen-utensil-holder-for-counter/",
+    "product": "le-tauci-ceramic-kitchen-utensil-holder-for-counter",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "LE TAUCI Ceramic Kitchen Utensil Holder for Counter, 7.3/5.4\", White",
+      "sku": "OTG10061",
+      "brand": {
+        "@type": "Brand",
+        "name": "LE TAUCI"
+      },
+      "description": "Two useful sizes: This ceramic kitchen utensil holder set includes a large crock measuring 7.3 inches high with a 6-inch opening and a small crock measurin",
+      "image": "https://m.media-amazon.com/images/I/71w9-vUi8UL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "19.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/le-tauci-ceramic-kitchen-utensil-holder-for-counter/"
+      }
+    }
+  },
+  "/products/le-tauci-utensil-holder-for-kitchen-counter/": {
+    "path": "/products/le-tauci-utensil-holder-for-kitchen-counter/",
+    "page": "product",
+    "title": "LE TAUCI Utensil Holder for Kitchen Counter - 7.1\" Large Ceramic Utens | RV DREAMS LLC",
+    "description": "Generous Storage Capacity: This 7.1”H x 5.9”W large utensil holder is designed to reclaim your counter space. With its wide-mouth opening, it easily accomm",
+    "canonical": "https://www.rvdreamsllc.com/products/le-tauci-utensil-holder-for-kitchen-counter/",
+    "product": "le-tauci-utensil-holder-for-kitchen-counter",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "LE TAUCI Utensil Holder for Kitchen Counter - 7.1\" Large Ceramic Utensil Crock, Cooking Utensil Organizer for Spatula, Spoon, Whisk - Farmhouse…",
+      "sku": "OTG10080",
+      "brand": {
+        "@type": "Brand",
+        "name": "LE TAUCI"
+      },
+      "description": "Generous Storage Capacity: This 7.1”H x 5.9”W large utensil holder is designed to reclaim your counter space. With its wide-mouth opening, it easily accomm",
+      "image": "https://m.media-amazon.com/images/I/71E1Z1DBXSL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "24.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/le-tauci-utensil-holder-for-kitchen-counter/"
+      }
+    }
+  },
+  "/products/libodour-kitchen-utensil-holder/": {
+    "path": "/products/libodour-kitchen-utensil-holder/",
+    "page": "product",
+    "title": "LIBODOUR Kitchen Utensil Holder,Extra Large 360°Rotating For Counterto | RV DREAMS LLC",
+    "description": "Note: This packaging does not include any utensils.",
+    "canonical": "https://www.rvdreamsllc.com/products/libodour-kitchen-utensil-holder/",
+    "product": "libodour-kitchen-utensil-holder",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "LIBODOUR Kitchen Utensil Holder,Extra Large 360°Rotating For Countertop",
+      "sku": "OTG10074",
+      "brand": {
+        "@type": "Brand",
+        "name": "LIBODOUR"
+      },
+      "description": "Note: This packaging does not include any utensils.",
+      "image": "https://m.media-amazon.com/images/I/71vB-ogoH+L._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "23.74",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/libodour-kitchen-utensil-holder/"
+      }
+    }
+  },
+  "/products/lifewit-expandable-silverware-drawer-organizer/": {
+    "path": "/products/lifewit-expandable-silverware-drawer-organizer/",
+    "page": "product",
+    "title": "Lifewit Expandable Silverware Drawer Organizer, Kitchen Utensil Tray | RV DREAMS LLC",
+    "description": "Expandable Design for Flexible Fit: This Lifewit silverware organizer adjusts from 8\" to 13.8\" wide, making it ideal for small to standard drawers. Perfect",
+    "canonical": "https://www.rvdreamsllc.com/products/lifewit-expandable-silverware-drawer-organizer/",
+    "product": "lifewit-expandable-silverware-drawer-organizer",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Lifewit Expandable Silverware Drawer Organizer, Kitchen Utensil Tray",
+      "sku": "OTG10118",
+      "brand": {
+        "@type": "Brand",
+        "name": "Lifewit"
+      },
+      "description": "Expandable Design for Flexible Fit: This Lifewit silverware organizer adjusts from 8\" to 13.8\" wide, making it ideal for small to standard drawers. Perfect",
+      "image": "https://m.media-amazon.com/images/I/71ReMjmmqrL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "9.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/lifewit-expandable-silverware-drawer-organizer/"
+      }
+    }
+  },
+  "/products/liuruiyu-8-pack-glass-food-storage-containers-with-lids/": {
+    "path": "/products/liuruiyu-8-pack-glass-food-storage-containers-with-lids/",
+    "page": "product",
+    "title": "Liuruiyu 8 Pack Glass Food Storage Containers with Lids, Meal Prep Con | RV DREAMS LLC",
+    "description": "VERSATILE SIZE ASSORTMENT FOR DAILY USE:This glass food storage container set offers multiple practical sizes to support meal prep, portion control, leftov",
+    "canonical": "https://www.rvdreamsllc.com/products/liuruiyu-8-pack-glass-food-storage-containers-with-lids/",
+    "product": "liuruiyu-8-pack-glass-food-storage-containers-with-lids",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Liuruiyu 8 Pack Glass Food Storage Containers with Lids, Meal Prep Containers, Airtight Bento Boxes with Leak Proof Locking for Microwave, Oven…",
+      "sku": "OTG10053",
+      "brand": {
+        "@type": "Brand",
+        "name": "Liuruiyu"
+      },
+      "description": "VERSATILE SIZE ASSORTMENT FOR DAILY USE:This glass food storage container set offers multiple practical sizes to support meal prep, portion control, leftov",
+      "image": "https://m.media-amazon.com/images/I/811PAhhOvYL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "21.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/liuruiyu-8-pack-glass-food-storage-containers-with-lids/"
+      }
+    }
+  },
+  "/products/loejan-6-7-utensil-holder/": {
+    "path": "/products/loejan-6-7-utensil-holder/",
+    "page": "product",
+    "title": "LoeJan 6.7\" Utensil Holder, Ceramic Kitchen Utensil Holder with Cork B | RV DREAMS LLC",
+    "description": "🥘Thoughtfully Sized for Daily Use: At 6.7″H x 5.2″W, this compact crock holds 10–15 essential utensils and can accommodate all the frequently used utensils",
+    "canonical": "https://www.rvdreamsllc.com/products/loejan-6-7-utensil-holder/",
+    "product": "loejan-6-7-utensil-holder",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "LoeJan 6.7\" Utensil Holder, Ceramic Kitchen Utensil Holder with Cork Bottom, Large Utensil Crock for Countertop, Vintage Cooking Tool Organizer Set…",
+      "sku": "OTG10067",
+      "brand": {
+        "@type": "Brand",
+        "name": "LoeJan"
+      },
+      "description": "🥘Thoughtfully Sized for Daily Use: At 6.7″H x 5.2″W, this compact crock holds 10–15 essential utensils and can accommodate all the frequently used utensils",
+      "image": "https://m.media-amazon.com/images/I/61rmD+9DQUL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "19.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/loejan-6-7-utensil-holder/"
+      }
+    }
+  },
+  "/products/meat-thermometer-digital/": {
+    "path": "/products/meat-thermometer-digital/",
+    "page": "product",
+    "title": "Meat Thermometer Digital, 1-2 Sec Instant Read, Food, Cooking, Grillin | RV DREAMS LLC",
+    "description": "【Fast & Accurate】Our meat thermometer digital delivers accurate readings within ±1°F in just 1–2 seconds, with a wide temperature range of -58°F to 572°F (",
+    "canonical": "https://www.rvdreamsllc.com/products/meat-thermometer-digital/",
+    "product": "meat-thermometer-digital",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Meat Thermometer Digital, 1-2 Sec Instant Read, Food, Cooking, Grilling",
+      "sku": "OTG10003",
+      "brand": {
+        "@type": "Brand",
+        "name": "ONFIKY"
+      },
+      "description": "【Fast & Accurate】Our meat thermometer digital delivers accurate readings within ±1°F in just 1–2 seconds, with a wide temperature range of -58°F to 572°F (",
+      "image": "https://m.media-amazon.com/images/I/71HAYvyw1fL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "9.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/meat-thermometer-digital/"
+      }
+    }
+  },
+  "/products/mind-reader-condiment-station/": {
+    "path": "/products/mind-reader-condiment-station/",
+    "page": "product",
+    "title": "Mind Reader Condiment Station, 13 Inch Countertop Coffee Bar Organizer | RV DREAMS LLC",
+    "description": "Plastic",
+    "canonical": "https://www.rvdreamsllc.com/products/mind-reader-condiment-station/",
+    "product": "mind-reader-condiment-station",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Mind Reader Condiment Station, 13 Inch Countertop Coffee Bar Organizer with 6 Compartments, Storage Caddy for Cups, Lids and Packets, Plastic, Black",
+      "sku": "OTG10110",
+      "brand": {
+        "@type": "Brand",
+        "name": "Mind"
+      },
+      "description": "Plastic",
+      "image": "https://m.media-amazon.com/images/I/71jeI0Cq4LL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "19.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/mind-reader-condiment-station/"
+      }
+    }
+  },
+  "/products/mueller-the-real-original-pro-vegetable-chopper-mandoline/": {
+    "path": "/products/mueller-the-real-original-pro-vegetable-chopper-mandoline/",
+    "page": "product",
+    "title": "Mueller The Real Original Pro Vegetable Chopper & Mandoline Slicer, 10 | RV DREAMS LLC",
+    "description": "The Original Pro Chopper – Reliable Kitchen Performance Since 2013 – Crafted for everyday cooking, this durable chopper makes meal prep faster and easier. ",
+    "canonical": "https://www.rvdreamsllc.com/products/mueller-the-real-original-pro-vegetable-chopper-mandoline/",
+    "product": "mueller-the-real-original-pro-vegetable-chopper-mandoline",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Mueller The Real Original Pro Vegetable Chopper & Mandoline Slicer, 10-in-1",
+      "sku": "OTG10017",
+      "brand": {
+        "@type": "Brand",
+        "name": "JANSKA"
+      },
+      "description": "The Original Pro Chopper – Reliable Kitchen Performance Since 2013 – Crafted for everyday cooking, this durable chopper makes meal prep faster and easier. ",
+      "image": "https://m.media-amazon.com/images/I/81+tBoD7McL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "26.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/mueller-the-real-original-pro-vegetable-chopper-mandoline/"
+      }
+    }
+  },
+  "/products/multi-functional-stainless-steel-kitchen-utensil-holder/": {
+    "path": "/products/multi-functional-stainless-steel-kitchen-utensil-holder/",
+    "page": "product",
+    "title": "Multi-Functional Stainless Steel Kitchen Utensil Holder, 2‑In‑1 Spoon  | RV DREAMS LLC",
+    "description": "【2‑in‑1 Multi‑Purpose Kitchen Countertop Organizer】 This utensil holder works as both a utensil caddy and pot lid stand, holding cooking spoons, spatulas, ",
+    "canonical": "https://www.rvdreamsllc.com/products/multi-functional-stainless-steel-kitchen-utensil-holder/",
+    "product": "multi-functional-stainless-steel-kitchen-utensil-holder",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Multi-Functional Stainless Steel Kitchen Utensil Holder, 2‑In‑1 Spoon Rest for Kitchen Counter, Space‑Saving Vertical Organizer for Spatula Ladle Pot…",
+      "sku": "OTG10081",
+      "brand": {
+        "@type": "Brand",
+        "name": "XBEGIX"
+      },
+      "description": "【2‑in‑1 Multi‑Purpose Kitchen Countertop Organizer】 This utensil holder works as both a utensil caddy and pot lid stand, holding cooking spoons, spatulas, ",
+      "image": "https://m.media-amazon.com/images/I/513+503FQlL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "27.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/multi-functional-stainless-steel-kitchen-utensil-holder/"
+      }
+    }
+  },
+  "/products/multi-functional-thickened-stainless-steel-utensil/": {
+    "path": "/products/multi-functional-thickened-stainless-steel-utensil/",
+    "page": "product",
+    "title": "Multi-functional Thickened Stainless Steel Utensil Organizer，1 | RV DREAMS LLC",
+    "description": "【Multi-functional All-in-One Organizer】This utensil holder stores pot lids, spatulas, ladles, cutlery and cutting boards in one rack. It clears counter mes",
+    "canonical": "https://www.rvdreamsllc.com/products/multi-functional-thickened-stainless-steel-utensil/",
+    "product": "multi-functional-thickened-stainless-steel-utensil",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Multi-functional Thickened Stainless Steel Utensil Organizer，1",
+      "sku": "OTG10083",
+      "brand": {
+        "@type": "Brand",
+        "name": "Multi-functional"
+      },
+      "description": "【Multi-functional All-in-One Organizer】This utensil holder stores pot lids, spatulas, ladles, cutlery and cutting boards in one rack. It clears counter mes",
+      "image": "https://m.media-amazon.com/images/I/71esAM3ihzL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "27.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/multi-functional-thickened-stainless-steel-utensil/"
+      }
+    }
+  },
+  "/products/murlong-sponge-holder-smiley-face/": {
+    "path": "/products/murlong-sponge-holder-smiley-face/",
+    "page": "product",
+    "title": "MURLONG Sponge Holder Smiley Face, Sink Organizer with 2 Suction Cups/ | RV DREAMS LLC",
+    "description": "UNIQUE EXTERIOR DESIGN: Compared to the original single-function version sponge holder, MURLONG specifically improved the style to increase space for holdi",
+    "canonical": "https://www.rvdreamsllc.com/products/murlong-sponge-holder-smiley-face/",
+    "product": "murlong-sponge-holder-smiley-face",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "MURLONG Sponge Holder Smiley Face, Sink Organizer with 2 Suction Cups/1 Adhesive Strips, Designed for Sponge, Soap, Dish Brush, Scrubber - Black",
+      "sku": "OTG10114",
+      "brand": {
+        "@type": "Brand",
+        "name": "MURLONG"
+      },
+      "description": "UNIQUE EXTERIOR DESIGN: Compared to the original single-function version sponge holder, MURLONG specifically improved the style to increase space for holdi",
+      "image": "https://m.media-amazon.com/images/I/71TDIaOtG2L._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "9.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/murlong-sponge-holder-smiley-face/"
+      }
+    }
+  },
+  "/products/netany-6-pack-16-oz-overnight-oats-containers-with-lids/": {
+    "path": "/products/netany-6-pack-16-oz-overnight-oats-containers-with-lids/",
+    "page": "product",
+    "title": "NETANY 6-pack 16 oz Overnight Oats Containers with Lids, Glass jars wi | RV DREAMS LLC",
+    "description": "High-Grade Glass: Made with premium BPA-free and lead-free food-grade glass, ensures long-lasting durability and offers a clear view of contents, preservin",
+    "canonical": "https://www.rvdreamsllc.com/products/netany-6-pack-16-oz-overnight-oats-containers-with-lids/",
+    "product": "netany-6-pack-16-oz-overnight-oats-containers-with-lids",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "NETANY 6-pack 16 oz Overnight Oats Containers with Lids, Glass jars with Airtight Lids, Wide mouth Mason Salad jars, Glass Food Storage Containers…",
+      "sku": "OTG10055",
+      "brand": {
+        "@type": "Brand",
+        "name": "NETANY"
+      },
+      "description": "High-Grade Glass: Made with premium BPA-free and lead-free food-grade glass, ensures long-lasting durability and offers a clear view of contents, preservin",
+      "image": "https://m.media-amazon.com/images/I/71hftYKcRzL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "19.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/netany-6-pack-16-oz-overnight-oats-containers-with-lids/"
+      }
+    }
+  },
+  "/products/niuyichee-304-stainless-steel-utensil-holder/": {
+    "path": "/products/niuyichee-304-stainless-steel-utensil-holder/",
+    "page": "product",
+    "title": "NiuYichee 304 Stainless Steel Utensil Holder, Dish Drying Rack, kitche | RV DREAMS LLC",
+    "description": "Useful kitchen accessory: With a hook on the back, it can be hung on a dish drain rack, inside a dishwasher, or on most wired dish drains. It saves storage",
+    "canonical": "https://www.rvdreamsllc.com/products/niuyichee-304-stainless-steel-utensil-holder/",
+    "product": "niuyichee-304-stainless-steel-utensil-holder",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "NiuYichee 304 Stainless Steel Utensil Holder, Dish Drying Rack, kitchen Utensil Organizer, Knife and Fork Drainage Rack, Kitchen Drainage Basket…",
+      "sku": "OTG10070",
+      "brand": {
+        "@type": "Brand",
+        "name": "NiuYichee"
+      },
+      "description": "Useful kitchen accessory: With a hook on the back, it can be hung on a dish drain rack, inside a dishwasher, or on most wired dish drains. It saves storage",
+      "image": "https://m.media-amazon.com/images/I/81GvjMNqWHL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "9.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/niuyichee-304-stainless-steel-utensil-holder/"
+      }
+    }
+  },
+  "/products/nucookery-ceramic-kitchen-utensil-holder-for-countertop/": {
+    "path": "/products/nucookery-ceramic-kitchen-utensil-holder-for-countertop/",
+    "page": "product",
+    "title": "Nucookery Ceramic Kitchen Utensil Holder for Countertop Organizer 6.4\" | RV DREAMS LLC",
+    "description": "-CAPACITY: 6.4\"H x 5.1\"D, it can store more than 10 pieces of tableware, large enough to hold all the frequently used tableware on the counter, a convenien",
+    "canonical": "https://www.rvdreamsllc.com/products/nucookery-ceramic-kitchen-utensil-holder-for-countertop/",
+    "product": "nucookery-ceramic-kitchen-utensil-holder-for-countertop",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Nucookery Ceramic Kitchen Utensil Holder for Countertop Organizer 6.4\" Sand",
+      "sku": "OTG10066",
+      "brand": {
+        "@type": "Brand",
+        "name": "Nucookery"
+      },
+      "description": "-CAPACITY: 6.4\"H x 5.1\"D, it can store more than 10 pieces of tableware, large enough to hold all the frequently used tableware on the counter, a convenien",
+      "image": "https://m.media-amazon.com/images/I/61dM8Q7TZJL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "17.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/nucookery-ceramic-kitchen-utensil-holder-for-countertop/"
+      }
+    }
+  },
+  "/products/paoli-heavy-duty-adhesive-wall-hooks/": {
+    "path": "/products/paoli-heavy-duty-adhesive-wall-hooks/",
+    "page": "product",
+    "title": "Paoli Heavy Duty Adhesive Wall Hooks, 30 lb Max Load Waterproof Hooks  | RV DREAMS LLC",
+    "description": "30LB HEAVY-DUTY STRENGTH, NO SAGGING: Each aerospace-grade aluminum hook securely holds up to 30 lbs on tile, glass, or metal — strong enough for soaked ba",
+    "canonical": "https://www.rvdreamsllc.com/products/paoli-heavy-duty-adhesive-wall-hooks/",
+    "product": "paoli-heavy-duty-adhesive-wall-hooks",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Paoli Heavy Duty Adhesive Wall Hooks, 30 lb Max Load Waterproof Hooks for Bathroom Towels Coats Bags, No Drill Damage-Free for Renters Apartment…",
+      "sku": "OTG10060",
+      "brand": {
+        "@type": "Brand",
+        "name": "Paoli"
+      },
+      "description": "30LB HEAVY-DUTY STRENGTH, NO SAGGING: Each aerospace-grade aluminum hook securely holds up to 30 lbs on tile, glass, or metal — strong enough for soaked ba",
+      "image": "https://m.media-amazon.com/images/I/71puy-GUHNL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "15.98",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/paoli-heavy-duty-adhesive-wall-hooks/"
+      }
+    }
+  },
+  "/products/paper-towel-holder-countertop/": {
+    "path": "/products/paper-towel-holder-countertop/",
+    "page": "product",
+    "title": "Paper Towel Holder Countertop, Standing Paper Roll Holder with Anti Sl | RV DREAMS LLC",
+    "description": "[One Hand Tear] Simple design is the most practical design. With the paper roll firmly in place, you can easily tear the paper towel from bottom to top wit",
+    "canonical": "https://www.rvdreamsllc.com/products/paper-towel-holder-countertop/",
+    "product": "paper-towel-holder-countertop",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Paper Towel Holder Countertop, Standing Paper Roll Holder with Anti Slip Weighted Base, Stainless Steel Freestanding Paper Towel Holder for Kitchen…",
+      "sku": "OTG10120",
+      "brand": {
+        "@type": "Brand",
+        "name": "STWWO"
+      },
+      "description": "[One Hand Tear] Simple design is the most practical design. With the paper roll firmly in place, you can easily tear the paper towel from bottom to top wit",
+      "image": "https://m.media-amazon.com/images/I/61qti20RbxL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "9.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/paper-towel-holder-countertop/"
+      }
+    }
+  },
+  "/products/pgyard-meat-chopper-hamburger-grinder/": {
+    "path": "/products/pgyard-meat-chopper-hamburger-grinder/",
+    "page": "product",
+    "title": "PGYARD Meat Chopper Hamburger Grinder, Kitchen Smasher for Ground Beef | RV DREAMS LLC",
+    "description": "5 Wide Beveled Blades for Faster Chopping: Our meat chopper tool with 5 wide beveled pinwheel blades, which is easier and faste to chop and crumble ground ",
+    "canonical": "https://www.rvdreamsllc.com/products/pgyard-meat-chopper-hamburger-grinder/",
+    "product": "pgyard-meat-chopper-hamburger-grinder",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "PGYARD Meat Chopper Hamburger Grinder, Kitchen Smasher for Ground Beef",
+      "sku": "OTG10026",
+      "brand": {
+        "@type": "Brand",
+        "name": "PGYARD"
+      },
+      "description": "5 Wide Beveled Blades for Faster Chopping: Our meat chopper tool with 5 wide beveled pinwheel blades, which is easier and faste to chop and crumble ground ",
+      "image": "https://m.media-amazon.com/images/I/61FoHl7OBqL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "11.17",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/pgyard-meat-chopper-hamburger-grinder/"
+      }
+    }
+  },
+  "/products/pickpiff-matt-black-self-adhesive-hook/": {
+    "path": "/products/pickpiff-matt-black-self-adhesive-hook/",
+    "page": "product",
+    "title": "pickpiff Matt Black Self-Adhesive Hook, 13LB Hanger for Coat/Towel, 4- | RV DREAMS LLC",
+    "description": "【Dual-Hook Design】4 pcs = 8 hooks, Double the Storage, Half the Cost!",
+    "canonical": "https://www.rvdreamsllc.com/products/pickpiff-matt-black-self-adhesive-hook/",
+    "product": "pickpiff-matt-black-self-adhesive-hook",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "pickpiff Matt Black Self-Adhesive Hook, 13LB Hanger for Coat/Towel, 4-Pack",
+      "sku": "OTG10057",
+      "brand": {
+        "@type": "Brand",
+        "name": "pickpiff"
+      },
+      "description": "【Dual-Hook Design】4 pcs = 8 hooks, Double the Storage, Half the Cost!",
+      "image": "https://m.media-amazon.com/images/I/8189nKkUr3L._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "9.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/pickpiff-matt-black-self-adhesive-hook/"
+      }
+    }
+  },
+  "/products/pinata-halloween-kitchen-decor/": {
+    "path": "/products/pinata-halloween-kitchen-decor/",
+    "page": "product",
+    "title": "pinata Halloween Kitchen Decor, Ceramic Halloween Pumpkin Utensil Hold | RV DREAMS LLC",
+    "description": "HALLOWEEN KITCHEN DECOR: This Halloween-themed pumpkin-shaped utensil holder features iconic holiday elements—playfully spooky and adorable. It adds a touc",
+    "canonical": "https://www.rvdreamsllc.com/products/pinata-halloween-kitchen-decor/",
+    "product": "pinata-halloween-kitchen-decor",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "pinata Halloween Kitchen Decor, Ceramic Halloween Pumpkin Utensil Holder",
+      "sku": "OTG10075",
+      "brand": {
+        "@type": "Brand",
+        "name": "pinata"
+      },
+      "description": "HALLOWEEN KITCHEN DECOR: This Halloween-themed pumpkin-shaped utensil holder features iconic holiday elements—playfully spooky and adorable. It adds a touc",
+      "image": "https://m.media-amazon.com/images/I/71R2ymxDPjL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "29.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/pinata-halloween-kitchen-decor/"
+      }
+    }
+  },
+  "/products/plastic-food-storage-2-pack-clear-container-bin-with/": {
+    "path": "/products/plastic-food-storage-2-pack-clear-container-bin-with/",
+    "page": "product",
+    "title": "Plastic Food Storage 2 Pack Clear Container Bin with Handles for Organ | RV DREAMS LLC",
+    "description": "Perfect for organizing: These bins are perfect for creating calm, clean and organized spaces. Great for upper cabinets & pantry shelves, for organizing fri",
+    "canonical": "https://www.rvdreamsllc.com/products/plastic-food-storage-2-pack-clear-container-bin-with/",
+    "product": "plastic-food-storage-2-pack-clear-container-bin-with",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Plastic Food Storage 2 Pack Clear Container Bin with Handles for Organizing Kitchen, Pantry, Refrigerator, Freezer, Pantry, Cabinet, Closet…",
+      "sku": "OTG10108",
+      "brand": {
+        "@type": "Brand",
+        "name": "primebox"
+      },
+      "description": "Perfect for organizing: These bins are perfect for creating calm, clean and organized spaces. Great for upper cabinets & pantry shelves, for organizing fri",
+      "image": "https://m.media-amazon.com/images/I/81wK8lRdoRL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "21.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/plastic-food-storage-2-pack-clear-container-bin-with/"
+      }
+    }
+  },
+  "/products/realinn-under-sink-organizer/": {
+    "path": "/products/realinn-under-sink-organizer/",
+    "page": "product",
+    "title": "REALINN Under Sink Organizer, L-Shaped 2 Tier Pull Out Cabinet Organiz | RV DREAMS LLC",
+    "description": "【L-SHAPED DESIGN FITS AROUND PIPES AND GARBAGE DISPOSALS】 The narrow top basket mounts left or right to clear your plumbing. The wide lower tier reclaims f",
+    "canonical": "https://www.rvdreamsllc.com/products/realinn-under-sink-organizer/",
+    "product": "realinn-under-sink-organizer",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "REALINN Under Sink Organizer, L-Shaped 2 Tier Pull Out Cabinet Organizer",
+      "sku": "OTG10115",
+      "brand": {
+        "@type": "Brand",
+        "name": "REALINN"
+      },
+      "description": "【L-SHAPED DESIGN FITS AROUND PIPES AND GARBAGE DISPOSALS】 The narrow top basket mounts left or right to clear your plumbing. The wide lower tier reclaims f",
+      "image": "https://m.media-amazon.com/images/I/7190ZkFw6KL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "43.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/realinn-under-sink-organizer/"
+      }
+    }
+  },
+  "/products/reynolds-kitchens-unbleached-parchment-paper-roll/": {
+    "path": "/products/reynolds-kitchens-unbleached-parchment-paper-roll/",
+    "page": "product",
+    "title": "Reynolds Kitchens Unbleached Parchment Paper Roll, 45sq ft | RV DREAMS LLC",
+    "description": "Package Includes: One (1) Reynolds Kitchens Unbleached Parchment Paper Roll measuring 45 feet long by 12 inches wide (45 square feet total)",
+    "canonical": "https://www.rvdreamsllc.com/products/reynolds-kitchens-unbleached-parchment-paper-roll/",
+    "product": "reynolds-kitchens-unbleached-parchment-paper-roll",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Reynolds Kitchens Unbleached Parchment Paper Roll, 45sq ft",
+      "sku": "OTG10006",
+      "brand": {
+        "@type": "Brand",
+        "name": "Reynolds"
+      },
+      "description": "Package Includes: One (1) Reynolds Kitchens Unbleached Parchment Paper Roll measuring 45 feet long by 12 inches wide (45 square feet total)",
+      "image": "https://m.media-amazon.com/images/I/71fSQYVwU7L._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "3.59",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/reynolds-kitchens-unbleached-parchment-paper-roll/"
+      }
+    }
+  },
+  "/products/rubbermaid-brilliance-12-cup-airtight-food-storage-container/": {
+    "path": "/products/rubbermaid-brilliance-12-cup-airtight-food-storage-container/",
+    "page": "product",
+    "title": "Rubbermaid Brilliance 12-Cup Airtight Food Storage Container, Perfect  | RV DREAMS LLC",
+    "description": "12-Cup Capacity: Ample storage for all your pantry staples",
+    "canonical": "https://www.rvdreamsllc.com/products/rubbermaid-brilliance-12-cup-airtight-food-storage-container/",
+    "product": "rubbermaid-brilliance-12-cup-airtight-food-storage-container",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Rubbermaid Brilliance 12-Cup Airtight Food Storage Container, Perfect for Pantry Staples, Clear/Grey",
+      "sku": "OTG10030",
+      "brand": {
+        "@type": "Brand",
+        "name": "Rubbermaid"
+      },
+      "description": "12-Cup Capacity: Ample storage for all your pantry staples",
+      "image": "https://m.media-amazon.com/images/I/61uQh8TBVtL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "11.38",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/rubbermaid-brilliance-12-cup-airtight-food-storage-container/"
+      }
+    }
+  },
+  "/products/rubbermaid-brilliance-bpa-free-44-piece-food-storage/": {
+    "path": "/products/rubbermaid-brilliance-bpa-free-44-piece-food-storage/",
+    "page": "product",
+    "title": "Rubbermaid Brilliance BPA Free 44-Piece Food Storage Containers Set Ai | RV DREAMS LLC",
+    "description": "100% Leak-Proof & Airtight: Ensures mess-free transport of your favorite foods",
+    "canonical": "https://www.rvdreamsllc.com/products/rubbermaid-brilliance-bpa-free-44-piece-food-storage/",
+    "product": "rubbermaid-brilliance-bpa-free-44-piece-food-storage",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Rubbermaid Brilliance BPA Free 44-Piece Food Storage Containers Set Airtight Leak-Proof with Lids for Meal Prep Lunch and Leftovers",
+      "sku": "OTG10041",
+      "brand": {
+        "@type": "Brand",
+        "name": "Rubbermaid"
+      },
+      "description": "100% Leak-Proof & Airtight: Ensures mess-free transport of your favorite foods",
+      "image": "https://m.media-amazon.com/images/I/81PH-KLbr3L._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "79.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/rubbermaid-brilliance-bpa-free-44-piece-food-storage/"
+      }
+    }
+  },
+  "/products/rubbermaid-brilliance-glass-food-storage-containers/": {
+    "path": "/products/rubbermaid-brilliance-glass-food-storage-containers/",
+    "page": "product",
+    "title": "Rubbermaid Brilliance Glass Food Storage Containers, Assorted Sizes, S | RV DREAMS LLC",
+    "description": "LEAK-PROOF AND AIRTIGHT: Rubbermaid Brilliance Glass Food Storage Containers have crystal-clear lids that are 100% airtight and leak-proof, plus odor and s",
+    "canonical": "https://www.rvdreamsllc.com/products/rubbermaid-brilliance-glass-food-storage-containers/",
+    "product": "rubbermaid-brilliance-glass-food-storage-containers",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Rubbermaid Brilliance Glass Food Storage Containers, Assorted Sizes, Set of 9, BPA-Free, Leak-Proof, Clear",
+      "sku": "OTG10028",
+      "brand": {
+        "@type": "Brand",
+        "name": "Rubbermaid"
+      },
+      "description": "LEAK-PROOF AND AIRTIGHT: Rubbermaid Brilliance Glass Food Storage Containers have crystal-clear lids that are 100% airtight and leak-proof, plus odor and s",
+      "image": "https://m.media-amazon.com/images/I/71H+hPWNagL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "79.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/rubbermaid-brilliance-glass-food-storage-containers/"
+      }
+    }
+  },
+  "/products/rubbermaid-brilliance-tritan-plastic-food-storage/": {
+    "path": "/products/rubbermaid-brilliance-tritan-plastic-food-storage/",
+    "page": "product",
+    "title": "Rubbermaid Brilliance Tritan Plastic Food Storage Containers BPA Free  | RV DREAMS LLC",
+    "description": "100% Leak-proof: Guaranteed no-spill seal and secure latches",
+    "canonical": "https://www.rvdreamsllc.com/products/rubbermaid-brilliance-tritan-plastic-food-storage/",
+    "product": "rubbermaid-brilliance-tritan-plastic-food-storage",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Rubbermaid Brilliance Tritan Plastic Food Storage Containers BPA Free Airtight Lids Ideal for Lunch Meal Prep & Leftovers Set of 5 (3.2 Cup)",
+      "sku": "OTG10027",
+      "brand": {
+        "@type": "Brand",
+        "name": "Rubbermaid"
+      },
+      "description": "100% Leak-proof: Guaranteed no-spill seal and secure latches",
+      "image": "https://m.media-amazon.com/images/I/81qikuKGJZL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "23.77",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/rubbermaid-brilliance-tritan-plastic-food-storage/"
+      }
+    }
+  },
+  "/products/rubbermaid-easystore-large-containers/": {
+    "path": "/products/rubbermaid-easystore-large-containers/",
+    "page": "product",
+    "title": "Rubbermaid EasyStore Large Containers, 18-Piece Set, Food Storage Cont | RV DREAMS LLC",
+    "description": "Neat & Organized: Each container is designed for easy stacking when in use, and easy storing when not.",
+    "canonical": "https://www.rvdreamsllc.com/products/rubbermaid-easystore-large-containers/",
+    "product": "rubbermaid-easystore-large-containers",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Rubbermaid EasyStore Large Containers, 18-Piece Set, Food Storage Containers with Lids",
+      "sku": "OTG10036",
+      "brand": {
+        "@type": "Brand",
+        "name": "Rubbermaid"
+      },
+      "description": "Neat & Organized: Each container is designed for easy stacking when in use, and easy storing when not.",
+      "image": "https://m.media-amazon.com/images/I/610i+I1KcTL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "22.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/rubbermaid-easystore-large-containers/"
+      }
+    }
+  },
+  "/products/ruibo-baggy-rack-holder-for-food-prep-ziplock-bag/": {
+    "path": "/products/ruibo-baggy-rack-holder-for-food-prep-ziplock-bag/",
+    "page": "product",
+    "title": "Ruibo Baggy Rack Holder For Food Prep/Ziplock Bag, Meal Planning/Plast | RV DREAMS LLC",
+    "description": "Height Adjustable: Measure Frame Size Is 8. 75 Inches X 3. 5 Inches,adjustable Height To Stand Larger Plastic Bags And Increase The Ease Of Storage Of Food",
+    "canonical": "https://www.rvdreamsllc.com/products/ruibo-baggy-rack-holder-for-food-prep-ziplock-bag/",
+    "product": "ruibo-baggy-rack-holder-for-food-prep-ziplock-bag",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Ruibo Baggy Rack Holder For Food Prep/Ziplock Bag, Meal Planning/Plastic Freezer Bag Holders Stand, Green, Pack of 4-4 Pcs",
+      "sku": "OTG10102",
+      "brand": {
+        "@type": "Brand",
+        "name": "Ruibo"
+      },
+      "description": "Height Adjustable: Measure Frame Size Is 8. 75 Inches X 3. 5 Inches,adjustable Height To Stand Larger Plastic Bags And Increase The Ease Of Storage Of Food",
+      "image": "https://m.media-amazon.com/images/I/71m3PvJh32L._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "9.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/ruibo-baggy-rack-holder-for-food-prep-ziplock-bag/"
+      }
+    }
+  },
+  "/products/rustic-utensil-holder-for-kitchen-counter/": {
+    "path": "/products/rustic-utensil-holder-for-kitchen-counter/",
+    "page": "product",
+    "title": "Rustic Utensil Holder for Kitchen Counter - Ceramic Farmhouse Cooking  | RV DREAMS LLC",
+    "description": "Perfect Size for Kitchen Organization – With a 5.5-inch wide opening and 7-inch height, this utensil crock offers the perfect size for organizing everyday ",
+    "canonical": "https://www.rvdreamsllc.com/products/rustic-utensil-holder-for-kitchen-counter/",
+    "product": "rustic-utensil-holder-for-kitchen-counter",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Rustic Utensil Holder for Kitchen Counter - Ceramic Farmhouse Cooking Utensil Crock & Organizer for Spatula, Spoon - Vintage Kitchen Decor (Taupe)",
+      "sku": "OTG10064",
+      "brand": {
+        "@type": "Brand",
+        "name": "CWFutwell"
+      },
+      "description": "Perfect Size for Kitchen Organization – With a 5.5-inch wide opening and 7-inch height, this utensil crock offers the perfect size for organizing everyday ",
+      "image": "https://m.media-amazon.com/images/I/81lEPR8SoUL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "25.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/rustic-utensil-holder-for-kitchen-counter/"
+      }
+    }
+  },
+  "/products/s-t-inc-dish-drying-mat/": {
+    "path": "/products/s-t-inc-dish-drying-mat/",
+    "page": "product",
+    "title": "S&T INC. Dish Drying Mat, 18\" x 24\", XL, Charcoal Grey | RV DREAMS LLC",
+    "description": "One microfiber dish dry Mat XL measuring 18 in. x 24 in.; kitchen mat for countertop absorbs up to 4 times its weight in water to keep your countertop dry,",
+    "canonical": "https://www.rvdreamsllc.com/products/s-t-inc-dish-drying-mat/",
+    "product": "s-t-inc-dish-drying-mat",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "S&T INC. Dish Drying Mat, 18\" x 24\", XL, Charcoal Grey",
+      "sku": "OTG10019",
+      "brand": {
+        "@type": "Brand",
+        "name": "S&T INC."
+      },
+      "description": "One microfiber dish dry Mat XL measuring 18 in. x 24 in.; kitchen mat for countertop absorbs up to 4 times its weight in water to keep your countertop dry,",
+      "image": "https://m.media-amazon.com/images/I/91a121n+rDL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "13.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/s-t-inc-dish-drying-mat/"
+      }
+    }
+  },
+  "/products/sevenblue-3-pack-2-tier-under-sink-organizers-with-sliding/": {
+    "path": "/products/sevenblue-3-pack-2-tier-under-sink-organizers-with-sliding/",
+    "page": "product",
+    "title": "Sevenblue 3-Pack 2-Tier Under Sink Organizers with Sliding Drawers | RV DREAMS LLC",
+    "description": "[Extra Accessories, Endless Uses]: Say goodbye to messy cabinets and cluttered counters. Sevenblue under-sink organizers are a fan favorite—and for good re",
+    "canonical": "https://www.rvdreamsllc.com/products/sevenblue-3-pack-2-tier-under-sink-organizers-with-sliding/",
+    "product": "sevenblue-3-pack-2-tier-under-sink-organizers-with-sliding",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Sevenblue 3-Pack 2-Tier Under Sink Organizers with Sliding Drawers",
+      "sku": "OTG10128",
+      "brand": {
+        "@type": "Brand",
+        "name": "Sevenblue"
+      },
+      "description": "[Extra Accessories, Endless Uses]: Say goodbye to messy cabinets and cluttered counters. Sevenblue under-sink organizers are a fan favorite—and for good re",
+      "image": "https://m.media-amazon.com/images/I/81RYYEs+bZL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "22.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/sevenblue-3-pack-2-tier-under-sink-organizers-with-sliding/"
+      }
+    }
+  },
+  "/products/sikadeer-waterproof-under-sink-mat-34-x-22/": {
+    "path": "/products/sikadeer-waterproof-under-sink-mat-34-x-22/",
+    "page": "product",
+    "title": "SIKADEER Waterproof Under Sink Mat 34\" x 22\", Silicone Mat Kitchen lin | RV DREAMS LLC",
+    "description": "Complete Cabinet Protection: Protect your kitchen and bathroom cabinets from stains, drips, scratches, and everyday messes. The SIKADEER under sink mat hel",
+    "canonical": "https://www.rvdreamsllc.com/products/sikadeer-waterproof-under-sink-mat-34-x-22/",
+    "product": "sikadeer-waterproof-under-sink-mat-34-x-22",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "SIKADEER Waterproof Under Sink Mat 34\" x 22\", Silicone Mat Kitchen liner",
+      "sku": "OTG10123",
+      "brand": {
+        "@type": "Brand",
+        "name": "SIKADEER"
+      },
+      "description": "Complete Cabinet Protection: Protect your kitchen and bathroom cabinets from stains, drips, scratches, and everyday messes. The SIKADEER under sink mat hel",
+      "image": "https://m.media-amazon.com/images/I/719SguKGBSL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "15.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/sikadeer-waterproof-under-sink-mat-34-x-22/"
+      }
+    }
+  },
+  "/products/simple-trending-bamboo-cabinet-organizer-shelf/": {
+    "path": "/products/simple-trending-bamboo-cabinet-organizer-shelf/",
+    "page": "product",
+    "title": "Simple Trending Bamboo Cabinet Organizer Shelf, Set of 2 Kitchen Count | RV DREAMS LLC",
+    "description": "【Ample Storage Space】This kitchen organizer optimizes countertop space, keeping cooking essentials like spice jars, containers, canned goods, kitchen tools",
+    "canonical": "https://www.rvdreamsllc.com/products/simple-trending-bamboo-cabinet-organizer-shelf/",
+    "product": "simple-trending-bamboo-cabinet-organizer-shelf",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Simple Trending Bamboo Cabinet Organizer Shelf, Set of 2 Kitchen Counter Shelves, Stackable Expandable Spice Rack Kitchen Storage, Black and Natural…",
+      "sku": "OTG10113",
+      "brand": {
+        "@type": "Brand",
+        "name": "Simple"
+      },
+      "description": "【Ample Storage Space】This kitchen organizer optimizes countertop space, keeping cooking essentials like spice jars, containers, canned goods, kitchen tools",
+      "image": "https://m.media-amazon.com/images/I/61W0YZmHQ7L._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "11.89",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/simple-trending-bamboo-cabinet-organizer-shelf/"
+      }
+    }
+  },
+  "/products/skteet-set-of-8-clear-plastic-storage-bins/": {
+    "path": "/products/skteet-set-of-8-clear-plastic-storage-bins/",
+    "page": "product",
+    "title": "SKTEET Set of 8 Clear Plastic Storage Bins, 4 Large and 4 Small Stacka | RV DREAMS LLC",
+    "description": "【Transparent without lids】 - The plastic transparent design bins allows you to find what you need easily and quickly, saving a lot of searching time and ke",
+    "canonical": "https://www.rvdreamsllc.com/products/skteet-set-of-8-clear-plastic-storage-bins/",
+    "product": "skteet-set-of-8-clear-plastic-storage-bins",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "SKTEET Set of 8 Clear Plastic Storage Bins, 4 Large and 4 Small Stackable Storage Containers for Pantry Organization and Kitchen Storage Bins,Home…",
+      "sku": "OTG10100",
+      "brand": {
+        "@type": "Brand",
+        "name": "SKTEET"
+      },
+      "description": "【Transparent without lids】 - The plastic transparent design bins allows you to find what you need easily and quickly, saving a lot of searching time and ke",
+      "image": "https://m.media-amazon.com/images/I/81mI5tTiswL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "37.79",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/skteet-set-of-8-clear-plastic-storage-bins/"
+      }
+    }
+  },
+  "/products/songmics-cabinet-organizer-shelf/": {
+    "path": "/products/songmics-cabinet-organizer-shelf/",
+    "page": "product",
+    "title": "SONGMICS Cabinet Organizer Shelf, Set of 2 Spice Rack, Kitchen Storage | RV DREAMS LLC",
+    "description": "[Plenty of Storage] Keep your cooking essentials, such as spice jars, containers, cans, cutlery, and cookbooks organized, easily visible, and quick to find",
+    "canonical": "https://www.rvdreamsllc.com/products/songmics-cabinet-organizer-shelf/",
+    "product": "songmics-cabinet-organizer-shelf",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "SONGMICS Cabinet Organizer Shelf, Set of 2 Spice Rack, Kitchen Storage",
+      "sku": "OTG10126",
+      "brand": {
+        "@type": "Brand",
+        "name": "SONGMICS"
+      },
+      "description": "[Plenty of Storage] Keep your cooking essentials, such as spice jars, containers, cans, cutlery, and cookbooks organized, easily visible, and quick to find",
+      "image": "https://m.media-amazon.com/images/I/71s1bg9wLZL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "11.89",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/songmics-cabinet-organizer-shelf/"
+      }
+    }
+  },
+  "/products/spaceaid-bag-storage-organizer-for-kitchen-drawer/": {
+    "path": "/products/spaceaid-bag-storage-organizer-for-kitchen-drawer/",
+    "page": "product",
+    "title": "SpaceAid Bag Storage Organizer for Kitchen Drawer, Bamboo Organizer, C | RV DREAMS LLC",
+    "description": "FOOD STORAGE BAG HOLDER - Make your drawer neat and organized with this bamboo box; The bag organizer is designed specifically for your food storage bags o",
+    "canonical": "https://www.rvdreamsllc.com/products/spaceaid-bag-storage-organizer-for-kitchen-drawer/",
+    "product": "spaceaid-bag-storage-organizer-for-kitchen-drawer",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "SpaceAid Bag Storage Organizer for Kitchen Drawer, Bamboo Organizer, Compatible with Gallon, Quart, Sandwich and Snack Variety Size Bag (1 Box 4…",
+      "sku": "OTG10092",
+      "brand": {
+        "@type": "Brand",
+        "name": "SpaceAid"
+      },
+      "description": "FOOD STORAGE BAG HOLDER - Make your drawer neat and organized with this bamboo box; The bag organizer is designed specifically for your food storage bags o",
+      "image": "https://m.media-amazon.com/images/I/71P2eegqYIL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "22.78",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/spaceaid-bag-storage-organizer-for-kitchen-drawer/"
+      }
+    }
+  },
+  "/products/suli-extra-large-utensil-holder-countertop-for-kitchen/": {
+    "path": "/products/suli-extra-large-utensil-holder-countertop-for-kitchen/",
+    "page": "product",
+    "title": "Suli Extra Large Utensil Holder Countertop for Kitchen Counter,White G | RV DREAMS LLC",
+    "description": "【Divider Design】Our wooden utensil organizer has 4 compartments. Large, roomy and pretty. Easy to grab utensils. Size:15.75\"L x 5.31\"W x 6.3\"H. You can sto",
+    "canonical": "https://www.rvdreamsllc.com/products/suli-extra-large-utensil-holder-countertop-for-kitchen/",
+    "product": "suli-extra-large-utensil-holder-countertop-for-kitchen",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Suli Extra Large Utensil Holder Countertop for Kitchen Counter,White Grain",
+      "sku": "OTG10069",
+      "brand": {
+        "@type": "Brand",
+        "name": "Suli"
+      },
+      "description": "【Divider Design】Our wooden utensil organizer has 4 compartments. Large, roomy and pretty. Easy to grab utensils. Size:15.75\"L x 5.31\"W x 6.3\"H. You can sto",
+      "image": "https://m.media-amazon.com/images/I/81h3kVbUPiL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "17.73",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/suli-extra-large-utensil-holder-countertop-for-kitchen/"
+      }
+    }
+  },
+  "/products/sunnypoint-neverrust-deluxe-kitchen-bathroom-sink-sponge/": {
+    "path": "/products/sunnypoint-neverrust-deluxe-kitchen-bathroom-sink-sponge/",
+    "page": "product",
+    "title": "SunnyPoint NeverRust Deluxe Kitchen & Bathroom Sink Sponge Holder Orga | RV DREAMS LLC",
+    "description": "This product includes the stainless steel basket and mounting accessories (adhesive pad + suction cups). Important Compatibility Notice – Suction cups work",
+    "canonical": "https://www.rvdreamsllc.com/products/sunnypoint-neverrust-deluxe-kitchen-bathroom-sink-sponge/",
+    "product": "sunnypoint-neverrust-deluxe-kitchen-bathroom-sink-sponge",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "SunnyPoint NeverRust Deluxe Kitchen & Bathroom Sink Sponge Holder Organizer with Adhesive Mount - Additional Suction Cup Included – Sponge & Brush…",
+      "sku": "OTG10096",
+      "brand": {
+        "@type": "Brand",
+        "name": "SunnyPoint"
+      },
+      "description": "This product includes the stainless steel basket and mounting accessories (adhesive pad + suction cups). Important Compatibility Notice – Suction cups work",
+      "image": "https://m.media-amazon.com/images/I/714uOywyqOL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "12.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/sunnypoint-neverrust-deluxe-kitchen-bathroom-sink-sponge/"
+      }
+    }
+  },
+  "/products/sunnypoint-neverrust-kitchen-bathroom-sink-caddy-for/": {
+    "path": "/products/sunnypoint-neverrust-kitchen-bathroom-sink-caddy-for/",
+    "page": "product",
+    "title": "SunnyPoint NeverRust Kitchen & Bathroom Sink Caddy for Sponges, Scrubb | RV DREAMS LLC",
+    "description": "Important Compatibility Notice: Suction cups are only effective on smooth, non-porous surfaces such as polished tile, stainless steel, or glass. Does NOT s",
+    "canonical": "https://www.rvdreamsllc.com/products/sunnypoint-neverrust-kitchen-bathroom-sink-caddy-for/",
+    "product": "sunnypoint-neverrust-kitchen-bathroom-sink-caddy-for",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "SunnyPoint NeverRust Kitchen & Bathroom Sink Caddy for Sponges, Scrubbers, Soap, 6\" x 2.5\" x 2.65\", with Adhesive Mount - Additional Suction Cup…",
+      "sku": "OTG10094",
+      "brand": {
+        "@type": "Brand",
+        "name": "SunnyPoint"
+      },
+      "description": "Important Compatibility Notice: Suction cups are only effective on smooth, non-porous surfaces such as polished tile, stainless steel, or glass. Does NOT s",
+      "image": "https://m.media-amazon.com/images/I/81ROMNy4KvL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "9.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/sunnypoint-neverrust-kitchen-bathroom-sink-caddy-for/"
+      }
+    }
+  },
+  "/products/syrup-pump-compatible-with-torani/": {
+    "path": "/products/syrup-pump-compatible-with-torani/",
+    "page": "product",
+    "title": "Syrup Pump Compatible with Torani, DaVinci and Skinny (Set of 2) - fit | RV DREAMS LLC",
+    "description": "Universal Fit for 750ml & 1L Plastic: Our 28mm/400 neck precision-fits standard 750ml Torani, DaVinci, Skinny Mixes, Upouria, Holy Kakow & Good Times bottl",
+    "canonical": "https://www.rvdreamsllc.com/products/syrup-pump-compatible-with-torani/",
+    "product": "syrup-pump-compatible-with-torani",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Syrup Pump Compatible with Torani, DaVinci and Skinny (Set of 2) - fits bottles (25.4 oz-750ml) (Gold)",
+      "sku": "OTG10048",
+      "brand": {
+        "@type": "Brand",
+        "name": "PERMINKS"
+      },
+      "description": "Universal Fit for 750ml & 1L Plastic: Our 28mm/400 neck precision-fits standard 750ml Torani, DaVinci, Skinny Mixes, Upouria, Holy Kakow & Good Times bottl",
+      "image": "https://m.media-amazon.com/images/I/515doQyVZvL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "5.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/syrup-pump-compatible-with-torani/"
+      }
+    }
+  },
+  "/products/tacgea-chip-clips/": {
+    "path": "/products/tacgea-chip-clips/",
+    "page": "product",
+    "title": "TACGEA Chip Clips, Magnetic Bag Clips for Food Storage, 12 Pack, Neutr | RV DREAMS LLC",
+    "description": "【Package Includes】12 pcs magnet bag clips (0.98\" W x 3\" L x 1.81\" H) with 6 different neutral colors.",
+    "canonical": "https://www.rvdreamsllc.com/products/tacgea-chip-clips/",
+    "product": "tacgea-chip-clips",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "TACGEA Chip Clips, Magnetic Bag Clips for Food Storage, 12 Pack, Neutral",
+      "sku": "OTG10086",
+      "brand": {
+        "@type": "Brand",
+        "name": "TACGEA"
+      },
+      "description": "【Package Includes】12 pcs magnet bag clips (0.98\" W x 3\" L x 1.81\" H) with 6 different neutral colors.",
+      "image": "https://m.media-amazon.com/images/I/71wnB-QpxoL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "7.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/tacgea-chip-clips/"
+      }
+    }
+  },
+  "/products/tacgea-chip-clips-2/": {
+    "path": "/products/tacgea-chip-clips-2/",
+    "page": "product",
+    "title": "TACGEA Chip Clips, 8 Pack Bag Clips, Upgrade Wide-Open, for Food Stora | RV DREAMS LLC",
+    "description": "【Upgraded Wide Opening】Enlarge the opening of the clip, easier to open and close than other similar bag clips. Package Includes: 4 Large clips (6\" W x 3.5\"",
+    "canonical": "https://www.rvdreamsllc.com/products/tacgea-chip-clips-2/",
+    "product": "tacgea-chip-clips-2",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "TACGEA Chip Clips, 8 Pack Bag Clips, Upgrade Wide-Open, for Food Storage",
+      "sku": "OTG10095",
+      "brand": {
+        "@type": "Brand",
+        "name": "TACGEA"
+      },
+      "description": "【Upgraded Wide Opening】Enlarge the opening of the clip, easier to open and close than other similar bag clips. Package Includes: 4 Large clips (6\" W x 3.5\"",
+      "image": "https://m.media-amazon.com/images/I/61whM35siAL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "8.98",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/tacgea-chip-clips-2/"
+      }
+    }
+  },
+  "/products/taili-rustproof-sponge-holder-for-kitchen-sink-with-suction/": {
+    "path": "/products/taili-rustproof-sponge-holder-for-kitchen-sink-with-suction/",
+    "page": "product",
+    "title": "TAILI Rustproof Sponge Holder for Kitchen Sink with Suction Cup-Silver | RV DREAMS LLC",
+    "description": "[Durability & Strong Suction]: This sponge holder features a patented suction cup designed with octopus-inspired bionics. Made from sturdy, water-resistant",
+    "canonical": "https://www.rvdreamsllc.com/products/taili-rustproof-sponge-holder-for-kitchen-sink-with-suction/",
+    "product": "taili-rustproof-sponge-holder-for-kitchen-sink-with-suction",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "TAILI Rustproof Sponge Holder for Kitchen Sink with Suction Cup-Silver",
+      "sku": "OTG10097",
+      "brand": {
+        "@type": "Brand",
+        "name": "TAILI"
+      },
+      "description": "[Durability & Strong Suction]: This sponge holder features a patented suction cup designed with octopus-inspired bionics. Made from sturdy, water-resistant",
+      "image": "https://m.media-amazon.com/images/I/61LrYDPE1GL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "14.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/taili-rustproof-sponge-holder-for-kitchen-sink-with-suction/"
+      }
+    }
+  },
+  "/products/taili-sponge-holder-for-kitchen-sink-with-strong-suction/": {
+    "path": "/products/taili-sponge-holder-for-kitchen-sink-with-strong-suction/",
+    "page": "product",
+    "title": "TAILI Sponge Holder for Kitchen Sink with Strong Suction Cup-Black | RV DREAMS LLC",
+    "description": "[Durability & Strong Suction]: Comes with a patented suction cup designed using the bionics octopus sucker principle and made from TPE material for a stron",
+    "canonical": "https://www.rvdreamsllc.com/products/taili-sponge-holder-for-kitchen-sink-with-strong-suction/",
+    "product": "taili-sponge-holder-for-kitchen-sink-with-strong-suction",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "TAILI Sponge Holder for Kitchen Sink with Strong Suction Cup-Black",
+      "sku": "OTG10104",
+      "brand": {
+        "@type": "Brand",
+        "name": "TAILI"
+      },
+      "description": "[Durability & Strong Suction]: Comes with a patented suction cup designed using the bionics octopus sucker principle and made from TPE material for a stron",
+      "image": "https://m.media-amazon.com/images/I/71u1ZzA5kkL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "14.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/taili-sponge-holder-for-kitchen-sink-with-strong-suction/"
+      }
+    }
+  },
+  "/products/tiawudi-12-pack-plastic-storage-bins/": {
+    "path": "/products/tiawudi-12-pack-plastic-storage-bins/",
+    "page": "product",
+    "title": "Tiawudi 12 Pack Plastic Storage Bins, Multi-Use Organizer Bins, Pantry | RV DREAMS LLC",
+    "description": "BPA Free Material: Our storage bins are made of premium BPA free, durable, shatter-resistant, clear plastic. Food Safe. These organizer bins are crystal cl",
+    "canonical": "https://www.rvdreamsllc.com/products/tiawudi-12-pack-plastic-storage-bins/",
+    "product": "tiawudi-12-pack-plastic-storage-bins",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Tiawudi 12 Pack Plastic Storage Bins, Multi-Use Organizer Bins, Pantry Organizer, Clear Storage Containers for Home, Kitchen, Office, Cabinet, Shelf…",
+      "sku": "OTG10103",
+      "brand": {
+        "@type": "Brand",
+        "name": "Tiawudi"
+      },
+      "description": "BPA Free Material: Our storage bins are made of premium BPA free, durable, shatter-resistant, clear plastic. Food Safe. These organizer bins are crystal cl",
+      "image": "https://m.media-amazon.com/images/I/710alNPbUZL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "28.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/tiawudi-12-pack-plastic-storage-bins/"
+      }
+    }
+  },
+  "/products/tongs-for-cooking-up-to-600-f-metal-kitchen-tongs-3pcs-7/": {
+    "path": "/products/tongs-for-cooking-up-to-600-f-metal-kitchen-tongs-3pcs-7/",
+    "page": "product",
+    "title": "Tongs For Cooking Up to 600 °F Metal Kitchen Tongs 3PCS 7,9,12 Inch | RV DREAMS LLC",
+    "description": "STRUDY FOOD-GRADE STAINLESS STEEL COOKING TONGS - EDDEAS kitchen tongs for cooking are made of 1mm thick food-grade stainless steel in one piece for enhanc",
+    "canonical": "https://www.rvdreamsllc.com/products/tongs-for-cooking-up-to-600-f-metal-kitchen-tongs-3pcs-7/",
+    "product": "tongs-for-cooking-up-to-600-f-metal-kitchen-tongs-3pcs-7",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Tongs For Cooking Up to 600 °F Metal Kitchen Tongs 3PCS 7,9,12 Inch",
+      "sku": "OTG10023",
+      "brand": {
+        "@type": "Brand",
+        "name": "Eddeas"
+      },
+      "description": "STRUDY FOOD-GRADE STAINLESS STEEL COOKING TONGS - EDDEAS kitchen tongs for cooking are made of 1mm thick food-grade stainless steel in one piece for enhanc",
+      "image": "https://m.media-amazon.com/images/I/613HXCnsNKL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "12.75",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/tongs-for-cooking-up-to-600-f-metal-kitchen-tongs-3pcs-7/"
+      }
+    }
+  },
+  "/products/toplife-sponge-holder-for-kitchen-sink/": {
+    "path": "/products/toplife-sponge-holder-for-kitchen-sink/",
+    "page": "product",
+    "title": "Toplife Sponge Holder for Kitchen Sink, Stainless Steel Suction Cup Sp | RV DREAMS LLC",
+    "description": "Open design for easy draining, made of stainless steel",
+    "canonical": "https://www.rvdreamsllc.com/products/toplife-sponge-holder-for-kitchen-sink/",
+    "product": "toplife-sponge-holder-for-kitchen-sink",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Toplife Sponge Holder for Kitchen Sink, Stainless Steel Suction Cup Sponge Caddy - Silver",
+      "sku": "OTG10093",
+      "brand": {
+        "@type": "Brand",
+        "name": "Toplife"
+      },
+      "description": "Open design for easy draining, made of stainless steel",
+      "image": "https://m.media-amazon.com/images/I/614Dw41m0RL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "9.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/toplife-sponge-holder-for-kitchen-sink/"
+      }
+    }
+  },
+  "/products/topyokk-stoneware-coffee-bar-utensil-holder-tea-coffee/": {
+    "path": "/products/topyokk-stoneware-coffee-bar-utensil-holder-tea-coffee/",
+    "page": "product",
+    "title": "TOPYOKK Stoneware Coffee Bar Utensil Holder Tea & Coffee Spoon & Stirr | RV DREAMS LLC",
+    "description": "💕 【Designed and Decorative】: The coffee spoon holder for coffee bar accessories features a crisp, modern finish highlighted by vertical ribbed, fluted stri",
+    "canonical": "https://www.rvdreamsllc.com/products/topyokk-stoneware-coffee-bar-utensil-holder-tea-coffee/",
+    "product": "topyokk-stoneware-coffee-bar-utensil-holder-tea-coffee",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "TOPYOKK Stoneware Coffee Bar Utensil Holder Tea & Coffee Spoon & Stirrer Holder for Stir Stick Straw Teaspoon Holder Espresso Spoon Cup Small Utensil…",
+      "sku": "OTG10071",
+      "brand": {
+        "@type": "Brand",
+        "name": "TOPYOKK"
+      },
+      "description": "💕 【Designed and Decorative】: The coffee spoon holder for coffee bar accessories features a crisp, modern finish highlighted by vertical ribbed, fluted stri",
+      "image": "https://m.media-amazon.com/images/I/611ETK6uenL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "13.95",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/topyokk-stoneware-coffee-bar-utensil-holder-tea-coffee/"
+      }
+    }
+  },
+  "/products/trendplain-16oz-470ml-glass-olive-oil-sprayer-for-cooking/": {
+    "path": "/products/trendplain-16oz-470ml-glass-olive-oil-sprayer-for-cooking/",
+    "page": "product",
+    "title": "TrendPlain 16oz/470ml Glass Olive Oil Sprayer for Cooking – 2 in 1 Oli | RV DREAMS LLC",
+    "description": "Lifetime Assurance: We stand behind the quality of our oil dispenser for kitchen. If you experience any issues or are not completely satisfied, simply reac",
+    "canonical": "https://www.rvdreamsllc.com/products/trendplain-16oz-470ml-glass-olive-oil-sprayer-for-cooking/",
+    "product": "trendplain-16oz-470ml-glass-olive-oil-sprayer-for-cooking",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "TrendPlain 16oz/470ml Glass Olive Oil Sprayer for Cooking – 2 in 1 Olive Oil Dispenser Bottle for Kitchen Gadgets and Air Fryer Accessories, Salad…",
+      "sku": "OTG10009",
+      "brand": {
+        "@type": "Brand",
+        "name": "TrendPlain"
+      },
+      "description": "Lifetime Assurance: We stand behind the quality of our oil dispenser for kitchen. If you experience any issues or are not completely satisfied, simply reac",
+      "image": "https://m.media-amazon.com/images/I/716HuBmcRsL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "8.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/trendplain-16oz-470ml-glass-olive-oil-sprayer-for-cooking/"
+      }
+    }
+  },
+  "/products/ukeetap-extra-large-expandable-silverware-organizer/": {
+    "path": "/products/ukeetap-extra-large-expandable-silverware-organizer/",
+    "page": "product",
+    "title": "ukeetap Extra Large Expandable Silverware Organizer, Flatware Tray, Bl | RV DREAMS LLC",
+    "description": "No Fabric",
+    "canonical": "https://www.rvdreamsllc.com/products/ukeetap-extra-large-expandable-silverware-organizer/",
+    "product": "ukeetap-extra-large-expandable-silverware-organizer",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "ukeetap Extra Large Expandable Silverware Organizer, Flatware Tray, Black",
+      "sku": "OTG10056",
+      "brand": {
+        "@type": "Brand",
+        "name": "ukeetap"
+      },
+      "description": "No Fabric",
+      "image": "https://m.media-amazon.com/images/I/71Ud-lm6ESL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "16.98",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/ukeetap-extra-large-expandable-silverware-organizer/"
+      }
+    }
+  },
+  "/products/urmona-waterproof-silicone-under-sink-mat-31-x-22-shelf/": {
+    "path": "/products/urmona-waterproof-silicone-under-sink-mat-31-x-22-shelf/",
+    "page": "product",
+    "title": "URMONA Waterproof Silicone Under Sink Mat 31'' x 22'' Shelf Liner for  | RV DREAMS LLC",
+    "description": "【Under Sink Mat】：URMONA Silicone mat made of high quality durable silicone material, waterproof and oil resistant, making wiping up spills a breeze. Double",
+    "canonical": "https://www.rvdreamsllc.com/products/urmona-waterproof-silicone-under-sink-mat-31-x-22-shelf/",
+    "product": "urmona-waterproof-silicone-under-sink-mat-31-x-22-shelf",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "URMONA Waterproof Silicone Under Sink Mat 31'' x 22'' Shelf Liner for Kitchen and Bathroom, Cabinet and Counter Protector, Storage and Organizers…",
+      "sku": "OTG10122",
+      "brand": {
+        "@type": "Brand",
+        "name": "URMONA"
+      },
+      "description": "【Under Sink Mat】：URMONA Silicone mat made of high quality durable silicone material, waterproof and oil resistant, making wiping up spills a breeze. Double",
+      "image": "https://m.media-amazon.com/images/I/71UsueD3EbL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "11.69",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/urmona-waterproof-silicone-under-sink-mat-31-x-22-shelf/"
+      }
+    }
+  },
+  "/products/utensil-holder/": {
+    "path": "/products/utensil-holder/",
+    "page": "product",
+    "title": "Utensil Holder, 360° Rotating Extra Large Ceramic Kitchen Utensil Hold | RV DREAMS LLC",
+    "description": "360° Rotating: The MIKIGEY utensil holder features a unique rotating design that allows easy access to all your kitchen utensils, making cooking more effic",
+    "canonical": "https://www.rvdreamsllc.com/products/utensil-holder/",
+    "product": "utensil-holder",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Utensil Holder, 360° Rotating Extra Large Ceramic Kitchen Utensil Holder for Countertop, 7.3“ Cooking Utensil Crocks for Kitchen Counter with…",
+      "sku": "OTG10072",
+      "brand": {
+        "@type": "Brand",
+        "name": "MIKIGEY"
+      },
+      "description": "360° Rotating: The MIKIGEY utensil holder features a unique rotating design that allows easy access to all your kitchen utensils, making cooking more effic",
+      "image": "https://m.media-amazon.com/images/I/717Seg9lWoL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "26.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/utensil-holder/"
+      }
+    }
+  },
+  "/products/vacuum-sealer-bags-for-food-6-pack/": {
+    "path": "/products/vacuum-sealer-bags-for-food-6-pack/",
+    "page": "product",
+    "title": "Vacuum Sealer Bags For Food 6 Pack, Kitchen Essentials, Sandwich Bags | RV DREAMS LLC",
+    "description": "VACUUM SEALER BAGS ROLLS: 8\"x20' 3rolls+11\"x20' 3rolls, XinBaoLong Food Saver Bags Rolls, Commercial Grade, Heavy Duty, BPA Free for Vac Storage, Kitchen G",
+    "canonical": "https://www.rvdreamsllc.com/products/vacuum-sealer-bags-for-food-6-pack/",
+    "product": "vacuum-sealer-bags-for-food-6-pack",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Vacuum Sealer Bags For Food 6 Pack, Kitchen Essentials, Sandwich Bags",
+      "sku": "OTG10031",
+      "brand": {
+        "@type": "Brand",
+        "name": "xinbaolong"
+      },
+      "description": "VACUUM SEALER BAGS ROLLS: 8\"x20' 3rolls+11\"x20' 3rolls, XinBaoLong Food Saver Bags Rolls, Commercial Grade, Heavy Duty, BPA Free for Vac Storage, Kitchen G",
+      "image": "https://m.media-amazon.com/images/I/717WZHBCd6L._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "16.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/vacuum-sealer-bags-for-food-6-pack/"
+      }
+    }
+  },
+  "/products/veken-coffee-canister-with-window/": {
+    "path": "/products/veken-coffee-canister-with-window/",
+    "page": "product",
+    "title": "Veken Coffee Canister with Window, Airtight Stainless Steel Container, | RV DREAMS LLC",
+    "description": "Gifts for Coffee Lovers: This elegantly designed jar is a stylish and functional gift for coffee lovers, friends, and family. It keeps coffee fresh and cou",
+    "canonical": "https://www.rvdreamsllc.com/products/veken-coffee-canister-with-window/",
+    "product": "veken-coffee-canister-with-window",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Veken Coffee Canister with Window, Airtight Stainless Steel Container, 22OZ",
+      "sku": "OTG10035",
+      "brand": {
+        "@type": "Brand",
+        "name": "Veken"
+      },
+      "description": "Gifts for Coffee Lovers: This elegantly designed jar is a stylish and functional gift for coffee lovers, friends, and family. It keeps coffee fresh and cou",
+      "image": "https://m.media-amazon.com/images/I/71qLajbTsmL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "15.55",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/veken-coffee-canister-with-window/"
+      }
+    }
+  },
+  "/products/vtopmart-5pack-22oz-glass-storage-containers-with-lids/": {
+    "path": "/products/vtopmart-5pack-22oz-glass-storage-containers-with-lids/",
+    "page": "product",
+    "title": "Vtopmart 5Pack 22oz Glass Storage Containers with Lids, Grey | RV DREAMS LLC",
+    "description": "【Meal Prep Glass Containers】The 5pack 22oz food storage containers is perfect for food prep, office lunches, take out, packing leftovers, portion control, ",
+    "canonical": "https://www.rvdreamsllc.com/products/vtopmart-5pack-22oz-glass-storage-containers-with-lids/",
+    "product": "vtopmart-5pack-22oz-glass-storage-containers-with-lids",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Vtopmart 5Pack 22oz Glass Storage Containers with Lids, Grey",
+      "sku": "OTG10052",
+      "brand": {
+        "@type": "Brand",
+        "name": "Vtopmart"
+      },
+      "description": "【Meal Prep Glass Containers】The 5pack 22oz food storage containers is perfect for food prep, office lunches, take out, packing leftovers, portion control, ",
+      "image": "https://m.media-amazon.com/images/I/81x+yB79b1L._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "24.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/vtopmart-5pack-22oz-glass-storage-containers-with-lids/"
+      }
+    }
+  },
+  "/products/vtopmart-6-pack-clear-stackable-storage-bins-with-lids-and/": {
+    "path": "/products/vtopmart-6-pack-clear-stackable-storage-bins-with-lids-and/",
+    "page": "product",
+    "title": "Vtopmart 6 Pack Clear Stackable Storage Bins with Lids and Handles, La | RV DREAMS LLC",
+    "description": "✅Functional Storage for Any Space: You can use these pantry bins for various things throughout your home to organize and make your life easier. They are fi",
+    "canonical": "https://www.rvdreamsllc.com/products/vtopmart-6-pack-clear-stackable-storage-bins-with-lids-and/",
+    "product": "vtopmart-6-pack-clear-stackable-storage-bins-with-lids-and",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Vtopmart 6 Pack Clear Stackable Storage Bins with Lids and Handles, Large",
+      "sku": "OTG10087",
+      "brand": {
+        "@type": "Brand",
+        "name": "Vtopmart"
+      },
+      "description": "✅Functional Storage for Any Space: You can use these pantry bins for various things throughout your home to organize and make your life easier. They are fi",
+      "image": "https://m.media-amazon.com/images/I/81tHqvDlUyL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "28.85",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/vtopmart-6-pack-clear-stackable-storage-bins-with-lids-and/"
+      }
+    }
+  },
+  "/products/vtopmart-6-pack-clear-storage-bins/": {
+    "path": "/products/vtopmart-6-pack-clear-storage-bins/",
+    "page": "product",
+    "title": "Vtopmart 6 Pack Clear Storage Bins, Pantry Cabinet Organizer Bins, Med | RV DREAMS LLC",
+    "description": "Make Your Life Much Easier ---- You can use these pantry bins for various things throughout your home to organize and make your life easier. They are great",
+    "canonical": "https://www.rvdreamsllc.com/products/vtopmart-6-pack-clear-storage-bins/",
+    "product": "vtopmart-6-pack-clear-storage-bins",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Vtopmart 6 Pack Clear Storage Bins, Pantry Cabinet Organizer Bins, Medium",
+      "sku": "OTG10105",
+      "brand": {
+        "@type": "Brand",
+        "name": "Vtopmart"
+      },
+      "description": "Make Your Life Much Easier ---- You can use these pantry bins for various things throughout your home to organize and make your life easier. They are great",
+      "image": "https://m.media-amazon.com/images/I/71iIfNxwpmL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "24.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/vtopmart-6-pack-clear-storage-bins/"
+      }
+    }
+  },
+  "/products/vtopmart-8-pack-food-storage-organizer-bins/": {
+    "path": "/products/vtopmart-8-pack-food-storage-organizer-bins/",
+    "page": "product",
+    "title": "Vtopmart 8 Pack Food Storage Organizer Bins, Clear Plastic, 4 Compartm | RV DREAMS LLC",
+    "description": "Make Storage More Simple — If you are struggling with your packets and want something to organize them, our food packet organizer bins will be a great choi",
+    "canonical": "https://www.rvdreamsllc.com/products/vtopmart-8-pack-food-storage-organizer-bins/",
+    "product": "vtopmart-8-pack-food-storage-organizer-bins",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Vtopmart 8 Pack Food Storage Organizer Bins, Clear Plastic, 4 Compartments",
+      "sku": "OTG10090",
+      "brand": {
+        "@type": "Brand",
+        "name": "Vtopmart"
+      },
+      "description": "Make Storage More Simple — If you are struggling with your packets and want something to organize them, our food packet organizer bins will be a great choi",
+      "image": "https://m.media-amazon.com/images/I/81pDVogHaEL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "29.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/vtopmart-8-pack-food-storage-organizer-bins/"
+      }
+    }
+  },
+  "/products/vtopmart-8-pack-glass-food-storage-containers-with-lids/": {
+    "path": "/products/vtopmart-8-pack-glass-food-storage-containers-with-lids/",
+    "page": "product",
+    "title": "Vtopmart 8 Pack Glass Food Storage Containers with Lids Green | RV DREAMS LLC",
+    "description": "【Set of 8 Glass Storage Containers】Rectangle (35.1OZ)+(21.6OZ)+(12.5OZ)+(5OZ); Square (27.1OZ)+(17.6OZ)+(10.8OZ)+(6.8OZ); large and small containers are ve",
+    "canonical": "https://www.rvdreamsllc.com/products/vtopmart-8-pack-glass-food-storage-containers-with-lids/",
+    "product": "vtopmart-8-pack-glass-food-storage-containers-with-lids",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Vtopmart 8 Pack Glass Food Storage Containers with Lids Green",
+      "sku": "OTG10054",
+      "brand": {
+        "@type": "Brand",
+        "name": "Vtopmart"
+      },
+      "description": "【Set of 8 Glass Storage Containers】Rectangle (35.1OZ)+(21.6OZ)+(12.5OZ)+(5OZ); Square (27.1OZ)+(17.6OZ)+(10.8OZ)+(6.8OZ); large and small containers are ve",
+      "image": "https://m.media-amazon.com/images/I/71xlXpdVSUL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "21.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/vtopmart-8-pack-glass-food-storage-containers-with-lids/"
+      }
+    }
+  },
+  "/products/vtopmart-airtight-food-storage-containers-with-lids/": {
+    "path": "/products/vtopmart-airtight-food-storage-containers-with-lids/",
+    "page": "product",
+    "title": "Vtopmart Airtight Food Storage Containers with Lids, 24 pcs, Black | RV DREAMS LLC",
+    "description": "Help Organize Your Kitchen and Pantry: Imagine every time walking to your kitchen or pantry, found everything is neatly organized. No longer messy, you can",
+    "canonical": "https://www.rvdreamsllc.com/products/vtopmart-airtight-food-storage-containers-with-lids/",
+    "product": "vtopmart-airtight-food-storage-containers-with-lids",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Vtopmart Airtight Food Storage Containers with Lids, 24 pcs, Black",
+      "sku": "OTG10045",
+      "brand": {
+        "@type": "Brand",
+        "name": "Vtopmart"
+      },
+      "description": "Help Organize Your Kitchen and Pantry: Imagine every time walking to your kitchen or pantry, found everything is neatly organized. No longer messy, you can",
+      "image": "https://m.media-amazon.com/images/I/815-8TBdlnL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "14.49",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/vtopmart-airtight-food-storage-containers-with-lids/"
+      }
+    }
+  },
+  "/products/wevac-vacuum-sealer-bags-for-food-11x50-2-rolls/": {
+    "path": "/products/wevac-vacuum-sealer-bags-for-food-11x50-2-rolls/",
+    "page": "product",
+    "title": "Wevac Vacuum Sealer Bags for Food 11x50 2 Rolls, Fit Food Saver Machin | RV DREAMS LLC",
+    "description": "HEAVY DUTY AND PUNCTURE PREVENTION - 2 pack of 11 inch by 50 feet rolls with embossed channels to increase suction, keep fresh without freezer burn or dehy",
+    "canonical": "https://www.rvdreamsllc.com/products/wevac-vacuum-sealer-bags-for-food-11x50-2-rolls/",
+    "product": "wevac-vacuum-sealer-bags-for-food-11x50-2-rolls",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Wevac Vacuum Sealer Bags for Food 11x50 2 Rolls, Fit Food Saver Machines",
+      "sku": "OTG10042",
+      "brand": {
+        "@type": "Brand",
+        "name": "Wevac"
+      },
+      "description": "HEAVY DUTY AND PUNCTURE PREVENTION - 2 pack of 11 inch by 50 feet rolls with embossed channels to increase suction, keep fresh without freezer burn or dehy",
+      "image": "https://m.media-amazon.com/images/I/717nZPSpKrL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "16.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/wevac-vacuum-sealer-bags-for-food-11x50-2-rolls/"
+      }
+    }
+  },
+  "/products/winisok-waterproof-under-sink-mat-34-x-22/": {
+    "path": "/products/winisok-waterproof-under-sink-mat-34-x-22/",
+    "page": "product",
+    "title": "Winisok Waterproof Under Sink Mat 34\" x 22\", Silicone Mat, Dark Gray | RV DREAMS LLC",
+    "description": "Ultimate Protection: WINISOK under sink mat provides unparalleled protection to your cabinets, shelves, and floors from plumbing leaks, stains, scratches, ",
+    "canonical": "https://www.rvdreamsllc.com/products/winisok-waterproof-under-sink-mat-34-x-22/",
+    "product": "winisok-waterproof-under-sink-mat-34-x-22",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Winisok Waterproof Under Sink Mat 34\" x 22\", Silicone Mat, Dark Gray",
+      "sku": "OTG10117",
+      "brand": {
+        "@type": "Brand",
+        "name": "Winisok"
+      },
+      "description": "Ultimate Protection: WINISOK under sink mat provides unparalleled protection to your cabinets, shelves, and floors from plumbing leaks, stains, scratches, ",
+      "image": "https://m.media-amazon.com/images/I/71NUnqiBWbL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "15.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/winisok-waterproof-under-sink-mat-34-x-22/"
+      }
+    }
+  },
+  "/products/yarall-32-pcs-plastic-chip-clips-for-food-packages/": {
+    "path": "/products/yarall-32-pcs-plastic-chip-clips-for-food-packages/",
+    "page": "product",
+    "title": "Yarall 32 PCS Plastic Chip Clips for Food Packages, Curved Design Seal | RV DREAMS LLC",
+    "description": "Improved Sealing Efficiency with Curved Design – Our premium food bag clips lock in freshness for bread, chips, coffee, and more. The gently curved design ",
+    "canonical": "https://www.rvdreamsllc.com/products/yarall-32-pcs-plastic-chip-clips-for-food-packages/",
+    "product": "yarall-32-pcs-plastic-chip-clips-for-food-packages",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Yarall 32 PCS Plastic Chip Clips for Food Packages, Curved Design Sealing Bag Clips for Food, Kitchen and Home, 2 Sizes(4.3inch x 20, 3.1inch x 12)",
+      "sku": "OTG10099",
+      "brand": {
+        "@type": "Brand",
+        "name": "Yarall"
+      },
+      "description": "Improved Sealing Efficiency with Curved Design – Our premium food bag clips lock in freshness for bread, chips, coffee, and more. The gently curved design ",
+      "image": "https://m.media-amazon.com/images/I/71CjNNeqxiL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "7.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/yarall-32-pcs-plastic-chip-clips-for-food-packages/"
+      }
+    }
+  },
+  "/products/yarramate-16-oz-2-in-1-glass-olive-oil-sprayer-for-cooking/": {
+    "path": "/products/yarramate-16-oz-2-in-1-glass-olive-oil-sprayer-for-cooking/",
+    "page": "product",
+    "title": "YARRAMATE 16 oz 2-in-1 Glass Olive Oil Sprayer for Cooking, Black | RV DREAMS LLC",
+    "description": "Dual-Function Design & Multi-Purpose: Oil spray bottle for cooking offers the convenience of both spraying and pouring oil, suitable for a wide range of fo",
+    "canonical": "https://www.rvdreamsllc.com/products/yarramate-16-oz-2-in-1-glass-olive-oil-sprayer-for-cooking/",
+    "product": "yarramate-16-oz-2-in-1-glass-olive-oil-sprayer-for-cooking",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "YARRAMATE 16 oz 2-in-1 Glass Olive Oil Sprayer for Cooking, Black",
+      "sku": "OTG10010",
+      "brand": {
+        "@type": "Brand",
+        "name": "YARRAMATE"
+      },
+      "description": "Dual-Function Design & Multi-Purpose: Oil spray bottle for cooking offers the convenience of both spraying and pouring oil, suitable for a wide range of fo",
+      "image": "https://m.media-amazon.com/images/I/71ZjnwrH7iL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "8.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/yarramate-16-oz-2-in-1-glass-olive-oil-sprayer-for-cooking/"
+      }
+    }
+  },
+  "/products/yihong-6-pack-clear-storage-bins/": {
+    "path": "/products/yihong-6-pack-clear-storage-bins/",
+    "page": "product",
+    "title": "YIHONG 6 Pack Clear Storage Bins, Pantry Organizer Bins with Handle, L | RV DREAMS LLC",
+    "description": "Make Storage More Simple — These clear storage bins are versatile enough to fit easily in your fridge, refrigerator as well as pantry shelves, and cabinets",
+    "canonical": "https://www.rvdreamsllc.com/products/yihong-6-pack-clear-storage-bins/",
+    "product": "yihong-6-pack-clear-storage-bins",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "YIHONG 6 Pack Clear Storage Bins, Pantry Organizer Bins with Handle, Large",
+      "sku": "OTG10091",
+      "brand": {
+        "@type": "Brand",
+        "name": "YIHONG"
+      },
+      "description": "Make Storage More Simple — These clear storage bins are versatile enough to fit easily in your fridge, refrigerator as well as pantry shelves, and cabinets",
+      "image": "https://m.media-amazon.com/images/I/712HWGjj6mL._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "23.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/yihong-6-pack-clear-storage-bins/"
+      }
+    }
+  },
+  "/products/zeslmg-adhesive-wall-hooks-for-hanging/": {
+    "path": "/products/zeslmg-adhesive-wall-hooks-for-hanging/",
+    "page": "product",
+    "title": "ZESLMG Adhesive Wall Hooks for Hanging, 16 Pack Self Sticky Hook No Dr | RV DREAMS LLC",
+    "description": "Stainless Steel Invisible Adhesive Hooks - No Drill Wall Hooks: 16 small stick on hooks in one pack, the wall hooks for hanging are made of stainless steel",
+    "canonical": "https://www.rvdreamsllc.com/products/zeslmg-adhesive-wall-hooks-for-hanging/",
+    "product": "zeslmg-adhesive-wall-hooks-for-hanging",
+    "cat": "",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "ZESLMG Adhesive Wall Hooks for Hanging, 16 Pack Self Sticky Hook No Drill",
+      "sku": "OTG10059",
+      "brand": {
+        "@type": "Brand",
+        "name": "ZESLMG"
+      },
+      "description": "Stainless Steel Invisible Adhesive Hooks - No Drill Wall Hooks: 16 small stick on hooks in one pack, the wall hooks for hanging are made of stainless steel",
+      "image": "https://m.media-amazon.com/images/I/61508dk238L._AC_SL1000_.jpg",
+      "offers": {
+        "@type": "Offer",
+        "price": "7.97",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.rvdreamsllc.com/products/zeslmg-adhesive-wall-hooks-for-hanging/"
+      }
+    }
+  },
+  "/shop/": {
+    "path": "/shop/",
+    "page": "shop",
+    "title": "Shop All Products | RV DREAMS LLC",
+    "description": "Shop all RV DREAMS home organization and kitchen products. Ships from Dallas, TX.",
+    "canonical": "https://www.rvdreamsllc.com/shop/",
+    "product": "",
+    "cat": "All",
+    "structuredData": null
+  },
+  "/thank-you/": {
+    "path": "/thank-you/",
+    "page": "thank-you",
+    "title": "Thank You for Your Order | RV DREAMS LLC",
+    "description": "Your RV DREAMS order has been received.",
+    "canonical": "https://www.rvdreamsllc.com/thank-you/",
+    "product": "",
+    "cat": "",
+    "structuredData": null
+  }
+}
