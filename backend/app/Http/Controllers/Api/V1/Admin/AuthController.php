@@ -23,6 +23,14 @@ class AuthController extends Controller
             ]);
         }
 
+        if (! $request->user()?->is_admin) {
+            Auth::guard('web')->logout();
+            $request->session()->invalidate();
+            $request->session()->regenerateToken();
+
+            return response()->json(['message' => 'These credentials do not have administrator access.'], 403);
+        }
+
         $request->session()->regenerate();
 
         return response()->json(['user' => $request->user()]);
