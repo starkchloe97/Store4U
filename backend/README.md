@@ -37,7 +37,7 @@ Run:
 
 Then enter this in Tinker, replacing the example email and password with your own:
 
-    App\Models\User::updateOrCreate(
+    AppModelsUser::updateOrCreate(
         ['email' => 'admin@example.com'],
         [
             'name' => 'Store Admin',
@@ -61,7 +61,7 @@ Open a second PowerShell terminal from the repository root:
     npm install
     npm run dev
 
-Open the URL printed by Vite (normally http://127.0.0.1:5173) and sign in with the administrator account. Keep the host consistent: use 127.0.0.1 for both admin and API, or localhost for both. The default CORS and Sanctum settings support both local origins.
+Open http://127.0.0.1:5174 (the configured Vite port) and sign in with the administrator account. Keep the host consistent: use 127.0.0.1 for both admin and API, or localhost for both. The default CORS and Sanctum settings support both local origins.
 
 ## Admin API
 
