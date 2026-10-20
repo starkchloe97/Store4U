@@ -1,38 +1,58 @@
-# Store4U Laravel API
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
-This folder marks the backend location; the Laravel framework itself must be installed locally before this is a runnable Laravel app.
+<p align="center">
+<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+</p>
 
-## Install Laravel
+## About Laravel
 
-Because this folder already contains this README, create Laravel in a temporary sibling folder, then copy its generated files into `backend/`:
+Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
-```powershell
-composer create-project laravel/laravel backend-install
-robocopy backend-install backend /E /XD .git
-cd backend
-php artisan --version
-php artisan install:api
+- [Simple, fast routing engine](https://laravel.com/docs/routing).
+- [Powerful dependency injection container](https://laravel.com/docs/container).
+- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
+- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
+- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
+- [Robust background job processing](https://laravel.com/docs/queues).
+- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+
+Laravel is accessible, powerful, and provides tools required for large, robust applications.
+
+## Learning Laravel
+
+Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+
+In addition, [Laracasts](https://laracasts.com) contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+
+You can also watch bite-sized lessons with real-world projects on [Laravel Learn](https://laravel.com/learn), where you will be guided through building a Laravel application from scratch while learning PHP fundamentals.
+
+## Agentic Development
+
+Laravel's predictable structure and conventions make it ideal for AI coding agents like Claude Code, Cursor, and GitHub Copilot. Install [Laravel Boost](https://laravel.com/docs/ai) to supercharge your AI workflow:
+
+```bash
+composer require laravel/boost --dev
+
+php artisan boost:install
 ```
 
-Review the copy output and preserve this README. If API scaffolding/Sanctum is already present, inspect the generated files rather than repeating installation.
+Boost provides your agent 15+ tools and skills that help agents build Laravel applications while following best practices.
 
-## Safe database setup
+## Contributing
 
-For initial development, configure a separate MySQL database such as `store4u_admin_dev`. Do not point migrations at the existing storefront database until it is backed up and reviewed. Never run `migrate:fresh` or `db:wipe` against a database containing orders.
+Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
 
-Configure Sanctum's stateful domains and credentialed CORS for the exact storefront/admin origins. Use consistent hostnames (`localhost` vs `127.0.0.1`) and HTTPS/secure cookies in production.
+## Code of Conduct
 
-## Planned API (`/api/v1`)
+In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
 
-- `GET /admin/dashboard`
-- `GET|POST /admin/products`
-- `GET|PUT|DELETE /admin/products/{product}`
-- `GET /admin/orders` and `GET /admin/orders/{order}`
-- `PATCH /admin/orders/{order}/status`
-- `GET /admin/customers`
+## Security Vulnerabilities
 
-Protect admin endpoints with authentication and an explicit admin authorization check. Use Form Requests for validation and API Resources for response formatting.
+If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
 
-## Preserve existing data
+## License
 
-The current catalog is in `frontend/src/data/catalog.js`; existing orders are stored in `store_orders` and `store_order_items`. Back up and inspect the current schema before writing migrations. Import the catalog to database-backed products, preserve SKUs/images, and have Laravel calculate prices, shipping and totals server-side. Never trust prices submitted by the browser. Keep `frontend/public/api/submit.php` operational until the replacement checkout has passed staging parity and rollback tests. The current checkout records orders; it does not charge cards, reserve stock, or confirm fulfillment.
+The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
