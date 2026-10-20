@@ -5,7 +5,7 @@ import PageHero from '@/components/shared/PageHero.vue';
 import { useStorefront } from '@/composables/useStorefront.js';
 import { money } from '@/utils/catalog.js';
 import { SITE_PHONE } from '@/config/siteInfo.js';
-import { submitSiteForm, collectTracking } from '@/utils/formSubmission.js';
+import { submitSiteForm } from '@/utils/formSubmission.js';
 
 const router = useRouter();
 const { cartItems, cartCount, cartSubtotal, clearCart, saveLastOrder, shippingFor } = useStorefront();
@@ -76,7 +76,6 @@ async function placeOrder() {
       items: order.items,
       notes: form.notes.trim(),
       accepted_terms: form.agree,
-      tracking: collectTracking()
     });
     order.number = result.order_number;
     order.subtotal = Number(result.subtotal);
