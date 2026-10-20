@@ -1,58 +1,81 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# Store4U Laravel API
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+This is the active Laravel backend for Store4U. The admin SPA lives in admin/; the public storefront remains in frontend/.
 
-## About Laravel
+## Requirements
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+- PHP 8.3+
+- Composer
+- MySQL 8+ (or compatible MySQL/MariaDB)
+- Node.js 20+ for the admin SPA
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+## 1. Configure the database
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+From the repository root, create a MySQL database (for example store4u) if you do not already have one. If your existing order tables are in another database, use that database name instead so those orders remain available.
 
-## Learning Laravel
+    cd backend
+    Copy-Item .env.example .env
+    composer install
+    php artisan key:generate
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+Edit backend/.env and set DB_DATABASE, DB_USERNAME, and DB_PASSWORD for your local MySQL connection. Do not commit .env.
 
-In addition, [Laracasts](https://laracasts.com) contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+## 2. Run migrations and import the current catalog
 
-You can also watch bite-sized lessons with real-world projects on [Laravel Learn](https://laravel.com/learn), where you will be guided through building a Laravel application from scratch while learning PHP fundamentals.
+    php artisan migrate
+    php artisan db:seed
 
-## Agentic Development
+The migrations add product fields and the is_admin flag. The orders migration creates store_orders and store_order_items only when they do not already exist. Its rollback intentionally does not drop these legacy order tables because they may contain real customer orders.
 
-Laravel's predictable structure and conventions make it ideal for AI coding agents like Claude Code, Cursor, and GitHub Copilot. Install [Laravel Boost](https://laravel.com/docs/ai) to supercharge your AI workflow:
+The catalog seeder imports products from ../frontend/src/data/catalog.js using each product's item as its SKU. It only inserts missing SKUs; re-running it will not overwrite product edits already made in the admin.
 
-```bash
-composer require laravel/boost --dev
+## 3. Create an administrator account
 
-php artisan boost:install
-```
+Run:
 
-Boost provides your agent 15+ tools and skills that help agents build Laravel applications while following best practices.
+    php artisan tinker
 
-## Contributing
+Then enter this in Tinker, replacing the example email and password with your own:
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+    App\Models\User::updateOrCreate(
+        ['email' => 'admin@example.com'],
+        [
+            'name' => 'Store Admin',
+            'password' => 'Replace-With-A-Strong-Password-123!',
+            'is_admin' => true,
+        ]
+    );
 
-## Code of Conduct
+The model hashes the password automatically. Only users with is_admin = true can access the admin API.
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+## 4. Start Laravel
 
-## Security Vulnerabilities
+    php artisan serve --host=127.0.0.1 --port=8000
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+## 5. Start the admin SPA
 
-## License
+Open a second PowerShell terminal from the repository root:
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+    cd admin
+    Copy-Item .env.example .env.local
+    npm install
+    npm run dev
+
+Open the URL printed by Vite (normally http://127.0.0.1:5173) and sign in with the administrator account. Keep the host consistent: use 127.0.0.1 for both admin and API, or localhost for both. The default CORS and Sanctum settings support both local origins.
+
+## Admin API
+
+All routes are under /api/v1/admin.
+
+- POST /login, GET /me, POST /logout
+- GET /dashboard
+- GET|POST /products, GET|PUT|PATCH|DELETE /products/{product}
+- GET /orders, GET /orders/{order}, PATCH /orders/{order}/status
+
+The API uses Sanctum's stateful session authentication and CSRF protection. Admin routes also check the is_admin flag.
+
+## Current boundaries
+
+- Product edits are stored in the Laravel products table. The storefront currently renders its local catalog from frontend/src/data/catalog.js; connecting the storefront to the public products API is a separate integration step.
+- Order status updates modify the existing store_orders.status field. They do not capture payment, reserve stock, send shipping labels, or trigger fulfillment.
+- Keep database backups before production migrations. Never use migrate:fresh against a database that contains real orders.
