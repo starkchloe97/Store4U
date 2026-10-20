@@ -9,7 +9,7 @@ Standalone Vue 3 admin SPA for Store4U. The storefront is in frontend/, this adm
     npm install
     npm run dev
 
-Open the URL printed by Vite (normally http://127.0.0.1:5173). The API base defaults to http://127.0.0.1:8000/api/v1; override it in .env.local using VITE_API_BASE_URL.
+Open http://127.0.0.1:5174. The API base defaults to http://127.0.0.1:8000/api/v1; override it in .env.local using VITE_API_BASE_URL.
 
 ## Working features
 
